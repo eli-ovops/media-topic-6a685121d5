@@ -1,0 +1,1450 @@
+{
+  "status": "ARCHIVED_STATIC_DEPENDENCY_CHECK_PASSED",
+  "archived_at": "2026-10-17T13:22:03.330Z",
+  "plan_sha256": "72204c4a7415578f18d17e3ec41605b2814d4a29aaad542b2ed0037fa6e72a50",
+  "logical_counts": {
+    "source_versions": 53,
+    "json_versions": 30,
+    "snapshot_mappings": 40,
+    "incomplete_media_unique_files": 6,
+    "current_build_reference_files": 6,
+    "current_source_supplemental_files": 1
+  },
+  "supplemental_source_files": [
+    {
+      "source": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera/src/codex-vendor/components/FullscreenVideoWindow.tsx",
+      "archive_path": "/Volumes/EXTERNAL/自媒体/资产库/制作历史/Remotion历史版本-20261017/current-source-supplements/1a98c1d7d12d51872df94e52a4e4fa55a6ed023157610272e07489c9399db7e2/FullscreenVideoWindow.tsx",
+      "sha256": "1a98c1d7d12d51872df94e52a4e4fa55a6ed023157610272e07489c9399db7e2",
+      "bytes": 1285,
+      "provenance": "Current preserved project helper; omitted from source maps. Historical identity not established."
+    }
+  ],
+  "unresolved_static_dependencies": [],
+  "source_temp_paths": [
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-0BRlFB",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-6C0vFA",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-866SaP",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-9Ifqe4",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-Aq8gcc",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-BzhTby",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-CNR5fE",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-DY9kiL",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-G8AgK2",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-GETloK",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-HDWyMc",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-I75K1d",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-NrR6Dn",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-NxHiP3",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-QHgG2Z",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-Qo5RDb",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-RqKyRa",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-TxxvZU",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-YBYRBe",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-Yyqju7",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-c9ycWl",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-cKtkjd",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-cdivIg",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-d57xhd",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-fOwQqy",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-h0zunl",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-hCeSGo",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-jI7e98",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-lZjOdD",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-mcWWi3",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-nRfmQD",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-qOzqaG",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-qR63sb",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-qZRbQK",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-sET6RQ",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-tr4Az7",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-uJVmxZ",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-vtpr9j",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-wof2rb",
+    "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-zDPA3B"
+  ],
+  "files": [
+    {
+      "relative_path": "archive-owner.json",
+      "bytes": 280,
+      "sha256": "dca46d837362fceea2cb40bf3eef81741dff44ffaad3b8f9ff0b11e6d993a831",
+      "roles": [
+        "ownership"
+      ]
+    },
+    {
+      "relative_path": "current-build-reference/fred/package-lock.json",
+      "bytes": 116407,
+      "sha256": "63ab1c89408ad547b42454503634dc6aa88f52ed0f6914a98d1df2783a5353f2",
+      "roles": [
+        "current-build-reference-not-proven-historical"
+      ]
+    },
+    {
+      "relative_path": "current-build-reference/fred/package.json",
+      "bytes": 368,
+      "sha256": "805597992a9c6a897a3f7fdcab3191ffbeebd4610b0468a994b3db7b266ccbda",
+      "roles": [
+        "current-build-reference-not-proven-historical"
+      ]
+    },
+    {
+      "relative_path": "current-build-reference/fred/tsconfig.json",
+      "bytes": 242,
+      "sha256": "6741b186a5057ac5c57343a2ec889ccd197510f4e80f55eac71b9eafd24d00a4",
+      "roles": [
+        "current-build-reference-not-proven-historical"
+      ]
+    },
+    {
+      "relative_path": "current-build-reference/qianwen/package.json",
+      "bytes": 311,
+      "sha256": "cf0892be2814c49ab271148cbf6db6e736deaa8e239c92582182039b2e22e031",
+      "roles": [
+        "current-build-reference-not-proven-historical"
+      ]
+    },
+    {
+      "relative_path": "current-build-reference/qianwen/remotion.config.ts",
+      "bytes": 324,
+      "sha256": "13424bff11eab9af0620d2c37cc71cf515d796da16cb18ec84098847f6944c59",
+      "roles": [
+        "current-build-reference-not-proven-historical"
+      ]
+    },
+    {
+      "relative_path": "current-build-reference/qianwen/tsconfig.json",
+      "bytes": 220,
+      "sha256": "30640ffa4c36788091f6c2df066bfba951031938c8d939067f3fb70eef614dbc",
+      "roles": [
+        "current-build-reference-not-proven-historical"
+      ]
+    },
+    {
+      "relative_path": "current-source-supplement-catalog.json",
+      "bytes": 630,
+      "sha256": "a8ef1de277352f3c9b12b7d2a4e1ac300d3cafb460873c9ab83db89d4137e036",
+      "roles": [
+        "current-source-supplement-catalog"
+      ]
+    },
+    {
+      "relative_path": "current-source-supplements/1a98c1d7d12d51872df94e52a4e4fa55a6ed023157610272e07489c9399db7e2/FullscreenVideoWindow.tsx",
+      "bytes": 1285,
+      "sha256": "1a98c1d7d12d51872df94e52a4e4fa55a6ed023157610272e07489c9399db7e2",
+      "roles": [
+        "current-source-supplement-not-proven-historical"
+      ]
+    },
+    {
+      "relative_path": "incomplete-media-catalog.json",
+      "bytes": 3988,
+      "sha256": "b82d80ab6e1147223609c5c70cf3602020a4851ddda6fd0f9873794ba546b8ed",
+      "roles": [
+        "incomplete-media-catalog"
+      ]
+    },
+    {
+      "relative_path": "incomplete-media-evidence/29f548ca2e13eeaf01329e7bce0f1e7884b248fc851acc8aa6eb05c78501e3af/S13-recorded-background-full-r3b.mp4",
+      "bytes": 786480,
+      "sha256": "29f548ca2e13eeaf01329e7bce0f1e7884b248fc851acc8aa6eb05c78501e3af",
+      "roles": [
+        "incomplete-media-evidence-not-playable"
+      ]
+    },
+    {
+      "relative_path": "incomplete-media-evidence/38390a75598c3054706f6651875f2b328c4d8eb4dc574f7fa85727a0e179da50/S04-recorded-background-r2.mp4",
+      "bytes": 3670064,
+      "sha256": "38390a75598c3054706f6651875f2b328c4d8eb4dc574f7fa85727a0e179da50",
+      "roles": [
+        "incomplete-media-evidence-not-playable"
+      ]
+    },
+    {
+      "relative_path": "incomplete-media-evidence/64d52708f594e8a1a3a4f76deef7275c8ad5184480c9473d8f60a0c9b6f4628b/S18-recorded-background-r2.mp4",
+      "bytes": 48,
+      "sha256": "64d52708f594e8a1a3a4f76deef7275c8ad5184480c9473d8f60a0c9b6f4628b",
+      "roles": [
+        "incomplete-media-evidence-not-playable"
+      ]
+    },
+    {
+      "relative_path": "incomplete-media-evidence/8ee1891449627a77510bad863d0ae6190843aac14a632597dc3027d194045c46/S04-recorded-background-r2.mp4",
+      "bytes": 2097200,
+      "sha256": "8ee1891449627a77510bad863d0ae6190843aac14a632597dc3027d194045c46",
+      "roles": [
+        "incomplete-media-evidence-not-playable"
+      ]
+    },
+    {
+      "relative_path": "incomplete-media-evidence/bdd064d09e371ef2e70dea1098ec2c9e9c2751361fbadefa8f2ee75c26375479/S13-recorded-background-r2.mp4",
+      "bytes": 262192,
+      "sha256": "bdd064d09e371ef2e70dea1098ec2c9e9c2751361fbadefa8f2ee75c26375479",
+      "roles": [
+        "incomplete-media-evidence-not-playable"
+      ]
+    },
+    {
+      "relative_path": "incomplete-media-evidence/db7e4981f6798e36b23cf81d807e0c1e081b688333700a49c399594325aa2ee9/S18-recorded-background-r2.mp4",
+      "bytes": 262192,
+      "sha256": "db7e4981f6798e36b23cf81d807e0c1e081b688333700a49c399594325aa2ee9",
+      "roles": [
+        "incomplete-media-evidence-not-playable"
+      ]
+    },
+    {
+      "relative_path": "json-catalog.json",
+      "bytes": 70371,
+      "sha256": "e1e9e80e3ee1ea51b4ea3503c0933bb9c7c65f50b8adb487c79e3db99dc9e3d5",
+      "roles": [
+        "json-catalog"
+      ]
+    },
+    {
+      "relative_path": "json-objects/028b64c6085373a9fc7b5cf31cfb4069a3e114b65accdcc2234bcdf86852a883/assets.json",
+      "bytes": 532,
+      "sha256": "028b64c6085373a9fc7b5cf31cfb4069a3e114b65accdcc2234bcdf86852a883",
+      "roles": [
+        "structured-json-DIFFERENT_STRUCTURED_VALUE"
+      ]
+    },
+    {
+      "relative_path": "json-objects/0c9bb63295e1ae40bf334adbf8d3b79a829a4c2988d698790e83621456997444/ReplicaArrowFullR4.json",
+      "bytes": 1740735,
+      "sha256": "0c9bb63295e1ae40bf334adbf8d3b79a829a4c2988d698790e83621456997444",
+      "roles": [
+        "structured-json-DIFFERENT_STRUCTURED_VALUE"
+      ]
+    },
+    {
+      "relative_path": "json-objects/2cbf068dc54a5128dee52fb8bd2a78bf4096c799e7f60c74fd4a1a7a65ab6c8b/reproduction-contract.json",
+      "bytes": 63723,
+      "sha256": "2cbf068dc54a5128dee52fb8bd2a78bf4096c799e7f60c74fd4a1a7a65ab6c8b",
+      "roles": [
+        "structured-json-DIFFERENT_STRUCTURED_VALUE"
+      ]
+    },
+    {
+      "relative_path": "json-objects/36f0b69e916bc99c035989c131615e9818f81579e50725d718b67c968a8cc744/ReplicaArrowFullR4.json",
+      "bytes": 1909539,
+      "sha256": "36f0b69e916bc99c035989c131615e9818f81579e50725d718b67c968a8cc744",
+      "roles": [
+        "structured-json-DIFFERENT_STRUCTURED_VALUE"
+      ]
+    },
+    {
+      "relative_path": "json-objects/3dacc5ac3bcfdb5ff9e0964817f8d56d8e8f37d0e905185e765df9ab3795a0ef/ReplicaTerminalR4.motion.json",
+      "bytes": 743,
+      "sha256": "3dacc5ac3bcfdb5ff9e0964817f8d56d8e8f37d0e905185e765df9ab3795a0ef",
+      "roles": [
+        "structured-json-SAME_STRUCTURED_VALUE"
+      ]
+    },
+    {
+      "relative_path": "json-objects/44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a/manifest.json",
+      "bytes": 2,
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "roles": [
+        "structured-json-SUBSET_OF_CURRENT_JSON"
+      ]
+    },
+    {
+      "relative_path": "json-objects/4ee5fd99ec67feb327297aa10583c8acbe1a2469be70870aff7199ea5750819f/captions.json",
+      "bytes": 1431,
+      "sha256": "4ee5fd99ec67feb327297aa10583c8acbe1a2469be70870aff7199ea5750819f",
+      "roles": [
+        "structured-json-DIFFERENT_STRUCTURED_VALUE"
+      ]
+    },
+    {
+      "relative_path": "json-objects/57d57caccdce80d9a0d69e043c62a3cf9557d330e0d4b2df8d802fc9229221e2/ReplicaOutputFullR3.tracks.json",
+      "bytes": 201577,
+      "sha256": "57d57caccdce80d9a0d69e043c62a3cf9557d330e0d4b2df8d802fc9229221e2",
+      "roles": [
+        "structured-json-SAME_STRUCTURED_VALUE"
+      ]
+    },
+    {
+      "relative_path": "json-objects/67f28ae84e063af5b81634b759bbb446a1b1ef370cb49f4b9a806585e5f59fb5/reproduction-contract.json",
+      "bytes": 81152,
+      "sha256": "67f28ae84e063af5b81634b759bbb446a1b1ef370cb49f4b9a806585e5f59fb5",
+      "roles": [
+        "structured-json-DIFFERENT_STRUCTURED_VALUE"
+      ]
+    },
+    {
+      "relative_path": "json-objects/8d73481c2deda987882e92e4a26b72fd7f7a2563d20622886e58c55256d9daa2/continuity-fit.json",
+      "bytes": 1314,
+      "sha256": "8d73481c2deda987882e92e4a26b72fd7f7a2563d20622886e58c55256d9daa2",
+      "roles": [
+        "structured-json-DIFFERENT_STRUCTURED_VALUE"
+      ]
+    },
+    {
+      "relative_path": "json-objects/90346e8a9d9f8cae34c0b917b3da73025ab40ab8756f8259eab45dcf838d44e9/reproduction-contract.json",
+      "bytes": 63689,
+      "sha256": "90346e8a9d9f8cae34c0b917b3da73025ab40ab8756f8259eab45dcf838d44e9",
+      "roles": [
+        "structured-json-DIFFERENT_STRUCTURED_VALUE"
+      ]
+    },
+    {
+      "relative_path": "json-objects/9409e8be3ecb0fe3eb6a2ada52e322e1727b12cd834602404bf90e02c6991890/ReplicaWallFullR3.inputs.json",
+      "bytes": 11415,
+      "sha256": "9409e8be3ecb0fe3eb6a2ada52e322e1727b12cd834602404bf90e02c6991890",
+      "roles": [
+        "structured-json-SAME_STRUCTURED_VALUE"
+      ]
+    },
+    {
+      "relative_path": "json-objects/958c5f8e7e7a50cc29349e8af920b6adbe2bdc2b2f82a3e7373108746e38c7d8/render-geometry.json",
+      "bytes": 8832,
+      "sha256": "958c5f8e7e7a50cc29349e8af920b6adbe2bdc2b2f82a3e7373108746e38c7d8",
+      "roles": [
+        "structured-json-DIFFERENT_STRUCTURED_VALUE"
+      ]
+    },
+    {
+      "relative_path": "json-objects/98d59c7093c11602a3371eb857703d0be39e0e0221132f3d6bf84302bb2aaf70/reproduction-contract.json",
+      "bytes": 109252,
+      "sha256": "98d59c7093c11602a3371eb857703d0be39e0e0221132f3d6bf84302bb2aaf70",
+      "roles": [
+        "structured-json-DIFFERENT_STRUCTURED_VALUE"
+      ]
+    },
+    {
+      "relative_path": "json-objects/9a7bcdcbacc060f7dc0fcfc0dcc73517512fad8fcfed2c8a96c70185dc206cfa/ReplicaWallEntitiesFullR3.data.json",
+      "bytes": 10340,
+      "sha256": "9a7bcdcbacc060f7dc0fcfc0dcc73517512fad8fcfed2c8a96c70185dc206cfa",
+      "roles": [
+        "structured-json-DIFFERENT_STRUCTURED_VALUE"
+      ]
+    },
+    {
+      "relative_path": "json-objects/9db1087ed1c8ff50b18cccb5e1ab5a1a81b6212c4bd15545bdec2421f8bca54c/reproduction-contract.json",
+      "bytes": 109134,
+      "sha256": "9db1087ed1c8ff50b18cccb5e1ab5a1a81b6212c4bd15545bdec2421f8bca54c",
+      "roles": [
+        "structured-json-DIFFERENT_STRUCTURED_VALUE"
+      ]
+    },
+    {
+      "relative_path": "json-objects/ab8e19ae5d687b5878ec38f83e8a7763918ae73d2de3ed581bb922f6d0535fe5/continuity-fit.json",
+      "bytes": 3767,
+      "sha256": "ab8e19ae5d687b5878ec38f83e8a7763918ae73d2de3ed581bb922f6d0535fe5",
+      "roles": [
+        "structured-json-DIFFERENT_STRUCTURED_VALUE"
+      ]
+    },
+    {
+      "relative_path": "json-objects/b5b4fcfb78a8f3095cb58fa812fe4e0d2218884b93f9286b5a51081469d82de7/captions.json",
+      "bytes": 1238,
+      "sha256": "b5b4fcfb78a8f3095cb58fa812fe4e0d2218884b93f9286b5a51081469d82de7",
+      "roles": [
+        "structured-json-SAME_STRUCTURED_VALUE"
+      ]
+    },
+    {
+      "relative_path": "json-objects/bcea502bef20cb60931a23f630154b379bfab50ac80cfa8bbd9dddfc708a6687/ReplicaWallDrawing.motion.json",
+      "bytes": 28421,
+      "sha256": "bcea502bef20cb60931a23f630154b379bfab50ac80cfa8bbd9dddfc708a6687",
+      "roles": [
+        "structured-json-SAME_STRUCTURED_VALUE"
+      ]
+    },
+    {
+      "relative_path": "json-objects/c09b0bd5fb502941c0d75437ee1f51c3ffb88f4fa0ee4d10267275486cfe8252/reproduction-contract.json",
+      "bytes": 137060,
+      "sha256": "c09b0bd5fb502941c0d75437ee1f51c3ffb88f4fa0ee4d10267275486cfe8252",
+      "roles": [
+        "structured-json-SAME_STRUCTURED_VALUE"
+      ]
+    },
+    {
+      "relative_path": "json-objects/c1609e1cdf3a08a2c8914be0aa01b4bf786d22f6c85a25ba55a4aeee56f9b12d/reproduction-contract.json",
+      "bytes": 96683,
+      "sha256": "c1609e1cdf3a08a2c8914be0aa01b4bf786d22f6c85a25ba55a4aeee56f9b12d",
+      "roles": [
+        "structured-json-DIFFERENT_STRUCTURED_VALUE"
+      ]
+    },
+    {
+      "relative_path": "json-objects/c65b5f0dee951b58be8ce71091597a0acd6947734a97e2b67333181efb793da9/ReplicaCompareR4.tracks.json",
+      "bytes": 20059,
+      "sha256": "c65b5f0dee951b58be8ce71091597a0acd6947734a97e2b67333181efb793da9",
+      "roles": [
+        "structured-json-SAME_STRUCTURED_VALUE"
+      ]
+    },
+    {
+      "relative_path": "json-objects/c96148571b9d0808b1d51c7b7bf9314085659a8420faedd243ef0a17e492cd5a/ReplicaGlyphsFullR4.tracks.json",
+      "bytes": 21211,
+      "sha256": "c96148571b9d0808b1d51c7b7bf9314085659a8420faedd243ef0a17e492cd5a",
+      "roles": [
+        "structured-json-DIFFERENT_STRUCTURED_VALUE"
+      ]
+    },
+    {
+      "relative_path": "json-objects/d02488ed064eb1f71f7d3be38415a22ad6604355dc2aa8334daeb2528238ec4b/ReplicaTerminalR3.tracks.json",
+      "bytes": 8543,
+      "sha256": "d02488ed064eb1f71f7d3be38415a22ad6604355dc2aa8334daeb2528238ec4b",
+      "roles": [
+        "structured-json-SAME_STRUCTURED_VALUE"
+      ]
+    },
+    {
+      "relative_path": "json-objects/d63b29603f031ac08ab3a8a191c53242e25a18ed4a6e1b15da27ab43a8401fb8/reproduction-contract.json",
+      "bytes": 81249,
+      "sha256": "d63b29603f031ac08ab3a8a191c53242e25a18ed4a6e1b15da27ab43a8401fb8",
+      "roles": [
+        "structured-json-DIFFERENT_STRUCTURED_VALUE"
+      ]
+    },
+    {
+      "relative_path": "json-objects/dcbd2bd9e474e62017bede6beadfd74f8689445cb424113e7bad703c8a6697b7/ReplicaGalleryFullR3.tracks.json",
+      "bytes": 21283,
+      "sha256": "dcbd2bd9e474e62017bede6beadfd74f8689445cb424113e7bad703c8a6697b7",
+      "roles": [
+        "structured-json-SAME_STRUCTURED_VALUE"
+      ]
+    },
+    {
+      "relative_path": "json-objects/ef9111b97b41d506a71a14f980bdbff69032b602330aa67555f59367f8f9f915/card-entry-alpha.json",
+      "bytes": 906,
+      "sha256": "ef9111b97b41d506a71a14f980bdbff69032b602330aa67555f59367f8f9f915",
+      "roles": [
+        "structured-json-DIFFERENT_STRUCTURED_VALUE"
+      ]
+    },
+    {
+      "relative_path": "json-objects/fc818823dd7e77d3128a13a595cf2c5e90f6fae1e5ea98d9c154a4859d586c1c/ReplicaTerminalR5.fade.json",
+      "bytes": 754,
+      "sha256": "fc818823dd7e77d3128a13a595cf2c5e90f6fae1e5ea98d9c154a4859d586c1c",
+      "roles": [
+        "structured-json-SAME_STRUCTURED_VALUE"
+      ]
+    },
+    {
+      "relative_path": "json-objects/fc9911adeae56c0fe605c80ec9d6e8625d7abfcc8f3e5d666d8d33ef38a36ab1/manifest.json",
+      "bytes": 5344,
+      "sha256": "fc9911adeae56c0fe605c80ec9d6e8625d7abfcc8f3e5d666d8d33ef38a36ab1",
+      "roles": [
+        "structured-json-DIFFERENT_STRUCTURED_VALUE"
+      ]
+    },
+    {
+      "relative_path": "json-objects/fefb2d1947cf311d7fd287d4b6935c65270cac684b10d1ac67ae5ad4f0f484d0/reproduction-contract.json",
+      "bytes": 135618,
+      "sha256": "fefb2d1947cf311d7fd287d4b6935c65270cac684b10d1ac67ae5ad4f0f484d0",
+      "roles": [
+        "structured-json-SUBSET_OF_CURRENT_JSON"
+      ]
+    },
+    {
+      "relative_path": "raw-json-expressions/09de65e797752dc147e6f8b81950cf71ec5fed73b5fce8997be3f57363d91be9.txt",
+      "bytes": 8846,
+      "sha256": "09de65e797752dc147e6f8b81950cf71ec5fed73b5fce8997be3f57363d91be9",
+      "roles": [
+        "raw-inert-json-expression"
+      ]
+    },
+    {
+      "relative_path": "raw-json-expressions/16996bc71f891acbfdf7365d03771704764f66ac05d4e955370cb6f34c4f7f8c.txt",
+      "bytes": 63737,
+      "sha256": "16996bc71f891acbfdf7365d03771704764f66ac05d4e955370cb6f34c4f7f8c",
+      "roles": [
+        "raw-inert-json-expression"
+      ]
+    },
+    {
+      "relative_path": "raw-json-expressions/186384315d3dcfad59226f220bf0ba4b58fc82fce98230095b2506a230fd59a1.txt",
+      "bytes": 109148,
+      "sha256": "186384315d3dcfad59226f220bf0ba4b58fc82fce98230095b2506a230fd59a1",
+      "roles": [
+        "raw-inert-json-expression"
+      ]
+    },
+    {
+      "relative_path": "raw-json-expressions/1b5d6b4d416dfc02682344de472eaf326f49dd0618b2855acd724e90bf38a3d6.txt",
+      "bytes": 1909553,
+      "sha256": "1b5d6b4d416dfc02682344de472eaf326f49dd0618b2855acd724e90bf38a3d6",
+      "roles": [
+        "raw-inert-json-expression"
+      ]
+    },
+    {
+      "relative_path": "raw-json-expressions/298c10940e1eb6ef5d4f708feaf8df4ab22ae82f49f947d691cc797de0915f83.txt",
+      "bytes": 81166,
+      "sha256": "298c10940e1eb6ef5d4f708feaf8df4ab22ae82f49f947d691cc797de0915f83",
+      "roles": [
+        "raw-inert-json-expression"
+      ]
+    },
+    {
+      "relative_path": "raw-json-expressions/2a42bfabbec174c8b03d14a4bc800df651b2d23b45ae9867cb2f531d9d1aed8e.txt",
+      "bytes": 5358,
+      "sha256": "2a42bfabbec174c8b03d14a4bc800df651b2d23b45ae9867cb2f531d9d1aed8e",
+      "roles": [
+        "raw-inert-json-expression"
+      ]
+    },
+    {
+      "relative_path": "raw-json-expressions/2f1ce4b78514b01b9b72c0f78893a379460c9f3b09445c03c40d373b246bf865.txt",
+      "bytes": 10354,
+      "sha256": "2f1ce4b78514b01b9b72c0f78893a379460c9f3b09445c03c40d373b246bf865",
+      "roles": [
+        "raw-inert-json-expression"
+      ]
+    },
+    {
+      "relative_path": "raw-json-expressions/3ada01c43a8677a03435f9d67611c4dff60db94b1b7ed6fb7323db35682007e2.txt",
+      "bytes": 920,
+      "sha256": "3ada01c43a8677a03435f9d67611c4dff60db94b1b7ed6fb7323db35682007e2",
+      "roles": [
+        "raw-inert-json-expression"
+      ]
+    },
+    {
+      "relative_path": "raw-json-expressions/44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a.txt",
+      "bytes": 2,
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "roles": [
+        "raw-inert-json-expression"
+      ]
+    },
+    {
+      "relative_path": "raw-json-expressions/4dfb6d2e45e7f51e78bc627ce6d9a07c8b933948d342374145365f2dbe39870b.txt",
+      "bytes": 1740749,
+      "sha256": "4dfb6d2e45e7f51e78bc627ce6d9a07c8b933948d342374145365f2dbe39870b",
+      "roles": [
+        "raw-inert-json-expression"
+      ]
+    },
+    {
+      "relative_path": "raw-json-expressions/5ea0040a517030598edc1e13025bd3aa456f7d82d9237a04d658782e2df8b365.txt",
+      "bytes": 96697,
+      "sha256": "5ea0040a517030598edc1e13025bd3aa456f7d82d9237a04d658782e2df8b365",
+      "roles": [
+        "raw-inert-json-expression"
+      ]
+    },
+    {
+      "relative_path": "raw-json-expressions/6e393c64f79aed22ced9799be99926a355e9acf075e99a3faca17a57f73e5f39.txt",
+      "bytes": 63703,
+      "sha256": "6e393c64f79aed22ced9799be99926a355e9acf075e99a3faca17a57f73e5f39",
+      "roles": [
+        "raw-inert-json-expression"
+      ]
+    },
+    {
+      "relative_path": "raw-json-expressions/6ed824ca1d88be2dd6e606aacd564b52fbcc470965ddf1ba520d2fbbaae82ca6.txt",
+      "bytes": 8557,
+      "sha256": "6ed824ca1d88be2dd6e606aacd564b52fbcc470965ddf1ba520d2fbbaae82ca6",
+      "roles": [
+        "raw-inert-json-expression"
+      ]
+    },
+    {
+      "relative_path": "raw-json-expressions/7b736a4256fbe0f0f0fd0f2c2b131eab96d46c19f082d5d61aef6460c6a31289.txt",
+      "bytes": 1328,
+      "sha256": "7b736a4256fbe0f0f0fd0f2c2b131eab96d46c19f082d5d61aef6460c6a31289",
+      "roles": [
+        "raw-inert-json-expression"
+      ]
+    },
+    {
+      "relative_path": "raw-json-expressions/8b6572e297a813aea491721f54527dcf91481d9c3d58154c261d9f96ab4a7f65.txt",
+      "bytes": 135632,
+      "sha256": "8b6572e297a813aea491721f54527dcf91481d9c3d58154c261d9f96ab4a7f65",
+      "roles": [
+        "raw-inert-json-expression"
+      ]
+    },
+    {
+      "relative_path": "raw-json-expressions/8e50ac53ce4998660e21a89edbe9fad2c796e479011ddd510f5a50e65981e508.txt",
+      "bytes": 28435,
+      "sha256": "8e50ac53ce4998660e21a89edbe9fad2c796e479011ddd510f5a50e65981e508",
+      "roles": [
+        "raw-inert-json-expression"
+      ]
+    },
+    {
+      "relative_path": "raw-json-expressions/901a1de35376b086e5bd921a1494e871b0beecc102039e391e0ecefe80a40fde.txt",
+      "bytes": 201591,
+      "sha256": "901a1de35376b086e5bd921a1494e871b0beecc102039e391e0ecefe80a40fde",
+      "roles": [
+        "raw-inert-json-expression"
+      ]
+    },
+    {
+      "relative_path": "raw-json-expressions/942f1976aaacf9cd41cdbe0aead900cd4516627fe2a91fd6d8f1e6546c8ffb7f.txt",
+      "bytes": 81263,
+      "sha256": "942f1976aaacf9cd41cdbe0aead900cd4516627fe2a91fd6d8f1e6546c8ffb7f",
+      "roles": [
+        "raw-inert-json-expression"
+      ]
+    },
+    {
+      "relative_path": "raw-json-expressions/94cd37a05a409314fde499d6b242c9734b6e0441f3fe5e79431255e92b8fca68.txt",
+      "bytes": 768,
+      "sha256": "94cd37a05a409314fde499d6b242c9734b6e0441f3fe5e79431255e92b8fca68",
+      "roles": [
+        "raw-inert-json-expression"
+      ]
+    },
+    {
+      "relative_path": "raw-json-expressions/9ea622ab6ced8e7c1a7fae0f4a1dbebc2da627deb6835c55dd50523c60710e34.txt",
+      "bytes": 21225,
+      "sha256": "9ea622ab6ced8e7c1a7fae0f4a1dbebc2da627deb6835c55dd50523c60710e34",
+      "roles": [
+        "raw-inert-json-expression"
+      ]
+    },
+    {
+      "relative_path": "raw-json-expressions/a3336183837c7c7f096e1379fad350e04784281cc8cc31c001236596fb14c413.txt",
+      "bytes": 109266,
+      "sha256": "a3336183837c7c7f096e1379fad350e04784281cc8cc31c001236596fb14c413",
+      "roles": [
+        "raw-inert-json-expression"
+      ]
+    },
+    {
+      "relative_path": "raw-json-expressions/b0db1552edc1638829e8dcd5e052401dd9bce7e083d5fdb44a1b8ead4a1c6e56.txt",
+      "bytes": 20073,
+      "sha256": "b0db1552edc1638829e8dcd5e052401dd9bce7e083d5fdb44a1b8ead4a1c6e56",
+      "roles": [
+        "raw-inert-json-expression"
+      ]
+    },
+    {
+      "relative_path": "raw-json-expressions/b1080d5670f7e5825d3783f19fc2a364a171f6d89456043b3ac74d5bf8df86a2.txt",
+      "bytes": 21297,
+      "sha256": "b1080d5670f7e5825d3783f19fc2a364a171f6d89456043b3ac74d5bf8df86a2",
+      "roles": [
+        "raw-inert-json-expression"
+      ]
+    },
+    {
+      "relative_path": "raw-json-expressions/b88c5c2b4363251c4d0c1affc3219b6cd9b8abd14032339713454b165a412dfa.txt",
+      "bytes": 1445,
+      "sha256": "b88c5c2b4363251c4d0c1affc3219b6cd9b8abd14032339713454b165a412dfa",
+      "roles": [
+        "raw-inert-json-expression"
+      ]
+    },
+    {
+      "relative_path": "raw-json-expressions/bf821226ae66a1ff474574517b7fd3695e98acfd25cbb4866bf7adf5e40f866b.txt",
+      "bytes": 11429,
+      "sha256": "bf821226ae66a1ff474574517b7fd3695e98acfd25cbb4866bf7adf5e40f866b",
+      "roles": [
+        "raw-inert-json-expression"
+      ]
+    },
+    {
+      "relative_path": "raw-json-expressions/c1780f2e4b510c3224891cb20d7ae35cf4fcd64898f408845a7ba4426eb17895.txt",
+      "bytes": 137074,
+      "sha256": "c1780f2e4b510c3224891cb20d7ae35cf4fcd64898f408845a7ba4426eb17895",
+      "roles": [
+        "raw-inert-json-expression"
+      ]
+    },
+    {
+      "relative_path": "raw-json-expressions/c50dd430f80c1c4cb13535ca87bb227a60f58a6547815ba74ab4b216211a12a5.txt",
+      "bytes": 1252,
+      "sha256": "c50dd430f80c1c4cb13535ca87bb227a60f58a6547815ba74ab4b216211a12a5",
+      "roles": [
+        "raw-inert-json-expression"
+      ]
+    },
+    {
+      "relative_path": "raw-json-expressions/d4961b79ec2d6bc84b321996b22b3a223ec8fd010432d91dc12e8e0c96e32f65.txt",
+      "bytes": 757,
+      "sha256": "d4961b79ec2d6bc84b321996b22b3a223ec8fd010432d91dc12e8e0c96e32f65",
+      "roles": [
+        "raw-inert-json-expression"
+      ]
+    },
+    {
+      "relative_path": "raw-json-expressions/e248f3792ec4d9de8427334a6cd5a03e700919bd17646da41478280644b668bb.txt",
+      "bytes": 3781,
+      "sha256": "e248f3792ec4d9de8427334a6cd5a03e700919bd17646da41478280644b668bb",
+      "roles": [
+        "raw-inert-json-expression"
+      ]
+    },
+    {
+      "relative_path": "raw-json-expressions/ec1e855218ef7a827d45050ea3f55d937504ee7a9a4216eadfd9798a3000c329.txt",
+      "bytes": 546,
+      "sha256": "ec1e855218ef7a827d45050ea3f55d937504ee7a9a4216eadfd9798a3000c329",
+      "roles": [
+        "raw-inert-json-expression"
+      ]
+    },
+    {
+      "relative_path": "README.md",
+      "bytes": 1614,
+      "sha256": "b1c06bdc1ffd57c0c9dc3b19bd479f4e88e1ac757c19d76aaa88f542ae0587f5",
+      "roles": [
+        "archive-readme"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-0BRlFB.json",
+      "bytes": 166647,
+      "sha256": "f2968b8a0956410e2641b131109c13ef42065dd7eb987153d23d73800764e26b",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-6C0vFA.json",
+      "bytes": 7911,
+      "sha256": "acd50c26358437e0b4c7068ee368ac5156b6d82adf64f1e4ba7d66258512c4e5",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-866SaP.json",
+      "bytes": 114014,
+      "sha256": "8da130c582a3ac161114792c191c7961b577eef30157557aa371aa6b363e8082",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-9Ifqe4.json",
+      "bytes": 166647,
+      "sha256": "0e3c231e7e0c4d4a7451fa8bf23d6cff4ae919deb760f4184792bee9f50a9e2f",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-Aq8gcc.json",
+      "bytes": 194396,
+      "sha256": "b1b58e0d7dafe74218d0c4ff03bfca302b4b2c849f4f45d9c2528a57236000ad",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-BzhTby.json",
+      "bytes": 89383,
+      "sha256": "b8d548576b2e577481547526f4c37c397695091aad9643898d0563a22a363a05",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-c9ycWl.json",
+      "bytes": 194396,
+      "sha256": "0157912b224f77e039c6944bf5a2a75f8b2bb51c28e893a6d00865bf51c4fa49",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-cdivIg.json",
+      "bytes": 192471,
+      "sha256": "53e6161f696697c4d03c745eaa8c4f3aef3f56fd7a9100d63265cca9ea1a3baa",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-cKtkjd.json",
+      "bytes": 233106,
+      "sha256": "d7f7fa19ee2484548b497da4ea5bde9b6a2ea6131274ab214b0d00eed8906bed",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-CNR5fE.json",
+      "bytes": 88414,
+      "sha256": "db2f06f272d2e2ce8a0208c05317c800d914756ef9f8f2c6dbdafef6090e7848",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-d57xhd.json",
+      "bytes": 168572,
+      "sha256": "dbb5b0e5d68b886b32ff4a73c297c4824e43b8dfff0291b27bff6b1fe403c2a3",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-DY9kiL.json",
+      "bytes": 95546,
+      "sha256": "0fc6270c627ecabac78223f85d51b50cac8825073006422f05e866618041a9e5",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-fOwQqy.json",
+      "bytes": 6691,
+      "sha256": "9526f41a881a33d0390ab01bbb4d7b82da8161ec8082a3a746462b75ae700069",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-G8AgK2.json",
+      "bytes": 64950,
+      "sha256": "8a960e861ceda99a1182e246aad6ce0ef14c155840993cd2baadc530158fc5a6",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-GETloK.json",
+      "bytes": 99820,
+      "sha256": "e272752a7aecab03bc18b59f30e622a6c82ee54037ca4a58730b985a7e16cd68",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-h0zunl.json",
+      "bytes": 108091,
+      "sha256": "bd5eac764f0d0470775b091a28422e3559547836bd9bd0ce80ce1100187a04b8",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-hCeSGo.json",
+      "bytes": 24911,
+      "sha256": "12fb3f0c1eba5e51a955b77494acf38b4673d1e285f55813c8861023f5de4dc7",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-HDWyMc.json",
+      "bytes": 114014,
+      "sha256": "574acbb1dde91285c47920ceb9d2f9cb1271ad5f5f421d31b3a2c48719a0bd21",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-I75K1d.json",
+      "bytes": 233106,
+      "sha256": "a81dd71a7c699aac3465251f408617f541e52c2cb93de25525c96e95027b9765",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-jI7e98.json",
+      "bytes": 114245,
+      "sha256": "5e315e58878f7087796786655caf20267f025f5f9a7905783bf1cddcbc207d8d",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-lZjOdD.json",
+      "bytes": 198450,
+      "sha256": "de43ecfa212f821a6e97ba2c757f2e0b30edda37f512c9e402ae6f5ef003cfa2",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-mcWWi3.json",
+      "bytes": 89383,
+      "sha256": "9eb117f479d1cbdaf336b866456c1db0eac7c8e3b3d652a3e4af8299a6a7e1b2",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-nRfmQD.json",
+      "bytes": 102144,
+      "sha256": "87e339921031015f1ca0feb340e0e032e629a25beeae5cfc742b5d698af1c312",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-NrR6Dn.json",
+      "bytes": 192471,
+      "sha256": "31dee22e41ed2238db51f388404780ba4cd929d9349568337610da0bf0a3e192",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-NxHiP3.json",
+      "bytes": 23761,
+      "sha256": "ddac00cb29a024ab42ad6bc8039a9c59cf63b9f80942de4da9363debcae613de",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-QHgG2Z.json",
+      "bytes": 98473,
+      "sha256": "40c3a579dad786c6055cee92aee2c87676297ccce025577fabc176e48fc757a2",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-Qo5RDb.json",
+      "bytes": 7911,
+      "sha256": "02b5f5384fc2cac918daf52d2bc740b9058014bef17048310b7ad5d58fb0e13a",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-qOzqaG.json",
+      "bytes": 24911,
+      "sha256": "e17496e135bc99c1a14249df02ad7ff4134d8fd024efc46fb5a5937defcce55d",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-qR63sb.json",
+      "bytes": 6681,
+      "sha256": "f8faae0995b2e64bec443dfb533f03de51fcc5b710809c37690026de561c9c82",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-qZRbQK.json",
+      "bytes": 108091,
+      "sha256": "d3e90d9aba0c2c442bd1b620d4de0267202cc888f34b7b5ec0bea29c6de65d60",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-RqKyRa.json",
+      "bytes": 7911,
+      "sha256": "9a1d84f5749b76c029539ed5f2842186246763627f86bcb0c9b2850d681ff150",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-sET6RQ.json",
+      "bytes": 6691,
+      "sha256": "fcc41e7b86b9e583abad15796dc3cc03e304ba2827f0bf649b9f1cd10753b406",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-tr4Az7.json",
+      "bytes": 6681,
+      "sha256": "660b44d6385fd4390e3be23a5451ae4a2d002e7d17c44ec9a348aec1a3a0b1a7",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-TxxvZU.json",
+      "bytes": 114014,
+      "sha256": "292b9d3f005e192ce702733261f92e34f34778970c53eb3a92789ec2cb9a9927",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-uJVmxZ.json",
+      "bytes": 7911,
+      "sha256": "ac7d9747a9465a2c9195a894da5c4d03972a5d1eff6a91ae8ff5f4432129a689",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-vtpr9j.json",
+      "bytes": 112934,
+      "sha256": "093258ceed13cab848ebb3d86e8c3875104b002a29530a37359277f287de6b41",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-wof2rb.json",
+      "bytes": 190886,
+      "sha256": "04b0506261567b254873bdee92a8639354df746d37e1f11f633843b60eab5771",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-YBYRBe.json",
+      "bytes": 111716,
+      "sha256": "fb8ca049943778e1b6775f2016ef78cd71b6e8dfa1e72c604e3b37b56757929e",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-Yyqju7.json",
+      "bytes": 7911,
+      "sha256": "24ad9f25d70978dff2229f21e329e2f1fa3b92b26c7d7ace994548d4e3f7a3f8",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "snapshots/remotion-webpack-bundle-zDPA3B.json",
+      "bytes": 89988,
+      "sha256": "474a3b0b23027d11838991fe922cf20eccb16980d4775e2522053518eb12fdc5",
+      "roles": [
+        "version-snapshot-mapping"
+      ]
+    },
+    {
+      "relative_path": "source-catalog.json",
+      "bytes": 112394,
+      "sha256": "c4af0b54cf7c53a2a12a6e8ee124ed6f11d2e06fcf835047888474deac2f8b25",
+      "roles": [
+        "source-catalog"
+      ]
+    },
+    {
+      "relative_path": "source-objects/08c3e975aa20845b0cc4c4369f06adb6bfccd1a6385570f1cb1a64414f5239bf/Entry.tsx",
+      "bytes": 496,
+      "sha256": "08c3e975aa20845b0cc4c4369f06adb6bfccd1a6385570f1cb1a64414f5239bf",
+      "roles": [
+        "shared-source-dependency"
+      ]
+    },
+    {
+      "relative_path": "source-objects/0a759bdd38770b834fbe2842e8d8dba64271603082fba5d473dbc401d76ebb19/ReplicaGraphicsFullR3.tsx",
+      "bytes": 9118,
+      "sha256": "0a759bdd38770b834fbe2842e8d8dba64271603082fba5d473dbc401d76ebb19",
+      "roles": [
+        "historical-source"
+      ]
+    },
+    {
+      "relative_path": "source-objects/0e3a6073ec104e84105dbeb4607a96593ae2257194555bbb4e14d1c0204eb67c/CostReminder.tsx",
+      "bytes": 8980,
+      "sha256": "0e3a6073ec104e84105dbeb4607a96593ae2257194555bbb4e14d1c0204eb67c",
+      "roles": [
+        "historical-source"
+      ]
+    },
+    {
+      "relative_path": "source-objects/152fa20319d4a61cda878a74e86b9ae41981ebc61cdc4c705e7929aa01832329/Entry.tsx",
+      "bytes": 624,
+      "sha256": "152fa20319d4a61cda878a74e86b9ae41981ebc61cdc4c705e7929aa01832329",
+      "roles": [
+        "shared-source-dependency"
+      ]
+    },
+    {
+      "relative_path": "source-objects/1a98c1d7d12d51872df94e52a4e4fa55a6ed023157610272e07489c9399db7e2/FullscreenVideoWindow.tsx",
+      "bytes": 1285,
+      "sha256": "1a98c1d7d12d51872df94e52a4e4fa55a6ed023157610272e07489c9399db7e2",
+      "roles": [
+        "shared-source-dependency"
+      ]
+    },
+    {
+      "relative_path": "source-objects/1ab2a7bd39629ac10d65930e3e02bbf2fc0a4ac07874c4f150908fcec69a6b32/ReplicaGalleryFullR3.tsx",
+      "bytes": 1224,
+      "sha256": "1ab2a7bd39629ac10d65930e3e02bbf2fc0a4ac07874c4f150908fcec69a6b32",
+      "roles": [
+        "historical-source"
+      ]
+    },
+    {
+      "relative_path": "source-objects/30afe4f01117922adc86f0062e3d26d18c28d05c7659753bbe93561840a1fb3f/ReplicaShared.tsx",
+      "bytes": 4555,
+      "sha256": "30afe4f01117922adc86f0062e3d26d18c28d05c7659753bbe93561840a1fb3f",
+      "roles": [
+        "shared-source-dependency"
+      ]
+    },
+    {
+      "relative_path": "source-objects/412cd67dc76179b4508b6738def8003f63b652aec78d903d9b732fe65b168406/ReplicaGraphicsFullR1.tsx",
+      "bytes": 8581,
+      "sha256": "412cd67dc76179b4508b6738def8003f63b652aec78d903d9b732fe65b168406",
+      "roles": [
+        "historical-source"
+      ]
+    },
+    {
+      "relative_path": "source-objects/41b79325689924514bd038cb827b01c43293bb1c5eb523ef6f6f89b1ee3fe21c/CostReminder.tsx",
+      "bytes": 9832,
+      "sha256": "41b79325689924514bd038cb827b01c43293bb1c5eb523ef6f6f89b1ee3fe21c",
+      "roles": [
+        "historical-source"
+      ]
+    },
+    {
+      "relative_path": "source-objects/44cc757426953add3263344c679a9c6ec9c54117a1cfa90dc6f8c7563ebcb277/ReplicaExpansion.tsx",
+      "bytes": 4758,
+      "sha256": "44cc757426953add3263344c679a9c6ec9c54117a1cfa90dc6f8c7563ebcb277",
+      "roles": [
+        "historical-source"
+      ]
+    },
+    {
+      "relative_path": "source-objects/44e687aea07ad2460da7719000ad29f2f12e40b5e839884554578a2963a17b7f/ReplicaQuestionR3.tsx",
+      "bytes": 2483,
+      "sha256": "44e687aea07ad2460da7719000ad29f2f12e40b5e839884554578a2963a17b7f",
+      "roles": [
+        "historical-source"
+      ]
+    },
+    {
+      "relative_path": "source-objects/4515b58f5436cd88316cfc14e60abd5f33bc2a201758984aecda3dc2789c4af3/ReplicaGraphicsR3.tsx",
+      "bytes": 6660,
+      "sha256": "4515b58f5436cd88316cfc14e60abd5f33bc2a201758984aecda3dc2789c4af3",
+      "roles": [
+        "historical-source"
+      ]
+    },
+    {
+      "relative_path": "source-objects/473e92742d45a350d9d094e72ed2136a5a21900723dc23cf330f8a3e48fb32fc/CostReminder.tsx",
+      "bytes": 10871,
+      "sha256": "473e92742d45a350d9d094e72ed2136a5a21900723dc23cf330f8a3e48fb32fc",
+      "roles": [
+        "historical-source"
+      ]
+    },
+    {
+      "relative_path": "source-objects/4a85f7e83fd14c9de300689ced691c1550171bce0d757e44316882b799cb287e/GroupAccents.tsx",
+      "bytes": 10879,
+      "sha256": "4a85f7e83fd14c9de300689ced691c1550171bce0d757e44316882b799cb287e",
+      "roles": [
+        "shared-source-dependency"
+      ]
+    },
+    {
+      "relative_path": "source-objects/50dfb60dcc2f7df9d0ae131ab035880c895a60ded2cda4e8de12321629f0cc17/ReplicaQuestionGalleryR4.tsx",
+      "bytes": 1768,
+      "sha256": "50dfb60dcc2f7df9d0ae131ab035880c895a60ded2cda4e8de12321629f0cc17",
+      "roles": [
+        "shared-source-dependency"
+      ]
+    },
+    {
+      "relative_path": "source-objects/56ca944cb1e418c8bab5bc557fe73e711b2c5bfda1d0ba73102ece130072acb8/ReplicaGalleryMediaFullR3.tsx",
+      "bytes": 1344,
+      "sha256": "56ca944cb1e418c8bab5bc557fe73e711b2c5bfda1d0ba73102ece130072acb8",
+      "roles": [
+        "shared-source-dependency"
+      ]
+    },
+    {
+      "relative_path": "source-objects/59232a697a30852dc7b9edfc535d662054adb953839c3f97729088607fcef806/ExplainScenes.tsx",
+      "bytes": 3072,
+      "sha256": "59232a697a30852dc7b9edfc535d662054adb953839c3f97729088607fcef806",
+      "roles": [
+        "shared-source-dependency"
+      ]
+    },
+    {
+      "relative_path": "source-objects/5e59959bb3f44b98285875819e7cdd5ca27b4833481e5760f635b3a1e0799838/ReplicaGraphicsFullR4.tsx",
+      "bytes": 9846,
+      "sha256": "5e59959bb3f44b98285875819e7cdd5ca27b4833481e5760f635b3a1e0799838",
+      "roles": [
+        "historical-source"
+      ]
+    },
+    {
+      "relative_path": "source-objects/5f839ff118d1050318f4e4c0ebaab0d20c37459a84762c1f45a7207c5da8da23/ReplicaNewsFocus.vendor.tsx",
+      "bytes": 4771,
+      "sha256": "5f839ff118d1050318f4e4c0ebaab0d20c37459a84762c1f45a7207c5da8da23",
+      "roles": [
+        "shared-source-dependency"
+      ]
+    },
+    {
+      "relative_path": "source-objects/62a19a1b630ad1a050153784ee55ba85a4ceaa56a437d3bb11eb59b8b8ea24b3/ReplicaWallEntitiesFullR3.tsx",
+      "bytes": 3682,
+      "sha256": "62a19a1b630ad1a050153784ee55ba85a4ceaa56a437d3bb11eb59b8b8ea24b3",
+      "roles": [
+        "shared-source-dependency"
+      ]
+    },
+    {
+      "relative_path": "source-objects/66fac7275f84bbc17f4cdd616728bdea3a9421ea7704f461e7a1a0b130e5c3ca/ReplicaGraphicsFullR3.tsx",
+      "bytes": 9176,
+      "sha256": "66fac7275f84bbc17f4cdd616728bdea3a9421ea7704f461e7a1a0b130e5c3ca",
+      "roles": [
+        "historical-source"
+      ]
+    },
+    {
+      "relative_path": "source-objects/692d7365600036a7da7036f35381b097950e87f868280c1b3893da027a700007/CostReminder.tsx",
+      "bytes": 9840,
+      "sha256": "692d7365600036a7da7036f35381b097950e87f868280c1b3893da027a700007",
+      "roles": [
+        "shared-source-dependency"
+      ]
+    },
+    {
+      "relative_path": "source-objects/70e41d63f882ca5ba2aab6266a1677ed21c4ab6011162f7b689c6c4e6ca53829/ReplicaGallery.tsx",
+      "bytes": 2686,
+      "sha256": "70e41d63f882ca5ba2aab6266a1677ed21c4ab6011162f7b689c6c4e6ca53829",
+      "roles": [
+        "historical-source"
+      ]
+    },
+    {
+      "relative_path": "source-objects/7243b38a94cfe41acd20d5062301b52d2a6f86a802b4bd94548e8e3bae14b189/ReplicaGalleryFullR3.tsx",
+      "bytes": 1222,
+      "sha256": "7243b38a94cfe41acd20d5062301b52d2a6f86a802b4bd94548e8e3bae14b189",
+      "roles": [
+        "historical-source"
+      ]
+    },
+    {
+      "relative_path": "source-objects/7d40463328cfc2c473510f072e8ff169e9d7a59a5472c036a58743403149f098/ReplicaCompare.tsx",
+      "bytes": 2334,
+      "sha256": "7d40463328cfc2c473510f072e8ff169e9d7a59a5472c036a58743403149f098",
+      "roles": [
+        "historical-source"
+      ]
+    },
+    {
+      "relative_path": "source-objects/7ffd8e123f571e373a7012bed97ca238ce3ecc22631da6637ed284e3ec4451fe/OpeningScenes.tsx",
+      "bytes": 3517,
+      "sha256": "7ffd8e123f571e373a7012bed97ca238ce3ecc22631da6637ed284e3ec4451fe",
+      "roles": [
+        "shared-source-dependency"
+      ]
+    },
+    {
+      "relative_path": "source-objects/804211edaa5cd9f82279ef941dc43f3d73898df27bdb2bfd3b1943070393ed8c/ReplicaPromptCamera.tsx",
+      "bytes": 8989,
+      "sha256": "804211edaa5cd9f82279ef941dc43f3d73898df27bdb2bfd3b1943070393ed8c",
+      "roles": [
+        "historical-source"
+      ]
+    },
+    {
+      "relative_path": "source-objects/83a8dc6b381418c1ad0aa368459e1d0a4dc8a3ce5f43337b042b32cbee6b0606/CameraExamples.tsx",
+      "bytes": 7971,
+      "sha256": "83a8dc6b381418c1ad0aa368459e1d0a4dc8a3ce5f43337b042b32cbee6b0606",
+      "roles": [
+        "shared-source-dependency"
+      ]
+    },
+    {
+      "relative_path": "source-objects/94fe88f6106eba3181d5501559833b3029b29f10fb1da4c05b215567df7a27ef/ReplicaWallFullR3.tsx",
+      "bytes": 2366,
+      "sha256": "94fe88f6106eba3181d5501559833b3029b29f10fb1da4c05b215567df7a27ef",
+      "roles": [
+        "historical-source"
+      ]
+    },
+    {
+      "relative_path": "source-objects/9be3f5d0622018d546726e642e8c970534098c71b238b493f6aded9ee2612e92/RecordingScenes.tsx",
+      "bytes": 7726,
+      "sha256": "9be3f5d0622018d546726e642e8c970534098c71b238b493f6aded9ee2612e92",
+      "roles": [
+        "shared-source-dependency"
+      ]
+    },
+    {
+      "relative_path": "source-objects/a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3/theme.ts",
+      "bytes": 3786,
+      "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+      "roles": [
+        "shared-source-dependency"
+      ]
+    },
+    {
+      "relative_path": "source-objects/a4e69abe316ce8f3c161da709431da480519496c2225f70beef914b2bce01948/fullscreen-video-window-geometry.ts",
+      "bytes": 1348,
+      "sha256": "a4e69abe316ce8f3c161da709431da480519496c2225f70beef914b2bce01948",
+      "roles": [
+        "shared-source-dependency"
+      ]
+    },
+    {
+      "relative_path": "source-objects/a527793d8f84afbd2089f9dce50527ee3b8d8e436a9adb97589d46114c095950/ReplicaGraphicsFullR4.tsx",
+      "bytes": 9850,
+      "sha256": "a527793d8f84afbd2089f9dce50527ee3b8d8e436a9adb97589d46114c095950",
+      "roles": [
+        "historical-source"
+      ]
+    },
+    {
+      "relative_path": "source-objects/a6229a829f7fe43d8fc01fbefde8cb117fb394cbf87f55afb526cd9e52b95bc3/ReplicaGraphicsFullR1.tsx",
+      "bytes": 8507,
+      "sha256": "a6229a829f7fe43d8fc01fbefde8cb117fb394cbf87f55afb526cd9e52b95bc3",
+      "roles": [
+        "historical-source"
+      ]
+    },
+    {
+      "relative_path": "source-objects/b589565211dd4ceca0aab1fdd3bbe57b3db327bc393747fd72c98977d9ab362b/shared.tsx",
+      "bytes": 5008,
+      "sha256": "b589565211dd4ceca0aab1fdd3bbe57b3db327bc393747fd72c98977d9ab362b",
+      "roles": [
+        "shared-source-dependency"
+      ]
+    },
+    {
+      "relative_path": "source-objects/b60c19a532c7a8c4032c2488ac6ace03a71b7e04ae1e9db4320c026f5489bc01/CodexFullWindowFlow.tsx",
+      "bytes": 8206,
+      "sha256": "b60c19a532c7a8c4032c2488ac6ace03a71b7e04ae1e9db4320c026f5489bc01",
+      "roles": [
+        "shared-source-dependency"
+      ]
+    },
+    {
+      "relative_path": "source-objects/b6a274f52471c75222c9d1b6f732ef01c36ceda8e343125e8b435983ae5021c7/ReplicaGalleryShared.tsx",
+      "bytes": 3143,
+      "sha256": "b6a274f52471c75222c9d1b6f732ef01c36ceda8e343125e8b435983ae5021c7",
+      "roles": [
+        "shared-source-dependency"
+      ]
+    },
+    {
+      "relative_path": "source-objects/b84d76ec35984ea80b9983b084aafe6ffcaf68f7363ea3fe4ded722be8a8f45a/HandoffScenes.tsx",
+      "bytes": 3004,
+      "sha256": "b84d76ec35984ea80b9983b084aafe6ffcaf68f7363ea3fe4ded722be8a8f45a",
+      "roles": [
+        "shared-source-dependency"
+      ]
+    },
+    {
+      "relative_path": "source-objects/c49c6b8982b1485a3fca0c2da4dca54440f7f81301b0c522cefccd4ba54f426f/ReplicaLatePrompt.tsx",
+      "bytes": 1190,
+      "sha256": "c49c6b8982b1485a3fca0c2da4dca54440f7f81301b0c522cefccd4ba54f426f",
+      "roles": [
+        "shared-source-dependency"
+      ]
+    },
+    {
+      "relative_path": "source-objects/d312ebc0b54831cf1a6eba47a30cc2ac445f4d1676eaf00ed8d92e4e0a885c98/ReplicaGalleryFullR3.tsx",
+      "bytes": 1211,
+      "sha256": "d312ebc0b54831cf1a6eba47a30cc2ac445f4d1676eaf00ed8d92e4e0a885c98",
+      "roles": [
+        "historical-source"
+      ]
+    },
+    {
+      "relative_path": "source-objects/d7c40c7db75f93f4f64e4d8c2fadd4b0d4b1a1611dc918b0b77b8da35af76059/ReplicaWall.tsx",
+      "bytes": 1289,
+      "sha256": "d7c40c7db75f93f4f64e4d8c2fadd4b0d4b1a1611dc918b0b77b8da35af76059",
+      "roles": [
+        "historical-source"
+      ]
+    },
+    {
+      "relative_path": "source-objects/e39408ca31c0622096e14bb2ce7a80cd28ed261ff72332d2c7ddac156d8e17f2/ReplicaPromptCamera.tsx",
+      "bytes": 8991,
+      "sha256": "e39408ca31c0622096e14bb2ce7a80cd28ed261ff72332d2c7ddac156d8e17f2",
+      "roles": [
+        "historical-source"
+      ]
+    },
+    {
+      "relative_path": "source-objects/e48fb550be7de2041628e526125f9fe81318ad6a523c01dc5de4c7cbd4035c59/CostReminder.tsx",
+      "bytes": 11154,
+      "sha256": "e48fb550be7de2041628e526125f9fe81318ad6a523c01dc5de4c7cbd4035c59",
+      "roles": [
+        "historical-source"
+      ]
+    },
+    {
+      "relative_path": "source-objects/ec9b3881a831c79c9459c97e3aab6ee16815daed01ed0af0ea00950c5e907163/ReplicaGraphicsFullR1.tsx",
+      "bytes": 9061,
+      "sha256": "ec9b3881a831c79c9459c97e3aab6ee16815daed01ed0af0ea00950c5e907163",
+      "roles": [
+        "shared-source-dependency"
+      ]
+    },
+    {
+      "relative_path": "source-objects/ed2b5a341fbdcff7d8bbba48b351975c323832e21b759e4fe0f58e21639e5a7c/NovelScenes.tsx",
+      "bytes": 3064,
+      "sha256": "ed2b5a341fbdcff7d8bbba48b351975c323832e21b759e4fe0f58e21639e5a7c",
+      "roles": [
+        "shared-source-dependency"
+      ]
+    },
+    {
+      "relative_path": "source-objects/f1e3cc88f5fb262785830bb3f031699bfc6b2d71fae382681ee760b890d199a4/CostReminder.tsx",
+      "bytes": 9833,
+      "sha256": "f1e3cc88f5fb262785830bb3f031699bfc6b2d71fae382681ee760b890d199a4",
+      "roles": [
+        "historical-source"
+      ]
+    },
+    {
+      "relative_path": "source-objects/f5b48a53766013821d0427d34c4d037f58e15bb89bf70caa06569b6fcfa6ea25/RaisedInput.tsx",
+      "bytes": 8396,
+      "sha256": "f5b48a53766013821d0427d34c4d037f58e15bb89bf70caa06569b6fcfa6ea25",
+      "roles": [
+        "shared-source-dependency"
+      ]
+    },
+    {
+      "relative_path": "source-objects/f5e387dc1613c17b85870fa2d889918bfbe2867eee9504f5466401f85574de5d/ReplicaGalleryMediaFullR3.tsx",
+      "bytes": 1344,
+      "sha256": "f5e387dc1613c17b85870fa2d889918bfbe2867eee9504f5466401f85574de5d",
+      "roles": [
+        "historical-source"
+      ]
+    },
+    {
+      "relative_path": "source-objects/fcf0ea669c356d7daaa7c682c6bb9ad5c54e00c0a829549150fc1f346c432130/ReplicaQuestionR4.tsx",
+      "bytes": 3811,
+      "sha256": "fcf0ea669c356d7daaa7c682c6bb9ad5c54e00c0a829549150fc1f346c432130",
+      "roles": [
+        "shared-source-dependency"
+      ]
+    },
+    {
+      "relative_path": "source-objects/fe130bdcff07bbf24faa4d003bd1c5f1f777eb7b090363f016d241f09ae2420f/ReplicaExpansion.tsx",
+      "bytes": 4780,
+      "sha256": "fe130bdcff07bbf24faa4d003bd1c5f1f777eb7b090363f016d241f09ae2420f",
+      "roles": [
+        "historical-source"
+      ]
+    },
+    {
+      "relative_path": "source-objects/ff302aa3767858b8ce5388192e785c3cfaddf6dfe47c81c70ecdc953930c2197/ReplicaCompareFullR3.tsx",
+      "bytes": 4197,
+      "sha256": "ff302aa3767858b8ce5388192e785c3cfaddf6dfe47c81c70ecdc953930c2197",
+      "roles": [
+        "historical-source"
+      ]
+    },
+    {
+      "relative_path": "source-objects/ffac1ff9da979ac025928936af268c532c40d59c0b30238825fd2ce90736191d/ReplicaWallFullR1.tsx",
+      "bytes": 2072,
+      "sha256": "ffac1ff9da979ac025928936af268c532c40d59c0b30238825fd2ce90736191d",
+      "roles": [
+        "shared-source-dependency"
+      ]
+    },
+    {
+      "relative_path": "source-objects/ffd1272b9e475dbdee226b26d062021b44c47f87bfb5dee737c0f2054ef942bd/ReplicaQuestion.tsx",
+      "bytes": 2095,
+      "sha256": "ffd1272b9e475dbdee226b26d062021b44c47f87bfb5dee737c0f2054ef942bd",
+      "roles": [
+        "historical-source"
+      ]
+    }
+  ],
+  "executed_bundle_code": false,
+  "build_or_render_performed": false,
+  "limitations": [
+    "JSON values reflect observed bundled values, including tree-shaken subsets.",
+    "Current package manifests are reference only; historical runtime dependency identity UNKNOWN.",
+    "Static dependency and byte checks are not a build/render or continuous video review."
+  ]
+}

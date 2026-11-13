@@ -1,0 +1,62 @@
+{
+  "status": "CANDIDATES_ONLY_NOT_AUTHORIZED_TO_DELETE",
+  "directories": [
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-contrarian-20261019/02_制作/fred-v5/r5-fix1/.cache/webpack",
+      "allocated_kib": 98588,
+      "logical_bytes": 100950421,
+      "file_count": 2,
+      "extension_bytes": {
+        ".pack": 100950421
+      }
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-contrarian-20261019/02_制作/fred-v5/.cache/webpack",
+      "allocated_kib": 106244,
+      "logical_bytes": 108771624,
+      "file_count": 10,
+      "extension_bytes": {
+        ".pack": 108461695,
+        ".old": 309929
+      }
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-contrarian-20261019/02_制作/fred-v5/r4/full/.cache/webpack",
+      "allocated_kib": 100028,
+      "logical_bytes": 102411169,
+      "file_count": 5,
+      "extension_bytes": {
+        ".pack": 102095753,
+        ".old": 315416
+      }
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-contrarian-20261019/02_制作/fred-v5/r4/fix1/.cache/webpack",
+      "allocated_kib": 98632,
+      "logical_bytes": 100996023,
+      "file_count": 2,
+      "extension_bytes": {
+        ".pack": 100996023
+      }
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-contrarian-20261019/02_制作/fred-v5/r4/.cache/webpack",
+      "allocated_kib": 99260,
+      "logical_bytes": 101639886,
+      "file_count": 4,
+      "extension_bytes": {
+        ".pack": 101328656,
+        ".old": 311230
+      }
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/ai-contrarian-20261019/02_制作/fred-v5/r5/.cache/webpack",
+      "allocated_kib": 98584,
+      "logical_bytes": 100947844,
+      "file_count": 2,
+      "extension_bytes": {
+        ".pack": 100947844
+      }
+    }
+  ]
+}

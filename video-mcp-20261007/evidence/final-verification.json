@@ -1,0 +1,11 @@
+{
+  "cli_verified": true,
+  "duration": 19.77166666666667,
+  "frameCount": 30,
+  "inlineCount": 6,
+  "ASR": "whisper.cpp",
+  "warnings": [],
+  "sourceUnchanged": true,
+  "existingSessionLoaded": false,
+  "newFilesScope": "external drive task directory plus project config and LOCAL_BLOCKERS scoped entry"
+}

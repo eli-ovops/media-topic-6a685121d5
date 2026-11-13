@@ -1,0 +1,43 @@
+# coding: utf-8
+from pathlib import Path
+import json,collections
+from 记录已读 import record
+ss=[
+'liinks Instagram广告仅部分prompt cool，未给完整结构。',
+'SuperLaunch黑绿、故事/转场与禁通用火箭紫渐变是品牌brief，需补实际产品事实。',
+'15秒高级审美动态图形只有质量形容，未定内容。',
+'JS武士原地多pose火焰表演可借rig连续姿态，不把粒子替代主要动作。',
+'民主责任资本主义60秒政治观点委托，史实引语需核，不作为本账号立场。',
+'相机交互实验聚焦环/镜片/焦平面/景深联动，原帖非工程，实际光学未知。',
+'Three互动粒子只有方向，机制与用途未限定。',
+'极简产品每主要动作一个软声，强调紧密声画，但不机械所有动作都配音效。',
+'日文Gmail五功能：脚本五项，先官方help核能力，再代码画图按慢声切秒；可学事实先行。',
+'复古街机厅21独立游戏注明开发者，交互空间承载合集，原代码/资源授权需分开。',
+'Remotion+Three折射+Python配乐四片3天作者自述；只给修改意见仍有人工。',
+'房屋草图线→体量→细节→成品，Three/TSL用同对象逐层构建，适合结构解释。',
+'科普单核心问题、好奇hook/反直觉/生活比喻，原论文教材优先，受众基础明确。',
+'1型糖尿病三状态同餐对比、信号滑杆/追踪葡萄糖，属教育可视化规格，医学断言未在本轮核。',
+'泰姬陵穹顶尖塔镶嵌地基单HTML自述，精度与真实结构未验。',
+'60秒交互电影播完世界留控件，AI能力升100%世界变红属艺术映射不现实指标。',
+'指尖到原子百万倍显微推镜，需标真实尺度且别把连续外观当科学证据。',
+'踩瓦裂后坠落、幽灵赛跑、失败场地重建的生存游戏，时间逻辑与loop可借。',
+'2025脑反应研究改60秒film+lab，只给主题未给论文，不能推出研究结论。',
+'孟买30秒可游览900帧/30声代码仅作者自述，实际街景/输出未核。']
+pp=sorted(Path('/Volumes/EXTERNAL/自媒体/.agents/skills/awesome-opus5-5-videos/references/library/prompts').glob('*.md'))[140:160]
+assert len(pp)==len(ss)
+notes={str(p).split('/.agents/skills/')[1]:s for p,s in zip(pp,ss)}
+notes.update({
+'pdoom-video/references/library/src/cast.js':'researcher足部原点、手部hook在臂空间，coat遮臂根；sq/take连续变形、眼眉mouth独立，眼镜倾斜；情绪记号在世界锚点，需随pose核接触。',
+'pdoom-video/references/library/src/props.js':'同舞台stageBack/Front保层；meterProp置METER_SHOWN防角标重复；pumpH每拍78%缓抬/22%快压，管端绑目标；数值色阈/裂纹只示意。',
+'pdoom-video/references/library/src/lyrics.js':'46条歌词区间（实际结构计数另核），来自源字幕时间，不是词级听音；同一句副歌复用，不复述歌词或把科学隐喻作事实。',
+'pdoom-video/references/library/src/clawd.js':'10x6身体/足部坐标，arm-tip hook持物，lid铰链口；mood换前.08秒闭眼，换后.16秒睁眼、.16—.4回弹，emote延后；move按beat纯时间pose；帽形换装可复用rig不挪角色。',
+'lemo-opuscar/references/library/styles/art-deco/STYLE.md':'暖黑金刻线、airbrush硬边体积、中心轴开合；灯按事件逐个亮有.18秒点火，双门遮盖live场，标题也同语法；角色twos但相机光ones；logo/电影示例不照搬。',
+'lemo-opuscar/references/library/styles/ascii-crt/STYLE.md':'真实glyph atlas密度阶梯，不是图片加ASCII滤镜；font-size即相机，解析余辉tau.1秒不累计前帧，LOG独立缩放；只一磷光色可一次第二色，事件导出前预建粒子计划。'})
+record(notes,'B07')
+D=Path(__file__).parent
+(D/'B07逐文件笔记.json').write_text(json.dumps(notes,ensure_ascii=False,indent=2))
+P=D/'完整阅读覆盖.json';d=json.loads(P.read_text())
+for r in d['files']:
+ if r['path'].endswith('/pdoom-video/references/library/package-lock.json'):
+  r.update(status='structure_checked',method='JSON parse plus model review of all 47 package records; integrity presence/registry fields; no dependency execution',summary='lock v3，47包条目；p5 2.3.3 LGPL-2.1，brush2.2.3 MIT，puppeteer25.11要求Node>=22.12；46包registry/integrity存在，root无；不声称创意逐行读或漏洞审计。',batch='B07')
+d['counts']=dict(collections.Counter(r['status'] for r in d['files']));P.write_text(json.dumps(d,ensure_ascii=False,indent=2));print(d['counts'])

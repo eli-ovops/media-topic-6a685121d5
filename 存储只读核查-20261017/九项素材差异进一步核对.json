@@ -1,0 +1,83 @@
+[
+  {
+    "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-866SaP",
+    "path": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-866SaP/public/authorized-media/S18-recorded-background-r2.mp4",
+    "bytes": 48,
+    "preserved_original": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera/public/authorized-media/S18-recorded-background-r2.mp4",
+    "original_bytes": 311873,
+    "exact_original_prefix": false,
+    "status": "HOLD_VERSION_DIFFERENCE_PENDING_REVIEW"
+  },
+  {
+    "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-HDWyMc",
+    "path": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-HDWyMc/public/authorized-media/S18-recorded-background-r2.mp4",
+    "bytes": 48,
+    "preserved_original": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera/public/authorized-media/S18-recorded-background-r2.mp4",
+    "original_bytes": 311873,
+    "exact_original_prefix": false,
+    "status": "HOLD_VERSION_DIFFERENCE_PENDING_REVIEW"
+  },
+  {
+    "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-TxxvZU",
+    "path": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-TxxvZU/public/authorized-media/S18-recorded-background-r2.mp4",
+    "bytes": 48,
+    "preserved_original": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera/public/authorized-media/S18-recorded-background-r2.mp4",
+    "original_bytes": 311873,
+    "exact_original_prefix": false,
+    "status": "HOLD_VERSION_DIFFERENCE_PENDING_REVIEW"
+  },
+  {
+    "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-YBYRBe",
+    "path": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-YBYRBe/public/authorized-media/S13-recorded-background-r2.mp4",
+    "bytes": 262192,
+    "preserved_original": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera/public/authorized-media/S13-recorded-background-r2.mp4",
+    "original_bytes": 1654979,
+    "exact_original_prefix": false,
+    "status": "HOLD_VERSION_DIFFERENCE_PENDING_REVIEW"
+  },
+  {
+    "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-h0zunl",
+    "path": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-h0zunl/public/authorized-media/S04-recorded-background-r2.mp4",
+    "bytes": 2097200,
+    "preserved_original": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera/public/authorized-media/S04-recorded-background-r2.mp4",
+    "original_bytes": 4346356,
+    "exact_original_prefix": false,
+    "status": "HOLD_VERSION_DIFFERENCE_PENDING_REVIEW"
+  },
+  {
+    "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-jI7e98",
+    "path": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-jI7e98/public/authorized-media/S18-recorded-background-r2.mp4",
+    "bytes": 262192,
+    "preserved_original": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera/public/authorized-media/S18-recorded-background-r2.mp4",
+    "original_bytes": 311873,
+    "exact_original_prefix": false,
+    "status": "HOLD_VERSION_DIFFERENCE_PENDING_REVIEW"
+  },
+  {
+    "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-lZjOdD",
+    "path": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-lZjOdD/public/authorized-media/S13-recorded-background-full-r3b.mp4",
+    "bytes": 786480,
+    "preserved_original": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera/public/authorized-media/S13-recorded-background-full-r3b.mp4",
+    "original_bytes": 1645860,
+    "exact_original_prefix": false,
+    "status": "HOLD_VERSION_DIFFERENCE_PENDING_REVIEW"
+  },
+  {
+    "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-qZRbQK",
+    "path": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-qZRbQK/public/authorized-media/S04-recorded-background-r2.mp4",
+    "bytes": 3670064,
+    "preserved_original": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera/public/authorized-media/S04-recorded-background-r2.mp4",
+    "original_bytes": 4346356,
+    "exact_original_prefix": false,
+    "status": "HOLD_VERSION_DIFFERENCE_PENDING_REVIEW"
+  },
+  {
+    "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-vtpr9j",
+    "path": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-vtpr9j/public/authorized-media/S13-recorded-background.mp4",
+    "bytes": 48,
+    "preserved_original": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera/public/authorized-media/S13-recorded-background.mp4",
+    "original_bytes": 1703593,
+    "exact_original_prefix": false,
+    "status": "HOLD_VERSION_DIFFERENCE_PENDING_REVIEW"
+  }
+]

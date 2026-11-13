@@ -1,0 +1,570 @@
+{
+  "completed": true,
+  "tools": [
+    "video_check_deps",
+    "video_info",
+    "video_transcribe",
+    "video_get_frame",
+    "video_get_frame_burst",
+    "video_extract_frames",
+    "video_analyze",
+    "video_search_transcript"
+  ],
+  "boundaryPassed": true,
+  "calls": [
+    {
+      "name": "video_info",
+      "error": false,
+      "milliseconds": 283,
+      "contentTypes": [
+        "text"
+      ],
+      "structured": {
+        "path": "/Users/USER/Downloads/c0cbfe9ad16458a5845756d9a3ae9fe3_raw.mp4",
+        "source": "/Users/USER/Downloads/c0cbfe9ad16458a5845756d9a3ae9fe3_raw.mp4",
+        "sourceKind": "local",
+        "durationSec": 19.77166666666667,
+        "width": 2160,
+        "height": 3840,
+        "fps": 59.985,
+        "videoCodec": "hevc",
+        "audioCodec": "aac",
+        "hasAudio": true,
+        "hasVideo": true,
+        "bitrate": 49788925,
+        "sizeBytes": 123051255,
+        "formatName": "mov,mp4 (AVFoundation adapter)",
+        "warnings": []
+      }
+    },
+    {
+      "name": "video_analyze",
+      "error": false,
+      "milliseconds": 63421,
+      "contentTypes": [
+        "text",
+        "image",
+        "text",
+        "image",
+        "text",
+        "image",
+        "text",
+        "image",
+        "text",
+        "image",
+        "text",
+        "image",
+        "text",
+        "text"
+      ],
+      "structured": {
+        "frames": [
+          {
+            "index": 0,
+            "timeSec": 0,
+            "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0001.jpg",
+            "mimeType": "image/jpeg"
+          },
+          {
+            "index": 1,
+            "timeSec": 0.659,
+            "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0002.jpg",
+            "mimeType": "image/jpeg"
+          },
+          {
+            "index": 2,
+            "timeSec": 1.318,
+            "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0003.jpg",
+            "mimeType": "image/jpeg"
+          },
+          {
+            "index": 3,
+            "timeSec": 1.977,
+            "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0004.jpg",
+            "mimeType": "image/jpeg"
+          },
+          {
+            "index": 4,
+            "timeSec": 2.636,
+            "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0005.jpg",
+            "mimeType": "image/jpeg"
+          },
+          {
+            "index": 5,
+            "timeSec": 3.295,
+            "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0006.jpg",
+            "mimeType": "image/jpeg"
+          },
+          {
+            "index": 6,
+            "timeSec": 3.954,
+            "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0007.jpg",
+            "mimeType": "image/jpeg"
+          },
+          {
+            "index": 7,
+            "timeSec": 4.613,
+            "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0008.jpg",
+            "mimeType": "image/jpeg"
+          },
+          {
+            "index": 8,
+            "timeSec": 5.272,
+            "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0009.jpg",
+            "mimeType": "image/jpeg"
+          },
+          {
+            "index": 9,
+            "timeSec": 5.932,
+            "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0010.jpg",
+            "mimeType": "image/jpeg"
+          },
+          {
+            "index": 10,
+            "timeSec": 6.591,
+            "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0011.jpg",
+            "mimeType": "image/jpeg"
+          },
+          {
+            "index": 11,
+            "timeSec": 7.25,
+            "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0012.jpg",
+            "mimeType": "image/jpeg"
+          },
+          {
+            "index": 12,
+            "timeSec": 7.909,
+            "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0013.jpg",
+            "mimeType": "image/jpeg"
+          },
+          {
+            "index": 13,
+            "timeSec": 8.568,
+            "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0014.jpg",
+            "mimeType": "image/jpeg"
+          },
+          {
+            "index": 14,
+            "timeSec": 9.227,
+            "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0015.jpg",
+            "mimeType": "image/jpeg"
+          },
+          {
+            "index": 15,
+            "timeSec": 9.886,
+            "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0016.jpg",
+            "mimeType": "image/jpeg"
+          },
+          {
+            "index": 16,
+            "timeSec": 10.545,
+            "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0017.jpg",
+            "mimeType": "image/jpeg"
+          },
+          {
+            "index": 17,
+            "timeSec": 11.204,
+            "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0018.jpg",
+            "mimeType": "image/jpeg"
+          },
+          {
+            "index": 18,
+            "timeSec": 11.863,
+            "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0019.jpg",
+            "mimeType": "image/jpeg"
+          },
+          {
+            "index": 19,
+            "timeSec": 12.522,
+            "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0020.jpg",
+            "mimeType": "image/jpeg"
+          },
+          {
+            "index": 20,
+            "timeSec": 13.181,
+            "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0021.jpg",
+            "mimeType": "image/jpeg"
+          },
+          {
+            "index": 21,
+            "timeSec": 13.84,
+            "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0022.jpg",
+            "mimeType": "image/jpeg"
+          },
+          {
+            "index": 22,
+            "timeSec": 14.499,
+            "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0023.jpg",
+            "mimeType": "image/jpeg"
+          },
+          {
+            "index": 23,
+            "timeSec": 15.158,
+            "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0024.jpg",
+            "mimeType": "image/jpeg"
+          },
+          {
+            "index": 24,
+            "timeSec": 15.817,
+            "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0025.jpg",
+            "mimeType": "image/jpeg"
+          },
+          {
+            "index": 25,
+            "timeSec": 16.476,
+            "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0026.jpg",
+            "mimeType": "image/jpeg"
+          },
+          {
+            "index": 26,
+            "timeSec": 17.135,
+            "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0027.jpg",
+            "mimeType": "image/jpeg"
+          },
+          {
+            "index": 27,
+            "timeSec": 17.795,
+            "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0028.jpg",
+            "mimeType": "image/jpeg"
+          },
+          {
+            "index": 28,
+            "timeSec": 18.454,
+            "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0029.jpg",
+            "mimeType": "image/jpeg"
+          },
+          {
+            "index": 29,
+            "timeSec": 19.113,
+            "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0030.jpg",
+            "mimeType": "image/jpeg"
+          }
+        ],
+        "inlineCount": 6,
+        "inlineIndices": [
+          0,
+          6,
+          12,
+          17,
+          23,
+          29
+        ],
+        "summary": "0:19 · 2160×3840 · 59.985fps · has audio\nSpeech (whisper.cpp, 2 segs): “被裁员以后,哪些事情需要先处理,租房遇到糾纷该去查哪些规定,想学一门新技能怎么判断到底值不值得花钱呢? 这类生活问题在GateUp上已经有人整理成了一份免费的高兴甲比人生只难。”\n30 keyframe(s) extracted",
+        "info": {
+          "path": "/Users/USER/Downloads/c0cbfe9ad16458a5845756d9a3ae9fe3_raw.mp4",
+          "source": "/Users/USER/Downloads/c0cbfe9ad16458a5845756d9a3ae9fe3_raw.mp4",
+          "sourceKind": "local",
+          "durationSec": 19.77166666666667,
+          "width": 2160,
+          "height": 3840,
+          "fps": 59.985,
+          "videoCodec": "hevc",
+          "audioCodec": "aac",
+          "hasAudio": true,
+          "hasVideo": true,
+          "bitrate": 49788925,
+          "sizeBytes": 123051255,
+          "formatName": "mov,mp4 (AVFoundation adapter)"
+        },
+        "ocrHitCount": 0,
+        "ocr": [],
+        "transcript": {
+          "source": "whisper.cpp",
+          "language": "zh",
+          "segmentCount": 2,
+          "fullText": "被裁员以后,哪些事情需要先处理,租房遇到糾纷该去查哪些规定,想学一门新技能怎么判断到底值不值得花钱呢? 这类生活问题在GateUp上已经有人整理成了一份免费的高兴甲比人生只难。",
+          "segments": [
+            {
+              "start": 0,
+              "end": 11,
+              "text": "被裁员以后,哪些事情需要先处理,租房遇到糾纷该去查哪些规定,想学一门新技能怎么判断到底值不值得花钱呢?"
+            },
+            {
+              "start": 11,
+              "end": 19,
+              "text": "这类生活问题在GateUp上已经有人整理成了一份免费的高兴甲比人生只难。"
+            }
+          ]
+        },
+        "warnings": [],
+        "detail": "detailed",
+        "elapsedMs": 63161,
+        "timeline": [
+          {
+            "timeSec": 0,
+            "kind": "frame",
+            "text": "Frame #0 (/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0001.jpg)",
+            "framePath": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0001.jpg"
+          },
+          {
+            "timeSec": 0,
+            "kind": "speech",
+            "text": "被裁员以后,哪些事情需要先处理,租房遇到糾纷该去查哪些规定,想学一门新技能怎么判断到底值不值得花钱呢?"
+          },
+          {
+            "timeSec": 0.659,
+            "kind": "frame",
+            "text": "Frame #1 (/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0002.jpg)",
+            "framePath": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0002.jpg"
+          },
+          {
+            "timeSec": 1.318,
+            "kind": "frame",
+            "text": "Frame #2 (/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0003.jpg)",
+            "framePath": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0003.jpg"
+          },
+          {
+            "timeSec": 1.977,
+            "kind": "frame",
+            "text": "Frame #3 (/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0004.jpg)",
+            "framePath": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0004.jpg"
+          },
+          {
+            "timeSec": 2.636,
+            "kind": "frame",
+            "text": "Frame #4 (/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0005.jpg)",
+            "framePath": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0005.jpg"
+          },
+          {
+            "timeSec": 3.295,
+            "kind": "frame",
+            "text": "Frame #5 (/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0006.jpg)",
+            "framePath": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0006.jpg"
+          },
+          {
+            "timeSec": 3.954,
+            "kind": "frame",
+            "text": "Frame #6 (/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0007.jpg)",
+            "framePath": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0007.jpg"
+          },
+          {
+            "timeSec": 4.613,
+            "kind": "frame",
+            "text": "Frame #7 (/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0008.jpg)",
+            "framePath": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0008.jpg"
+          },
+          {
+            "timeSec": 5.272,
+            "kind": "frame",
+            "text": "Frame #8 (/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0009.jpg)",
+            "framePath": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0009.jpg"
+          },
+          {
+            "timeSec": 5.932,
+            "kind": "frame",
+            "text": "Frame #9 (/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0010.jpg)",
+            "framePath": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0010.jpg"
+          },
+          {
+            "timeSec": 6.591,
+            "kind": "frame",
+            "text": "Frame #10 (/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0011.jpg)",
+            "framePath": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0011.jpg"
+          },
+          {
+            "timeSec": 7.25,
+            "kind": "frame",
+            "text": "Frame #11 (/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0012.jpg)",
+            "framePath": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0012.jpg"
+          },
+          {
+            "timeSec": 7.909,
+            "kind": "frame",
+            "text": "Frame #12 (/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0013.jpg)",
+            "framePath": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0013.jpg"
+          },
+          {
+            "timeSec": 8.568,
+            "kind": "frame",
+            "text": "Frame #13 (/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0014.jpg)",
+            "framePath": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0014.jpg"
+          },
+          {
+            "timeSec": 9.227,
+            "kind": "frame",
+            "text": "Frame #14 (/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0015.jpg)",
+            "framePath": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0015.jpg"
+          },
+          {
+            "timeSec": 9.886,
+            "kind": "frame",
+            "text": "Frame #15 (/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0016.jpg)",
+            "framePath": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0016.jpg"
+          },
+          {
+            "timeSec": 10.545,
+            "kind": "frame",
+            "text": "Frame #16 (/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0017.jpg)",
+            "framePath": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0017.jpg"
+          },
+          {
+            "timeSec": 11,
+            "kind": "speech",
+            "text": "这类生活问题在GateUp上已经有人整理成了一份免费的高兴甲比人生只难。"
+          },
+          {
+            "timeSec": 11.204,
+            "kind": "frame",
+            "text": "Frame #17 (/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0018.jpg)",
+            "framePath": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0018.jpg"
+          },
+          {
+            "timeSec": 11.863,
+            "kind": "frame",
+            "text": "Frame #18 (/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0019.jpg)",
+            "framePath": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0019.jpg"
+          },
+          {
+            "timeSec": 12.522,
+            "kind": "frame",
+            "text": "Frame #19 (/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0020.jpg)",
+            "framePath": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0020.jpg"
+          },
+          {
+            "timeSec": 13.181,
+            "kind": "frame",
+            "text": "Frame #20 (/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0021.jpg)",
+            "framePath": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0021.jpg"
+          },
+          {
+            "timeSec": 13.84,
+            "kind": "frame",
+            "text": "Frame #21 (/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0022.jpg)",
+            "framePath": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0022.jpg"
+          },
+          {
+            "timeSec": 14.499,
+            "kind": "frame",
+            "text": "Frame #22 (/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0023.jpg)",
+            "framePath": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0023.jpg"
+          },
+          {
+            "timeSec": 15.158,
+            "kind": "frame",
+            "text": "Frame #23 (/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0024.jpg)",
+            "framePath": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0024.jpg"
+          },
+          {
+            "timeSec": 15.817,
+            "kind": "frame",
+            "text": "Frame #24 (/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0025.jpg)",
+            "framePath": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0025.jpg"
+          },
+          {
+            "timeSec": 16.476,
+            "kind": "frame",
+            "text": "Frame #25 (/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0026.jpg)",
+            "framePath": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0026.jpg"
+          },
+          {
+            "timeSec": 17.135,
+            "kind": "frame",
+            "text": "Frame #26 (/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0027.jpg)",
+            "framePath": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0027.jpg"
+          },
+          {
+            "timeSec": 17.795,
+            "kind": "frame",
+            "text": "Frame #27 (/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0028.jpg)",
+            "framePath": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0028.jpg"
+          },
+          {
+            "timeSec": 18.454,
+            "kind": "frame",
+            "text": "Frame #28 (/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0029.jpg)",
+            "framePath": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0029.jpg"
+          },
+          {
+            "timeSec": 19.113,
+            "kind": "frame",
+            "text": "Frame #29 (/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0030.jpg)",
+            "framePath": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/f0adcaf6eaeb2d86/interval/frame_0030.jpg"
+          }
+        ],
+        "sidecarPath": null
+      }
+    },
+    {
+      "name": "video_get_frame_burst",
+      "error": false,
+      "milliseconds": 1676,
+      "contentTypes": [
+        "text",
+        "image",
+        "text",
+        "image",
+        "text",
+        "image",
+        "text",
+        "image",
+        "text",
+        "image",
+        "text",
+        "image",
+        "text",
+        "text"
+      ],
+      "structured": {
+        "frames": [
+          {
+            "index": 0,
+            "timeSec": 8,
+            "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/d7f23016d9b9d081/burst/frame_0001.jpg",
+            "mimeType": "image/jpeg"
+          },
+          {
+            "index": 1,
+            "timeSec": 8.25,
+            "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/d7f23016d9b9d081/burst/frame_0002.jpg",
+            "mimeType": "image/jpeg"
+          },
+          {
+            "index": 2,
+            "timeSec": 8.5,
+            "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/d7f23016d9b9d081/burst/frame_0003.jpg",
+            "mimeType": "image/jpeg"
+          },
+          {
+            "index": 3,
+            "timeSec": 8.75,
+            "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/d7f23016d9b9d081/burst/frame_0004.jpg",
+            "mimeType": "image/jpeg"
+          },
+          {
+            "index": 4,
+            "timeSec": 9,
+            "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/d7f23016d9b9d081/burst/frame_0005.jpg",
+            "mimeType": "image/jpeg"
+          },
+          {
+            "index": 5,
+            "timeSec": 9.25,
+            "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/d7f23016d9b9d081/burst/frame_0006.jpg",
+            "mimeType": "image/jpeg"
+          },
+          {
+            "index": 6,
+            "timeSec": 9.5,
+            "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/d7f23016d9b9d081/burst/frame_0007.jpg",
+            "mimeType": "image/jpeg"
+          },
+          {
+            "index": 7,
+            "timeSec": 9.75,
+            "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/d7f23016d9b9d081/burst/frame_0008.jpg",
+            "mimeType": "image/jpeg"
+          }
+        ],
+        "inlineCount": 6,
+        "inlineIndices": [
+          0,
+          1,
+          3,
+          4,
+          6,
+          7
+        ]
+      }
+    }
+  ]
+}

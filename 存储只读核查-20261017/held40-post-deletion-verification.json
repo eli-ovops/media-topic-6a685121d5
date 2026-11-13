@@ -1,0 +1,10 @@
+{
+  "checked_at": "2026-10-17T21:25:04.200163+08:00",
+  "status": "PASS",
+  "archive_files_rehashed": 174,
+  "archive_manifest_sha256": "9dcb6827eef98233b7ddcbb9b6858b1d769a001e14a55c656359c138520c6bfa",
+  "all_40_deleted_paths_absent": true,
+  "protected_trees_and_indexes_unchanged": true,
+  "preserved_originals_unchanged": true,
+  "other_33_temp_roots_unchanged": true
+}

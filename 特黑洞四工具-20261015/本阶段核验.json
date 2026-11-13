@@ -1,0 +1,38 @@
+{
+  "source_file_count": 817,
+  "source_hashes_unchanged": true,
+  "changed": [],
+  "counts": {
+    "full_text_read": 95,
+    "exact_hash_duplicate": 2,
+    "unread": 719,
+    "partial_text_read": 1
+  },
+  "by_skill": {
+    "lemo-opuscar": {
+      "full_text_read": 18,
+      "exact_hash_duplicate": 2,
+      "unread": 39
+    },
+    "awesome-opus5-5-videos": {
+      "full_text_read": 44,
+      "partial_text_read": 1,
+      "unread": 664
+    },
+    "pdoom-video": {
+      "full_text_read": 11,
+      "unread": 16
+    },
+    "opus-video-prompts": {
+      "full_text_read": 22
+    }
+  },
+  "media_watched": 0,
+  "third_party_code_executed": false,
+  "new_agents": 0,
+  "deleted": 0,
+  "runtime_model": "UNKNOWN",
+  "effort": "UNKNOWN",
+  "speed": "UNKNOWN",
+  "status": "INCOMPLETE_CHECKPOINT"
+}

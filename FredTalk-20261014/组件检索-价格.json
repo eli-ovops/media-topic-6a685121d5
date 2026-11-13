@@ -1,0 +1,698 @@
+{
+  "catalogRevision": "217ebeb42f5bfca098228f5eb8b29d5c3196c0a2a7b57a38eb8e7c8e07720c7e",
+  "count": 22,
+  "returned": 3,
+  "entries": [
+    {
+      "id": "component:fred-wave3-40-t15i",
+      "label": "T15i",
+      "title": "套餐对比",
+      "reusability": {
+        "level": "parameterized",
+        "label": "可编辑组件 · 自备媒体",
+        "parameters": [
+          "enter",
+          "exit",
+          "exitAt",
+          "plans",
+          "recommend",
+          "tag",
+          "cues"
+        ],
+        "limitations": [
+          "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+          "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+        ]
+      },
+      "previews": [
+        {
+          "videoUrl": "https://www.fred-fu.com/visual-library-app/objects/25866f4a8e081e19b9dbe9e1178bef9ecd6fcd5e8b9f8c1f6487343715120ad8.mp4",
+          "posterUrl": "https://www.fred-fu.com/visual-library-app/objects/c8adbfba8cbe1a8e30c450f3ad4480470006a73ec844d0b74bbb24b53d31b630.jpg",
+          "keyframes": [
+            {
+              "url": "https://www.fred-fu.com/visual-library-app/objects/c8adbfba8cbe1a8e30c450f3ad4480470006a73ec844d0b74bbb24b53d31b630.jpg",
+              "frame": 108,
+              "timeSeconds": 1.8
+            },
+            {
+              "url": "https://www.fred-fu.com/visual-library-app/objects/3d8e78db91d5a3af8ea2e8e3f535c142554555e9937086a903bf1a0747dd5f2a.jpg",
+              "frame": 216,
+              "timeSeconds": 3.6
+            },
+            {
+              "url": "https://www.fred-fu.com/visual-library-app/objects/e1134ccf304dfa968fc80281189db84035fcd42bb3e61103904bd26bfe8f5655.jpg",
+              "frame": 354,
+              "timeSeconds": 5.9
+            }
+          ],
+          "available": true,
+          "status": "ready",
+          "start": 0,
+          "end": 6.0,
+          "fps": 60,
+          "width": 1280,
+          "height": 720,
+          "sha256": "25866f4a8e081e19b9dbe9e1178bef9ecd6fcd5e8b9f8c1f6487343715120ad8",
+          "label": "套餐对比",
+          "audioPolicy": "accepted-component-action-sfx-no-narration",
+          "previewIdentity": {
+            "kind": "public-720p-preview",
+            "derivedFromSha256": "f984845723e7e2f52ba381b055295d1be4c4b122ee2a2013669ecdb69199c855",
+            "sourceWidth": 1920,
+            "sourceHeight": 1080,
+            "audioPolicy": "copied-original-compressed-audio"
+          },
+          "access": "public"
+        }
+      ],
+      "sources": [
+        {
+          "label": "T15i-PlanTable.tsx",
+          "path": "src/components/T15i-PlanTable.tsx",
+          "symbol": "PlanTable",
+          "url": "/api/visual-library/assets/f4f26265fbbc952e71161728138fb504e4b5b588879d4874f2d713b37c4e4888.txt",
+          "sha256": "f4f26265fbbc952e71161728138fb504e4b5b588879d4874f2d713b37c4e4888",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T15i-PlanTable.tsx",
+          "access": "members"
+        },
+        {
+          "label": "theme.ts",
+          "path": "src/kit/theme.ts",
+          "symbol": "",
+          "url": "/api/visual-library/assets/a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3.txt",
+          "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/kit/theme.ts",
+          "access": "members"
+        },
+        {
+          "label": "ui.tsx",
+          "path": "src/kit/ui.tsx",
+          "symbol": "",
+          "url": "/api/visual-library/assets/05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9.txt",
+          "sha256": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/kit/ui.tsx",
+          "access": "members"
+        },
+        {
+          "label": "registry.ts",
+          "path": "src/registry.ts",
+          "symbol": "",
+          "url": "/api/visual-library/assets/987f2b3944771eab702d37b07bff7bf3466220cecc3763bc7ec8671403d6b199.txt",
+          "sha256": "987f2b3944771eab702d37b07bff7bf3466220cecc3763bc7ec8671403d6b199",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/registry.ts",
+          "access": "members"
+        }
+      ],
+      "matching": {
+        "referenceId": "fred-wave3-40-t15i",
+        "primaryUse": "data",
+        "useIds": [
+          "data",
+          "explain"
+        ],
+        "sourceId": "fred-wave3-40",
+        "conceptIds": [
+          "data",
+          "comparison",
+          "cards"
+        ],
+        "inputObjects": [
+          "套餐列",
+          "价格",
+          "权益"
+        ],
+        "action": "几个套餐并排 → 价格落定，推荐的那个抬起",
+        "segmentRole": "新做参数化组件（Fred 认可入库）",
+        "nativeDurationSeconds": 6.0,
+        "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。",
+        "tags": [
+          "新做组件",
+          "T15i",
+          "套餐对比",
+          "定价表",
+          "方案选择",
+          "数值与图表",
+          "表格与图表对比"
+        ],
+        "scenarioId": "data",
+        "addedAt": "2026-10-12T22:14:03+08:00",
+        "scenarioTitle": "表格与图表对比",
+        "label": "T15i",
+        "categoryId": "data",
+        "category": "数值与图表",
+        "sceneTypes": [
+          "metric-change"
+        ],
+        "title": "套餐对比",
+        "collectionId": "fred-wave3-40-20261012",
+        "kind": "components",
+        "score": 189.7,
+        "matchedConceptIds": [
+          "data"
+        ],
+        "matchedUseIds": [],
+        "matchedWords": [
+          "价格"
+        ],
+        "reasons": [
+          "数值与图表",
+          "原词命中：价格",
+          "相近词：价格"
+        ]
+      },
+      "sourceFiles": [
+        {
+          "path": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/components/T15i-PlanTable.tsx",
+          "sha256": "f4f26265fbbc952e71161728138fb504e4b5b588879d4874f2d713b37c4e4888",
+          "url": "/api/visual-library/assets/f4f26265fbbc952e71161728138fb504e4b5b588879d4874f2d713b37c4e4888.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing",
+          "symbol": "PlanTable"
+        },
+        {
+          "path": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/kit/theme.ts",
+          "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+          "url": "/api/visual-library/assets/a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing"
+        },
+        {
+          "path": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/kit/ui.tsx",
+          "sha256": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+          "url": "/api/visual-library/assets/05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing"
+        },
+        {
+          "path": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/registry.ts",
+          "sha256": "987f2b3944771eab702d37b07bff7bf3466220cecc3763bc7ec8671403d6b199",
+          "url": "/api/visual-library/assets/987f2b3944771eab702d37b07bff7bf3466220cecc3763bc7ec8671403d6b199.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing"
+        }
+      ],
+      "sourceAvailability": {
+        "available": false,
+        "status": "needs-auth",
+        "authRequired": true,
+        "installationRequired": true,
+        "reason": "Source is not installed; log in to the website, download the official source ZIP and import it locally. Automatic token downloads are optional.",
+        "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+        "downloadCommand": "python3 scripts/assets.py download --members --collection fred-wave3-40-20261012",
+        "installCommand": "python3 scripts/assets.py materialize --members --collection fred-wave3-40-20261012"
+      },
+      "sourcePackage": {
+        "collectionId": "fred-wave3-40-20261012",
+        "sha256": "3b66f705b43458eb37c79c59d261489dfc5b0d64aadc9557f85b4af5c4d53546",
+        "size": 34169121,
+        "installRoot": ".artifacts/member-components/fred-wave3-40-20261012",
+        "entryPoint": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/src/index.tsx",
+        "publicDir": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012/public"
+      },
+      "projectRoot": ".artifacts/member-components/fred-wave3-40-20261012/fred-wave3-40-20261012",
+      "entryPoint": null,
+      "publicDir": null,
+      "earlyAccess": {
+        "enabled": true,
+        "audience": "exclusive_group",
+        "requiredMembershipLevels": [
+          "exclusive_group"
+        ],
+        "durationDays": 14,
+        "startsAt": "2026-10-13T03:15:00.000Z",
+        "publicAt": "2026-10-27T03:15:00.000Z"
+      },
+      "candidateId": "fred-wave3-40-t15i"
+    },
+    {
+      "id": "component:fred-wave2-fix5-t14b",
+      "label": "T14b",
+      "title": "单项参数落定",
+      "reusability": {
+        "level": "parameterized",
+        "label": "可编辑组件 · 自备媒体",
+        "parameters": [],
+        "limitations": [
+          "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+          "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+        ]
+      },
+      "previews": [
+        {
+          "videoUrl": "https://www.fred-fu.com/visual-library-app/objects/a34a836863f8da55448857f07c25c6e9799969f0e0dcdf66d3b853a9b1a9f1bc.mp4",
+          "posterUrl": "https://www.fred-fu.com/visual-library-app/objects/7354ce4a1695876d7628eaade7f71b06f093676907781ec6043bda08cf2f54ff.jpg",
+          "keyframes": [
+            {
+              "url": "https://www.fred-fu.com/visual-library-app/objects/7354ce4a1695876d7628eaade7f71b06f093676907781ec6043bda08cf2f54ff.jpg",
+              "frame": 72,
+              "timeSeconds": 1.2
+            },
+            {
+              "url": "https://www.fred-fu.com/visual-library-app/objects/d4aecdecc6d21cebcb9148412a94e363bb2cd55768af354b5b1d7aea90656bac.jpg",
+              "frame": 144,
+              "timeSeconds": 2.4
+            },
+            {
+              "url": "https://www.fred-fu.com/visual-library-app/objects/6db02a07b2a041e5365a5a11c2fa6556b85fa2c3ac741a07b3c52aaa96793d13.jpg",
+              "frame": 234,
+              "timeSeconds": 3.9
+            }
+          ],
+          "available": true,
+          "status": "ready",
+          "start": 0,
+          "end": 4.0,
+          "fps": 60,
+          "width": 1280,
+          "height": 720,
+          "sha256": "a34a836863f8da55448857f07c25c6e9799969f0e0dcdf66d3b853a9b1a9f1bc",
+          "label": "单项参数落定",
+          "audioPolicy": "accepted-component-action-sfx-no-narration",
+          "previewIdentity": {
+            "kind": "public-720p-preview",
+            "derivedFromSha256": "0d4c5e84bb200f79e60444ce4d19bbb1214d46b2ce562fb79a95d87c0b8df3fc",
+            "sourceWidth": 1920,
+            "sourceHeight": 1080,
+            "audioPolicy": "copied-original-compressed-audio"
+          },
+          "access": "public"
+        }
+      ],
+      "sources": [
+        {
+          "label": "T14b-SpecLand.tsx",
+          "path": "src/components/T14b-SpecLand.tsx",
+          "symbol": "SpecLand",
+          "url": "/api/visual-library/assets/3a62471969b32b9ccef6ecc90431865c716fcde26aa45f846f549af914ce145c.txt",
+          "sha256": "3a62471969b32b9ccef6ecc90431865c716fcde26aa45f846f549af914ce145c",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave2-fix5-20261012/fred-wave2-fix5-20261012/src/components/T14b-SpecLand.tsx",
+          "access": "members"
+        },
+        {
+          "label": "theme.ts",
+          "path": "src/kit/theme.ts",
+          "symbol": "",
+          "url": "/api/visual-library/assets/a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3.txt",
+          "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave2-fix5-20261012/fred-wave2-fix5-20261012/src/kit/theme.ts",
+          "access": "members"
+        },
+        {
+          "label": "ui.tsx",
+          "path": "src/kit/ui.tsx",
+          "symbol": "",
+          "url": "/api/visual-library/assets/05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9.txt",
+          "sha256": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave2-fix5-20261012/fred-wave2-fix5-20261012/src/kit/ui.tsx",
+          "access": "members"
+        },
+        {
+          "label": "registry.ts",
+          "path": "src/registry.ts",
+          "symbol": "",
+          "url": "/api/visual-library/assets/dec32d06f28c379337d1ba4358c451bf4683625b248b29dbd8d8de456c168b65.txt",
+          "sha256": "dec32d06f28c379337d1ba4358c451bf4683625b248b29dbd8d8de456c168b65",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-wave2-fix5-20261012/fred-wave2-fix5-20261012/src/registry.ts",
+          "access": "members"
+        }
+      ],
+      "matching": {
+        "referenceId": "fred-wave2-fix5-t14b",
+        "primaryUse": "data",
+        "useIds": [
+          "data"
+        ],
+        "sourceId": "fred-wave2-fix5",
+        "conceptIds": [
+          "data"
+        ],
+        "inputObjects": [
+          "参数名",
+          "数值",
+          "含义"
+        ],
+        "action": "一个参数名 → 数值落定并标出含义",
+        "segmentRole": "新做参数化组件（Fred 认可入库）",
+        "nativeDurationSeconds": 4.0,
+        "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。",
+        "tags": [
+          "新做组件",
+          "T14b",
+          "参数",
+          "数值落定",
+          "规格",
+          "价格",
+          "数值与图表",
+          "数值变化与落定"
+        ],
+        "scenarioId": "number",
+        "addedAt": "2026-10-12T16:26:39+08:00",
+        "scenarioTitle": "数值变化与落定",
+        "label": "T14b",
+        "categoryId": "data",
+        "category": "数值与图表",
+        "sceneTypes": [
+          "metric-change"
+        ],
+        "title": "单项参数落定",
+        "collectionId": "fred-wave2-fix5-20261012",
+        "kind": "components",
+        "score": 189.7,
+        "matchedConceptIds": [
+          "data"
+        ],
+        "matchedUseIds": [],
+        "matchedWords": [
+          "价格"
+        ],
+        "reasons": [
+          "数值与图表",
+          "原词命中：价格",
+          "相近词：价格"
+        ]
+      },
+      "sourceFiles": [
+        {
+          "path": ".artifacts/member-components/fred-wave2-fix5-20261012/fred-wave2-fix5-20261012/src/components/T14b-SpecLand.tsx",
+          "sha256": "3a62471969b32b9ccef6ecc90431865c716fcde26aa45f846f549af914ce145c",
+          "url": "/api/visual-library/assets/3a62471969b32b9ccef6ecc90431865c716fcde26aa45f846f549af914ce145c.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing",
+          "symbol": "SpecLand"
+        },
+        {
+          "path": ".artifacts/member-components/fred-wave2-fix5-20261012/fred-wave2-fix5-20261012/src/kit/theme.ts",
+          "sha256": "a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3",
+          "url": "/api/visual-library/assets/a235e95c652137b43c31a9c680dabfd8fce3bbb45fac8559cd0af70ce2e9b1a3.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing"
+        },
+        {
+          "path": ".artifacts/member-components/fred-wave2-fix5-20261012/fred-wave2-fix5-20261012/src/kit/ui.tsx",
+          "sha256": "05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9",
+          "url": "/api/visual-library/assets/05ce402324f5e11521b15dacc30de3ee1f89adb0a1b5c20b220a29890d8e3ba9.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing"
+        },
+        {
+          "path": ".artifacts/member-components/fred-wave2-fix5-20261012/fred-wave2-fix5-20261012/src/registry.ts",
+          "sha256": "dec32d06f28c379337d1ba4358c451bf4683625b248b29dbd8d8de456c168b65",
+          "url": "/api/visual-library/assets/dec32d06f28c379337d1ba4358c451bf4683625b248b29dbd8d8de456c168b65.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing"
+        }
+      ],
+      "sourceAvailability": {
+        "available": false,
+        "status": "needs-auth",
+        "authRequired": true,
+        "installationRequired": true,
+        "reason": "Source is not installed; log in to the website, download the official source ZIP and import it locally. Automatic token downloads are optional.",
+        "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+        "downloadCommand": "python3 scripts/assets.py download --members --collection fred-wave2-fix5-20261012",
+        "installCommand": "python3 scripts/assets.py materialize --members --collection fred-wave2-fix5-20261012"
+      },
+      "sourcePackage": {
+        "collectionId": "fred-wave2-fix5-20261012",
+        "sha256": "a24c2964b6c6f8115e240effbfcd94ae11b4e6c8223dbb3c59a927b82313d64e",
+        "size": 34023830,
+        "installRoot": ".artifacts/member-components/fred-wave2-fix5-20261012",
+        "entryPoint": ".artifacts/member-components/fred-wave2-fix5-20261012/fred-wave2-fix5-20261012/src/index.tsx",
+        "publicDir": ".artifacts/member-components/fred-wave2-fix5-20261012/fred-wave2-fix5-20261012/public"
+      },
+      "projectRoot": ".artifacts/member-components/fred-wave2-fix5-20261012/fred-wave2-fix5-20261012",
+      "entryPoint": null,
+      "publicDir": null,
+      "earlyAccess": {
+        "enabled": true,
+        "audience": "exclusive_group",
+        "requiredMembershipLevels": [
+          "exclusive_group"
+        ],
+        "durationDays": 14,
+        "startsAt": "2026-10-13T03:15:00.000Z",
+        "publicAt": "2026-10-27T03:15:00.000Z"
+      },
+      "candidateId": "fred-wave2-fix5-t14b"
+    },
+    {
+      "id": "component:fred-native-t14c",
+      "label": "T14c",
+      "title": "价格落定：数字逐位滚动，旧价划掉，差额亮出",
+      "reusability": {
+        "level": "parameterized",
+        "label": "可编辑组件 · 自备媒体",
+        "parameters": [
+          "label",
+          "value",
+          "decimals",
+          "prefix",
+          "unit",
+          "compareLabel",
+          "compareValue",
+          "deltaText",
+          "deltaKey",
+          "background"
+        ],
+        "limitations": [
+          "源码包保留真实实现、kit、字体与动作音效；人物素材、实际录屏与每期原片由使用者自备。",
+          "新文字、数量、媒体与口播时码需检查容量、可读性和动态。"
+        ]
+      },
+      "previews": [
+        {
+          "videoUrl": "https://www.fred-fu.com/visual-library-app/objects/b6ef45b4616f2d77db9fd623f3e017a50dbadac4f5b3859475d56eef4d9c9045.mp4",
+          "posterUrl": "https://www.fred-fu.com/visual-library-app/objects/bc3c92ed777f4386c1d30e1c60ced28a9a4f7a6dea6e0b368fac7d3c6a5fcf09.jpg",
+          "keyframes": [
+            {
+              "url": "https://www.fred-fu.com/visual-library-app/objects/bc3c92ed777f4386c1d30e1c60ced28a9a4f7a6dea6e0b368fac7d3c6a5fcf09.jpg",
+              "frame": 90,
+              "timeSeconds": 1.5
+            },
+            {
+              "url": "https://www.fred-fu.com/visual-library-app/objects/6c80a7aff1787c9bde5b8569a0e3681ef270951dee98b911fcb5653d3a249ee3.jpg",
+              "frame": 180,
+              "timeSeconds": 3.0
+            },
+            {
+              "url": "https://www.fred-fu.com/visual-library-app/objects/174ad24ec1e82c994d6fc1f05d2d74871bf50e6378c074489dfac21b37f88ee6.jpg",
+              "frame": 294,
+              "timeSeconds": 4.9
+            }
+          ],
+          "available": true,
+          "status": "ready",
+          "start": 0,
+          "end": 5.0,
+          "fps": 60,
+          "width": 1280,
+          "height": 720,
+          "sha256": "b6ef45b4616f2d77db9fd623f3e017a50dbadac4f5b3859475d56eef4d9c9045",
+          "label": "价格落定：数字逐位滚动，旧价划掉，差额亮出",
+          "audioPolicy": "accepted-component-action-sfx-no-narration",
+          "previewIdentity": {
+            "kind": "public-720p-preview",
+            "derivedFromSha256": "8b27bdc69cb120d7605d48e70827677ac1374fd37ca5c0f2607e8d900e1beb5f",
+            "sourceWidth": 1920,
+            "sourceHeight": 1080,
+            "audioPolicy": "copied-original-compressed-audio"
+          },
+          "access": "public"
+        }
+      ],
+      "sources": [
+        {
+          "label": "T14c-PriceLand.tsx",
+          "path": "src/components/T14c-PriceLand.tsx",
+          "symbol": "PriceLand",
+          "url": "/api/visual-library/assets/8a3a7af26e57fc47650419005c0ebbd3b64cdcdf1d1a20e6fc7fcbc4b86f2398.txt",
+          "sha256": "8a3a7af26e57fc47650419005c0ebbd3b64cdcdf1d1a20e6fc7fcbc4b86f2398",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-native-16-20261012/fred-native-16-20261012/src/components/T14c-PriceLand.tsx",
+          "access": "members"
+        },
+        {
+          "label": "theme.ts",
+          "path": "src/kit/theme.ts",
+          "symbol": "",
+          "url": "/api/visual-library/assets/c77ff0a6c94d35e5b41068730ebcbdc50736749c7c64b0327d4709ed88c0d15e.txt",
+          "sha256": "c77ff0a6c94d35e5b41068730ebcbdc50736749c7c64b0327d4709ed88c0d15e",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-native-16-20261012/fred-native-16-20261012/src/kit/theme.ts",
+          "access": "members"
+        },
+        {
+          "label": "ui.tsx",
+          "path": "src/kit/ui.tsx",
+          "symbol": "",
+          "url": "/api/visual-library/assets/e7351657058edc090877cc702ee43259fd7d0d616315e208818bc519c67a0390.txt",
+          "sha256": "e7351657058edc090877cc702ee43259fd7d0d616315e208818bc519c67a0390",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-native-16-20261012/fred-native-16-20261012/src/kit/ui.tsx",
+          "access": "members"
+        },
+        {
+          "label": "registry.ts",
+          "path": "src/registry.ts",
+          "symbol": "",
+          "url": "/api/visual-library/assets/ec145ef6139ba87d929cc024ab63461c9daf0a287fa23478785f574962935c19.txt",
+          "sha256": "ec145ef6139ba87d929cc024ab63461c9daf0a287fa23478785f574962935c19",
+          "available": false,
+          "status": "needs-auth",
+          "installPath": ".artifacts/member-components/fred-native-16-20261012/fred-native-16-20261012/src/registry.ts",
+          "access": "members"
+        }
+      ],
+      "matching": {
+        "referenceId": "fred-native-t14c",
+        "primaryUse": "data",
+        "useIds": [
+          "data"
+        ],
+        "sourceId": "fred-native",
+        "conceptIds": [
+          "data",
+          "comparison"
+        ],
+        "inputObjects": [
+          "新旧价格",
+          "单位",
+          "结论"
+        ],
+        "action": "价格落定：数字逐位滚动，旧价划掉，差额亮出",
+        "segmentRole": "新做参数化组件（Fred 认可入库）",
+        "nativeDurationSeconds": 5.0,
+        "adaptation": "只通过 props 换文字、素材、数量；新内容先出静帧检查容量与可读性。",
+        "tags": [
+          "新做组件",
+          "T14c",
+          "价格",
+          "数字滚动",
+          "降价",
+          "定价",
+          "数值与图表",
+          "数值变化与落定"
+        ],
+        "scenarioId": "number",
+        "addedAt": "2026-10-12T14:19:07+08:00",
+        "scenarioTitle": "数值变化与落定",
+        "label": "T14c",
+        "categoryId": "data",
+        "category": "数值与图表",
+        "sceneTypes": [
+          "metric-change"
+        ],
+        "title": "价格落定：数字逐位滚动，旧价划掉，差额亮出",
+        "collectionId": "fred-native-16-20261012",
+        "kind": "components",
+        "score": 189.7,
+        "matchedConceptIds": [
+          "data"
+        ],
+        "matchedUseIds": [],
+        "matchedWords": [
+          "价格"
+        ],
+        "reasons": [
+          "数值与图表",
+          "原词命中：价格",
+          "相近词：价格"
+        ]
+      },
+      "sourceFiles": [
+        {
+          "path": ".artifacts/member-components/fred-native-16-20261012/fred-native-16-20261012/src/components/T14c-PriceLand.tsx",
+          "sha256": "8a3a7af26e57fc47650419005c0ebbd3b64cdcdf1d1a20e6fc7fcbc4b86f2398",
+          "url": "/api/visual-library/assets/8a3a7af26e57fc47650419005c0ebbd3b64cdcdf1d1a20e6fc7fcbc4b86f2398.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing",
+          "symbol": "PriceLand"
+        },
+        {
+          "path": ".artifacts/member-components/fred-native-16-20261012/fred-native-16-20261012/src/kit/theme.ts",
+          "sha256": "c77ff0a6c94d35e5b41068730ebcbdc50736749c7c64b0327d4709ed88c0d15e",
+          "url": "/api/visual-library/assets/c77ff0a6c94d35e5b41068730ebcbdc50736749c7c64b0327d4709ed88c0d15e.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing"
+        },
+        {
+          "path": ".artifacts/member-components/fred-native-16-20261012/fred-native-16-20261012/src/kit/ui.tsx",
+          "sha256": "e7351657058edc090877cc702ee43259fd7d0d616315e208818bc519c67a0390",
+          "url": "/api/visual-library/assets/e7351657058edc090877cc702ee43259fd7d0d616315e208818bc519c67a0390.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing"
+        },
+        {
+          "path": ".artifacts/member-components/fred-native-16-20261012/fred-native-16-20261012/src/registry.ts",
+          "sha256": "ec145ef6139ba87d929cc024ab63461c9daf0a287fa23478785f574962935c19",
+          "url": "/api/visual-library/assets/ec145ef6139ba87d929cc024ab63461c9daf0a287fa23478785f574962935c19.txt",
+          "available": false,
+          "remoteAvailable": false,
+          "status": "missing"
+        }
+      ],
+      "sourceAvailability": {
+        "available": false,
+        "status": "needs-auth",
+        "authRequired": true,
+        "installationRequired": true,
+        "reason": "Source is not installed; log in to the website, download the official source ZIP and import it locally. Automatic token downloads are optional.",
+        "importCommand": "python3 scripts/assets.py import --zip <official-source-ZIP-path>",
+        "downloadCommand": "python3 scripts/assets.py download --members --collection fred-native-16-20261012",
+        "installCommand": "python3 scripts/assets.py materialize --members --collection fred-native-16-20261012"
+      },
+      "sourcePackage": {
+        "collectionId": "fred-native-16-20261012",
+        "sha256": "7a06fa4a2a156f5061d8a1337bbad28a147796874c65e1a268a744fb1c394915",
+        "size": 34052809,
+        "installRoot": ".artifacts/member-components/fred-native-16-20261012",
+        "entryPoint": ".artifacts/member-components/fred-native-16-20261012/fred-native-16-20261012/src/index.tsx",
+        "publicDir": ".artifacts/member-components/fred-native-16-20261012/fred-native-16-20261012/public"
+      },
+      "projectRoot": ".artifacts/member-components/fred-native-16-20261012/fred-native-16-20261012",
+      "entryPoint": null,
+      "publicDir": null,
+      "earlyAccess": {
+        "enabled": true,
+        "audience": "exclusive_group",
+        "requiredMembershipLevels": [
+          "exclusive_group"
+        ],
+        "durationDays": 14,
+        "startsAt": "2026-10-13T03:15:00.000Z",
+        "publicAt": "2026-10-27T03:15:00.000Z"
+      },
+      "candidateId": "fred-native-t14c"
+    }
+  ]
+}

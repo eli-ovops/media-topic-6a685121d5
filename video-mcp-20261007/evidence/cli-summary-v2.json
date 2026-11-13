@@ -1,0 +1,227 @@
+{
+  "success": true,
+  "tool": "video_analyze",
+  "rawResult": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cli-analyze.json",
+  "info": {
+    "path": "/Users/USER/Downloads/c0cbfe9ad16458a5845756d9a3ae9fe3_raw.mp4",
+    "source": "/Users/USER/Downloads/c0cbfe9ad16458a5845756d9a3ae9fe3_raw.mp4",
+    "sourceKind": "local",
+    "durationSec": 19.77166666666667,
+    "width": 2160,
+    "height": 3840,
+    "fps": 59.985,
+    "videoCodec": "hevc",
+    "audioCodec": "aac",
+    "hasAudio": true,
+    "hasVideo": true,
+    "bitrate": 49788925,
+    "sizeBytes": 123051255,
+    "formatName": "mov,mp4 (AVFoundation adapter)"
+  },
+  "transcript": {
+    "source": "whisper.cpp",
+    "language": "zh",
+    "segmentCount": 2,
+    "fullText": "被裁员以后,哪些事情需要先处理。租房遇到糾纷该去查哪些规定。想学一门新技能怎么判 断到底值不值得花钱。这类生活问题在GitHub上已经有人整理成了一份免费的高性价 比人生指南。",
+    "segments": [
+      {
+        "start": 0,
+        "end": 9.05,
+        "text": "被裁员以后,哪些事情需要先处理。租房遇到糾纷该去查哪些规定。想学一门新技能怎么判"
+      },
+      {
+        "start": 9.05,
+        "end": 19.77,
+        "text": "断到底值不值得花钱。这类生活问题在GitHub上已经有人整理成了一份免费的高性价"
+      }
+    ]
+  },
+  "frames": [
+    {
+      "index": 0,
+      "timeSec": 0,
+      "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/ab61791bf0c9a637/interval/frame_0001.jpg",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "index": 1,
+      "timeSec": 0.659,
+      "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/ab61791bf0c9a637/interval/frame_0002.jpg",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "index": 2,
+      "timeSec": 1.318,
+      "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/ab61791bf0c9a637/interval/frame_0003.jpg",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "index": 3,
+      "timeSec": 1.977,
+      "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/ab61791bf0c9a637/interval/frame_0004.jpg",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "index": 4,
+      "timeSec": 2.636,
+      "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/ab61791bf0c9a637/interval/frame_0005.jpg",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "index": 5,
+      "timeSec": 3.295,
+      "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/ab61791bf0c9a637/interval/frame_0006.jpg",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "index": 6,
+      "timeSec": 3.954,
+      "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/ab61791bf0c9a637/interval/frame_0007.jpg",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "index": 7,
+      "timeSec": 4.613,
+      "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/ab61791bf0c9a637/interval/frame_0008.jpg",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "index": 8,
+      "timeSec": 5.272,
+      "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/ab61791bf0c9a637/interval/frame_0009.jpg",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "index": 9,
+      "timeSec": 5.932,
+      "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/ab61791bf0c9a637/interval/frame_0010.jpg",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "index": 10,
+      "timeSec": 6.591,
+      "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/ab61791bf0c9a637/interval/frame_0011.jpg",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "index": 11,
+      "timeSec": 7.25,
+      "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/ab61791bf0c9a637/interval/frame_0012.jpg",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "index": 12,
+      "timeSec": 7.909,
+      "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/ab61791bf0c9a637/interval/frame_0013.jpg",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "index": 13,
+      "timeSec": 8.568,
+      "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/ab61791bf0c9a637/interval/frame_0014.jpg",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "index": 14,
+      "timeSec": 9.227,
+      "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/ab61791bf0c9a637/interval/frame_0015.jpg",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "index": 15,
+      "timeSec": 9.886,
+      "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/ab61791bf0c9a637/interval/frame_0016.jpg",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "index": 16,
+      "timeSec": 10.545,
+      "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/ab61791bf0c9a637/interval/frame_0017.jpg",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "index": 17,
+      "timeSec": 11.204,
+      "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/ab61791bf0c9a637/interval/frame_0018.jpg",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "index": 18,
+      "timeSec": 11.863,
+      "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/ab61791bf0c9a637/interval/frame_0019.jpg",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "index": 19,
+      "timeSec": 12.522,
+      "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/ab61791bf0c9a637/interval/frame_0020.jpg",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "index": 20,
+      "timeSec": 13.181,
+      "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/ab61791bf0c9a637/interval/frame_0021.jpg",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "index": 21,
+      "timeSec": 13.84,
+      "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/ab61791bf0c9a637/interval/frame_0022.jpg",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "index": 22,
+      "timeSec": 14.499,
+      "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/ab61791bf0c9a637/interval/frame_0023.jpg",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "index": 23,
+      "timeSec": 15.158,
+      "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/ab61791bf0c9a637/interval/frame_0024.jpg",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "index": 24,
+      "timeSec": 15.817,
+      "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/ab61791bf0c9a637/interval/frame_0025.jpg",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "index": 25,
+      "timeSec": 16.476,
+      "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/ab61791bf0c9a637/interval/frame_0026.jpg",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "index": 26,
+      "timeSec": 17.135,
+      "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/ab61791bf0c9a637/interval/frame_0027.jpg",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "index": 27,
+      "timeSec": 17.795,
+      "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/ab61791bf0c9a637/interval/frame_0028.jpg",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "index": 28,
+      "timeSec": 18.454,
+      "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/ab61791bf0c9a637/interval/frame_0029.jpg",
+      "mimeType": "image/jpeg"
+    },
+    {
+      "index": 29,
+      "timeSec": 19.113,
+      "path": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/cache/frames/ab61791bf0c9a637/interval/frame_0030.jpg",
+      "mimeType": "image/jpeg"
+    }
+  ],
+  "inlineCount": 6,
+  "warnings": [
+    "ASR is machine-generated and may contain wrong words; timestamps are approximate, not a prosody assessment.",
+    "Rejected 1 ASR timestamp segment(s) outside valid duration 19.772s. fullText is preserved without assigning invented timestamps."
+  ],
+  "limitations": "ASR文字不是直接听音；图片是时间采样；没有连续视频输入。"
+}

@@ -1,0 +1,81 @@
+{
+  "at": "2026-10-20T23:08:31.963106+08:00",
+  "groups": [
+    {
+      "group": "AI唱反调",
+      "kind": "webpack-cache",
+      "directories": 6,
+      "allocated_kib": 601336,
+      "logical_bytes": 615716967,
+      "public_exact": 0,
+      "public_held": 0,
+      "source_exact": 0,
+      "source_history_unlocated": 0
+    },
+    {
+      "group": "AI唱反调",
+      "kind": "webpack-bundle",
+      "directories": 18,
+      "allocated_kib": 4127236,
+      "logical_bytes": 4224319465,
+      "public_exact": 224,
+      "public_held": 2,
+      "source_exact": 222,
+      "source_history_unlocated": 17
+    },
+    {
+      "group": "WorkBuddy已取消",
+      "kind": "webpack-bundle",
+      "directories": 12,
+      "allocated_kib": 456096,
+      "logical_bytes": 465311891,
+      "public_exact": 166,
+      "public_held": 0,
+      "source_exact": 20,
+      "source_history_unlocated": 4
+    },
+    {
+      "group": "AI漏斗已发布",
+      "kind": "webpack-bundle",
+      "directories": 21,
+      "allocated_kib": 386580,
+      "logical_bytes": 394273565,
+      "public_exact": 6,
+      "public_held": 0,
+      "source_exact": 195,
+      "source_history_unlocated": 27
+    },
+    {
+      "group": "豆包155旧制作",
+      "kind": "webpack-bundle",
+      "directories": 5,
+      "allocated_kib": 912724,
+      "logical_bytes": 934072291,
+      "public_exact": 62,
+      "public_held": 0,
+      "source_exact": 21,
+      "source_history_unlocated": 0
+    },
+    {
+      "group": "独立动效对比",
+      "kind": "webpack-bundle",
+      "directories": 2,
+      "allocated_kib": 180284,
+      "logical_bytes": 184409031,
+      "public_exact": 8,
+      "public_held": 0,
+      "source_exact": 6,
+      "source_history_unlocated": 1
+    }
+  ],
+  "scope_roots": [
+    "/Volumes/EXTERNAL/自媒体/ai-contrarian-20261019/02_制作/fred-v5",
+    "/Volumes/EXTERNAL/自媒体/workbuddy-test-20261015/flow/04",
+    "/Volumes/EXTERNAL/自媒体/ai-funnel-vibe-20261020/04-制作",
+    "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion",
+    "/Volumes/EXTERNAL/自媒体/motion-model-comparison-20261013/astra-max/evidence"
+  ],
+  "asset_mutations": 0,
+  "scope_excludes_original_libraries": true,
+  "allocation_not_reclaimable_bytes": true
+}

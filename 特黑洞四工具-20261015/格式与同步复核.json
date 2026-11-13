@@ -1,0 +1,45 @@
+{
+  "validation_note": "Official quick_validate unavailable: both existing Python runtimes lack yaml. Checked the two plain-scalar metadata fields directly and rechecked every manifest hash; no dependency installed for validation.",
+  "results": [
+    {
+      "path": "/Users/USER/.codex/skills/lemo-opuscar",
+      "frontmatter": "PASS restricted plain-scalar name/description validation",
+      "manifest_hashes": "PASS"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/.agents/skills/lemo-opuscar",
+      "frontmatter": "PASS restricted plain-scalar name/description validation",
+      "manifest_hashes": "PASS"
+    },
+    {
+      "path": "/Users/USER/.codex/skills/awesome-opus5-5-videos",
+      "frontmatter": "PASS restricted plain-scalar name/description validation",
+      "manifest_hashes": "PASS"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/.agents/skills/awesome-opus5-5-videos",
+      "frontmatter": "PASS restricted plain-scalar name/description validation",
+      "manifest_hashes": "PASS"
+    },
+    {
+      "path": "/Users/USER/.codex/skills/pdoom-video",
+      "frontmatter": "PASS restricted plain-scalar name/description validation",
+      "manifest_hashes": "PASS"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/.agents/skills/pdoom-video",
+      "frontmatter": "PASS restricted plain-scalar name/description validation",
+      "manifest_hashes": "PASS"
+    },
+    {
+      "path": "/Users/USER/.codex/skills/opus-video-prompts",
+      "frontmatter": "PASS restricted plain-scalar name/description validation",
+      "manifest_hashes": "PASS"
+    },
+    {
+      "path": "/Volumes/EXTERNAL/自媒体/.agents/skills/opus-video-prompts",
+      "frontmatter": "PASS restricted plain-scalar name/description validation",
+      "manifest_hashes": "PASS"
+    }
+  ]
+}

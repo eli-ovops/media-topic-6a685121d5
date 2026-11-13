@@ -1,0 +1,1287 @@
+{
+  "version": "SY-STYLES-INSTALL-20261017-v1",
+  "source": "https://github.com/xiaoxiong20xx-code/sy-styles-20",
+  "ref": "main",
+  "commit": "UNKNOWN",
+  "global": "/Users/USER/.codex/skills/sy-styles-20",
+  "project": "/Volumes/EXTERNAL/自媒体/.agents/skills/sy-styles-20",
+  "matching_files": 255,
+  "files": [
+    {
+      "path": "SKILL.md",
+      "bytes": 6040,
+      "sha256": "0d1b537684dca4c7743fee50076dfeb1f605c3c4cb2b8a4e41f5b7a70f18a576"
+    },
+    {
+      "path": "references/repository/.gitignore",
+      "bytes": 46,
+      "sha256": "137d70edb8210a00d68cf91d5845f1ffd9b67a8f3e1e80ed28f3f19f7d982160"
+    },
+    {
+      "path": "references/repository/AGENTS.md",
+      "bytes": 5144,
+      "sha256": "56a5e022b0952cdae2a4a89e48825825eb4e0318635a2073611fb65d465a0ddc"
+    },
+    {
+      "path": "references/repository/CLAUDE.md",
+      "bytes": 33,
+      "sha256": "02829fbb5f02ffaf53036a0fec7eaea36ca577d00bf4b7a091004f28b7bfed30"
+    },
+    {
+      "path": "references/repository/LICENSE",
+      "bytes": 1073,
+      "sha256": "12f74b6ffa07d624922c1e34760ee7b3551bf865b3c393b98aaf7da0e2b5d3b5"
+    },
+    {
+      "path": "references/repository/README.md",
+      "bytes": 4897,
+      "sha256": "3030c9ec374a57a598d3a30662f210ef1c8fe3adc1a206c635ac2ea31bc3573e"
+    },
+    {
+      "path": "references/repository/SKILL.md",
+      "bytes": 6485,
+      "sha256": "bcc80b80bf2f3c4fbda6c970b9d0c63b08412ce629af8c36b08df86d4cb097a4"
+    },
+    {
+      "path": "references/repository/audio/dumpcues.js",
+      "bytes": 1337,
+      "sha256": "b370d8e95d9dbe75096d5a0384eede58caa46c19f1b4444086197d1c1a1da02c"
+    },
+    {
+      "path": "references/repository/audio/reelplan.py",
+      "bytes": 2129,
+      "sha256": "0dcad111f82dad04b59c6dc5ebd946f0652c69bdeccc409bb5ee05d2bcc51ad0"
+    },
+    {
+      "path": "references/repository/audio/synth.py",
+      "bytes": 42212,
+      "sha256": "e71d87f65bdd574af43fc01e09301fa18bf921c48dd474ca8d697cfd47a5bc1e"
+    },
+    {
+      "path": "references/repository/comp/balls.js",
+      "bytes": 14896,
+      "sha256": "2c60a1f8fb5a7addda5c2d3d023daa176d7498f32c27b0b5a304afc67f9fb13b"
+    },
+    {
+      "path": "references/repository/comp/cover.html",
+      "bytes": 1944,
+      "sha256": "5e1f4a0af2809ed1fd04f6db6c478fc30df14e9d94c8eb5bfedcd97d757fe42b"
+    },
+    {
+      "path": "references/repository/comp/meta.js",
+      "bytes": 8027,
+      "sha256": "e4a77fac903f1be926fea0b1aa12c19fddbc6de7919f32836efea32cbf774c0f"
+    },
+    {
+      "path": "references/repository/comp/reel.html",
+      "bytes": 27725,
+      "sha256": "e3482792a7e07673a025f310fced4e97680c3cf4541781750be7c1a31bb64aca"
+    },
+    {
+      "path": "references/repository/docs/STYLES.md",
+      "bytes": 4796,
+      "sha256": "1a7a8e6607a1cc1b656028174c414777cc2fd279e1ce1a302d36619939707f50"
+    },
+    {
+      "path": "references/repository/docs/cover.jpg",
+      "bytes": 334277,
+      "sha256": "47e32d9b41c8da2bc02779348d1b18ff3925bde24f8ceb3243bb8173d2166606"
+    },
+    {
+      "path": "references/repository/lib/core.js",
+      "bytes": 9049,
+      "sha256": "dd08c6cbd257d8b57cc9877d22cc006f6898e515bafe5c9dbdec2a90ee9df908"
+    },
+    {
+      "path": "references/repository/lib/gl.js",
+      "bytes": 7832,
+      "sha256": "6362d6012c8dd1c98610c0f11f5f1a7b5a4113d8ab66dd3c4d8269ab25c5efe7"
+    },
+    {
+      "path": "references/repository/lib/rm.js",
+      "bytes": 10149,
+      "sha256": "c7c8be09d246a2bc3f284fdcc62c367066afe69368d51d6923a5e714ee178a63"
+    },
+    {
+      "path": "references/repository/make.js",
+      "bytes": 7886,
+      "sha256": "b10b3c03a7d18cbb681edfb69afcb4fbef659dbb4e9d3165a44279def7ffb621"
+    },
+    {
+      "path": "references/repository/package.json",
+      "bytes": 439,
+      "sha256": "86e43b009881b4ec6a8d5bb583db79008b34095d83caffcbedc94d0fac90d712"
+    },
+    {
+      "path": "references/repository/render.js",
+      "bytes": 6701,
+      "sha256": "5a84003d7e90dc1736703b7b8fadf173d0efe11446a13a6ecd40cf381634fe72"
+    },
+    {
+      "path": "references/repository/requirements.txt",
+      "bytes": 12,
+      "sha256": "1978c5330a34a48fac00c1107de3949b8c8da3bd11517f59ca9b4510363c6c8a"
+    },
+    {
+      "path": "references/repository/skills/sy-styles-20/SKILL.md",
+      "bytes": 5413,
+      "sha256": "49f558ad7cacdc80020841253ac669b3db81fdc81454d13fdca6445d8615b334"
+    },
+    {
+      "path": "references/repository/styles/01-handdrawn/cues.json",
+      "bytes": 155,
+      "sha256": "a6cab53e2ce8567842b391192a3c206320c70b2174a5c0607fec2d05f83c9848"
+    },
+    {
+      "path": "references/repository/styles/01-handdrawn/index.html",
+      "bytes": 49689,
+      "sha256": "6ec9b79becea543b57c4f6ab5b54e362b0cd0a44470abe28811c4ec250f549ce"
+    },
+    {
+      "path": "references/repository/styles/02-isometric/cues.json",
+      "bytes": 148,
+      "sha256": "69c1cdefad64ddaa145c9311de7fbf96f4b789e3ab28b02101b27ad8bc754ac2"
+    },
+    {
+      "path": "references/repository/styles/02-isometric/index.html",
+      "bytes": 21915,
+      "sha256": "1de8340067792ddde5397ba626a52ce[REDACTED_PHONE]dde6475d83d04b47b0b660"
+    },
+    {
+      "path": "references/repository/styles/02-isometric/render.args",
+      "bytes": 7,
+      "sha256": "b2c22d5d50a3de3a0d630ecde20c389fec65bb5a7f03258eebdd45fbae7c91f1"
+    },
+    {
+      "path": "references/repository/styles/03-flat/cues.json",
+      "bytes": 174,
+      "sha256": "f625d5751c28e1306b58adf0bf74a46f07819b67b0191f3b2030cb7b6dbb2fb7"
+    },
+    {
+      "path": "references/repository/styles/03-flat/index.html",
+      "bytes": 20843,
+      "sha256": "311a310e0a7afc41618e9f9864ae17eaadb754e0d4b2bd1286cb7fe500b04c96"
+    },
+    {
+      "path": "references/repository/styles/03-flat/render.args",
+      "bytes": 7,
+      "sha256": "ab44f6372ac0d593ce543762842ce80f5146eb758aacd9792c91d616b813aeb4"
+    },
+    {
+      "path": "references/repository/styles/04-lineart/cues.json",
+      "bytes": 122,
+      "sha256": "61cf08281928388f673fb5e3432178be9874f0575ec9b69456c8a58822f47381"
+    },
+    {
+      "path": "references/repository/styles/04-lineart/index.html",
+      "bytes": 12084,
+      "sha256": "0c0a74869bb96f3cefac38895b62b14713a8cc44f4a550c5a22747e9c9b97702"
+    },
+    {
+      "path": "references/repository/styles/04-lineart/render.args",
+      "bytes": 7,
+      "sha256": "ab44f6372ac0d593ce543762842ce80f5146eb758aacd9792c91d616b813aeb4"
+    },
+    {
+      "path": "references/repository/styles/05-3d/cues.json",
+      "bytes": 215,
+      "sha256": "3e5b23c18f6385dccf0016d0556810ccf796e9451fb107c1921c413492026ccb"
+    },
+    {
+      "path": "references/repository/styles/05-3d/index.html",
+      "bytes": 14501,
+      "sha256": "33155f69785a64af3ea9ec5e76c0dc02aaec83ce7b0561dd72760c6a5e5b45b0"
+    },
+    {
+      "path": "references/repository/styles/05-3d/render.args",
+      "bytes": 7,
+      "sha256": "9c1438b11eb021f7708bcde090a0ea6981080dc144a49270a2d1b2c114d8e573"
+    },
+    {
+      "path": "references/repository/styles/06-morph/cues.json",
+      "bytes": 232,
+      "sha256": "f4838fa4bde6ec4a984886c288b113f38cac66f2ad891a1fbb93b35fadf0787e"
+    },
+    {
+      "path": "references/repository/styles/06-morph/index.html",
+      "bytes": 10084,
+      "sha256": "ca2e299ee4fffd49f20d541346cba6657669562dd1f80f2794d1532563cd8992"
+    },
+    {
+      "path": "references/repository/styles/06-morph/render.args",
+      "bytes": 7,
+      "sha256": "ab44f6372ac0d593ce543762842ce80f5146eb758aacd9792c91d616b813aeb4"
+    },
+    {
+      "path": "references/repository/styles/07-sticker/cues.json",
+      "bytes": 575,
+      "sha256": "0a399f2247b323127f03dfbfea45c5cff0f058c304e241f58510cf4bb320b933"
+    },
+    {
+      "path": "references/repository/styles/07-sticker/index.html",
+      "bytes": 14308,
+      "sha256": "278ee532651bc57a90d3233d9bbfcec2972c194f65e557a3d1d5b8d06b29b725"
+    },
+    {
+      "path": "references/repository/styles/07-sticker/render.args",
+      "bytes": 7,
+      "sha256": "d3754efe667f340d68a3a7d61de55fd43202b000733c910233349d0ad6238b91"
+    },
+    {
+      "path": "references/repository/styles/08-hud/cues.json",
+      "bytes": 196,
+      "sha256": "ccf7d72b6e936b58f42e05c30601364ff1d09951e0927a9ed42840707233c7b3"
+    },
+    {
+      "path": "references/repository/styles/08-hud/index.html",
+      "bytes": 17381,
+      "sha256": "fc181e408a372260e2aa1d9a7027c94ddf04ef613d5bc57e5cb468d20e0d475b"
+    },
+    {
+      "path": "references/repository/styles/08-hud/render.args",
+      "bytes": 7,
+      "sha256": "ab44f6372ac0d593ce543762842ce80f5146eb758aacd9792c91d616b813aeb4"
+    },
+    {
+      "path": "references/repository/styles/09-collage/cues.json",
+      "bytes": 1205,
+      "sha256": "6e575d03e29cb91bc75b748bc8362279eb2fb2a55ca87dc5e389dc07e8ca72eb"
+    },
+    {
+      "path": "references/repository/styles/09-collage/index.html",
+      "bytes": 43467,
+      "sha256": "06ac51c01004103c7809f80ae5b67784526db7b1dc8873b77a25ca2df62673a2"
+    },
+    {
+      "path": "references/repository/styles/09-collage/media/city.jpg",
+      "bytes": 47788,
+      "sha256": "00e031d4e17ebdae27e680676fc1a6321d9bb45896b16c67b6bb4a436fa16a2f"
+    },
+    {
+      "path": "references/repository/styles/09-collage/media/cottage.jpg",
+      "bytes": 74200,
+      "sha256": "ff471bc200eb49e7e099e4e8c8cbc5be3c9f2a69cb134c74e116189ddece9f7e"
+    },
+    {
+      "path": "references/repository/styles/09-collage/media/glass.jpg",
+      "bytes": 32562,
+      "sha256": "c4e3e8899d29191c216d2a4c563ad120c471ceaba202c78d0e7c33b9f32a6e80"
+    },
+    {
+      "path": "references/repository/styles/09-collage/media/media.js",
+      "bytes": 311583,
+      "sha256": "9a7717da640338d0f710082acbc73ac0000b648766c4d6d83c4c07b03945f811"
+    },
+    {
+      "path": "references/repository/styles/09-collage/media/pixel.jpg",
+      "bytes": 79013,
+      "sha256": "1e158be92aa9e6d4c348d0b3c16525e3bb89d97a2e3234ff40090067f3788f2f"
+    },
+    {
+      "path": "references/repository/styles/10-glass/cues.json",
+      "bytes": 226,
+      "sha256": "0da939bb92cdcb7c1b349381b3e89c30ff69acf748652e1417c1cca17385e884"
+    },
+    {
+      "path": "references/repository/styles/10-glass/index.html",
+      "bytes": 16051,
+      "sha256": "a80082d4cb9942c39d324d4e0206da7d99aeba5718f910d505cb0c5d57501979"
+    },
+    {
+      "path": "references/repository/styles/10-glass/render.args",
+      "bytes": 7,
+      "sha256": "9c1438b11eb021f7708bcde090a0ea6981080dc144a49270a2d1b2c114d8e573"
+    },
+    {
+      "path": "references/repository/styles/11-bauhaus/cues.json",
+      "bytes": 629,
+      "sha256": "edffe439ef6feb5a56df06ab375cd35bd186a9561fdc21080762c4c56ce443ab"
+    },
+    {
+      "path": "references/repository/styles/11-bauhaus/index.html",
+      "bytes": 17298,
+      "sha256": "054d8300e0d8be5d1affe7e116ac790e530316da2ce6bfb7e28ffd988a2fe775"
+    },
+    {
+      "path": "references/repository/styles/11-bauhaus/render.args",
+      "bytes": 7,
+      "sha256": "b2c22d5d50a3de3a0d630ecde20c389fec65bb5a7f03258eebdd45fbae7c91f1"
+    },
+    {
+      "path": "references/repository/styles/12-synthwave/cues.json",
+      "bytes": 176,
+      "sha256": "f128c5dfba6c9ccf8de1ab59407f056ff046a3ac6ef963f2e8eab0c7607e0bbb"
+    },
+    {
+      "path": "references/repository/styles/12-synthwave/index.html",
+      "bytes": 12401,
+      "sha256": "9f20139e1a85a69da254b42d383508a7297996dcecf03dc9ff954b187132720a"
+    },
+    {
+      "path": "references/repository/styles/12-synthwave/render.args",
+      "bytes": 7,
+      "sha256": "514ff3988216fc4d1fd2e0aba9d984101dd25a7cdd4e0b6b4cc230dbb0a1fdc9"
+    },
+    {
+      "path": "references/repository/styles/13-pixel/cues.json",
+      "bytes": 190,
+      "sha256": "1162ab8ac5c808a4a9c2552276471a385b7b844309f3797827570ea15993bfe7"
+    },
+    {
+      "path": "references/repository/styles/13-pixel/index.html",
+      "bytes": 30642,
+      "sha256": "03e3791d58c0d74d218fdde2ecc6af4591eef24afee2077ca1883fcd36752c0d"
+    },
+    {
+      "path": "references/repository/styles/14-liquid/cues.json",
+      "bytes": 318,
+      "sha256": "d3ba493f9c6c8f481da4b1456455a1eecb66464f8a9943811d50a29f16bfc4db"
+    },
+    {
+      "path": "references/repository/styles/14-liquid/index.html",
+      "bytes": 17562,
+      "sha256": "1c67fcc0f6653f69df52e225d9c2ee39d43141e0a2600162923c596594c55d6d"
+    },
+    {
+      "path": "references/repository/styles/14-liquid/render.args",
+      "bytes": 7,
+      "sha256": "514ff3988216fc4d1fd2e0aba9d984101dd25a7cdd4e0b6b4cc230dbb0a1fdc9"
+    },
+    {
+      "path": "references/repository/styles/15-variety/cues.json",
+      "bytes": 277,
+      "sha256": "02b05666ce6310a8ff15417d633da8b8e39ccf09e0c4d6028b5837e728b4f9bb"
+    },
+    {
+      "path": "references/repository/styles/15-variety/index.html",
+      "bytes": 26352,
+      "sha256": "72719947a1e73152fdf74ed522728cc51a90bd8e174302db3d4420c9d5f30bee"
+    },
+    {
+      "path": "references/repository/styles/15-variety/render.args",
+      "bytes": 7,
+      "sha256": "9c1438b11eb021f7708bcde090a0ea6981080dc144a49270a2d1b2c114d8e573"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/cues.json",
+      "bytes": 215,
+      "sha256": "8bde89f56b722e77706029ca898c1306b730d81e434d73863638d588d71cc9d2"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/index.html",
+      "bytes": 13997,
+      "sha256": "3df4b16fcff11e5c0282d879430a73a6b6627741ac3b301518aa74cb7fedb79f"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p000.jpg",
+      "bytes": 41799,
+      "sha256": "7067495d06660d1d77cb47b5f791b0f0bc17584769b71d5319dfe81f00bb6c63"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p001.jpg",
+      "bytes": 41799,
+      "sha256": "7067495d06660d1d77cb47b5f791b0f0bc17584769b71d5319dfe81f00bb6c63"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p002.jpg",
+      "bytes": 41905,
+      "sha256": "1ec96dab472c08bd6a837cf72c258052f84b5ff78a0fc57b343c053a07d2b585"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p003.jpg",
+      "bytes": 41985,
+      "sha256": "74248f95407e7fc0b3389b38b2e8924c20c2c4d9189e32447334243a3d52a7b2"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p004.jpg",
+      "bytes": 41916,
+      "sha256": "4be7c7395abfbc3451a10b33c76c74d3840274da4addc58cedbc6c6a3bdbfd46"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p005.jpg",
+      "bytes": 41953,
+      "sha256": "aefff27b8b16cf0aa22a6b380ee28a72161b1fdc693ec0ecf930bac30f5aed17"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p006.jpg",
+      "bytes": 41953,
+      "sha256": "aefff27b8b16cf0aa22a6b380ee28a72161b1fdc693ec0ecf930bac30f5aed17"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p007.jpg",
+      "bytes": 42072,
+      "sha256": "82b6b164773ecd4703c9e1301d25ac46f255c011dc3bd25c92d460397d8ae9a4"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p008.jpg",
+      "bytes": 41970,
+      "sha256": "5674a7e889d2828fc53589795f5c726f229a3290100b6dc0e6f9fe995b2fbcad"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p009.jpg",
+      "bytes": 41905,
+      "sha256": "b3ec29eb24395b8ec9a2fa75e3e0357438f57cd8d591ed50cf383c885284cfc6"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p010.jpg",
+      "bytes": 41805,
+      "sha256": "58add12ee457dc3cbf9ed511d7a6c97d962a677f275e59f81424f31de59ee669"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p011.jpg",
+      "bytes": 41805,
+      "sha256": "58add12ee457dc3cbf9ed511d7a6c97d962a677f275e59f81424f31de59ee669"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p012.jpg",
+      "bytes": 41864,
+      "sha256": "b2a360151d44a5d9123528bf1060eed2e59627f3f479280f40835c180d69d160"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p013.jpg",
+      "bytes": 41779,
+      "sha256": "12a20b3cac60106679d8f056b8d6c06a027a48da3ba208f8a41aed8ef2f3a458"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p014.jpg",
+      "bytes": 41653,
+      "sha256": "fcf3a576d3cb1d3b766d97270233f3f3d5b1a8d54183bdce7df7fc04412b7ecb"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p015.jpg",
+      "bytes": 41910,
+      "sha256": "b043769203b5f3d116aeeb00853c7f213e346b82b40f7cbd3bd1473e30336382"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p016.jpg",
+      "bytes": 41910,
+      "sha256": "b043769203b5f3d116aeeb00853c7f213e346b82b40f7cbd3bd1473e30336382"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p017.jpg",
+      "bytes": 41958,
+      "sha256": "70ec13f77043542fdccde570c09ab11fbf690a91e334e346270b6662fff1a937"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p018.jpg",
+      "bytes": 41811,
+      "sha256": "c5cc0b8c690e56e970d0bbbd58747e55bb9189eb8ad230b81c4a4a0afd129085"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p019.jpg",
+      "bytes": 41758,
+      "sha256": "77ae6d4b2590ab79566fcf05adcc0af9e5e37daab421adfb412ab19d62080478"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p020.jpg",
+      "bytes": 41650,
+      "sha256": "ae35d1fb9a026aab0733c90736f9b362688b88718ec4a444116554ae9739b669"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p021.jpg",
+      "bytes": 41650,
+      "sha256": "ae35d1fb9a026aab0733c90736f9b362688b88718ec4a444116554ae9739b669"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p022.jpg",
+      "bytes": 41707,
+      "sha256": "ff4c9736a6c7db6703346540dc124a2464ecbc5877c8c908b5a785b08ea0f497"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p023.jpg",
+      "bytes": 41869,
+      "sha256": "ff7c6eae18aefb8cd4561bc4a0d777f06964643ba3368ad3b335d461ee9f6ac7"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p024.jpg",
+      "bytes": 42003,
+      "sha256": "17c3bcfb058c1192b67a43ec94e06920e626955a827b2be3fb374b0f50881a8d"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p025.jpg",
+      "bytes": 42103,
+      "sha256": "a71d547e65ac74933905b1b5b0c2cd608133f8916318f4ec45adff57647ea4b9"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p026.jpg",
+      "bytes": 42103,
+      "sha256": "a71d547e65ac74933905b1b5b0c2cd608133f8916318f4ec45adff57647ea4b9"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p027.jpg",
+      "bytes": 42023,
+      "sha256": "26b4cadc7634f479cb2ae11340ecb7ce6d22454afae3ed83d278317c9765da05"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p028.jpg",
+      "bytes": 42008,
+      "sha256": "da8bd0c7290721e61aed5e95bc7a4a27b13b2eeda951a6ecfbfbd1068f6efd9e"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p029.jpg",
+      "bytes": 41883,
+      "sha256": "78176b012187e3eadbba94b873150df8760ac2880ad78fb6fe43a035d52a90c1"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p030.jpg",
+      "bytes": 42058,
+      "sha256": "6721a0855ccdd9b323b950ac9f6cde1933b632ceb75364dcbdeda25e54083a5a"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p031.jpg",
+      "bytes": 42058,
+      "sha256": "6721a0855ccdd9b323b950ac9f6cde1933b632ceb75364dcbdeda25e54083a5a"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p032.jpg",
+      "bytes": 42249,
+      "sha256": "f08d6685d03663da6fa8849214b87c7b773e6b58b6ad3651719d8b68baa13d19"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p033.jpg",
+      "bytes": 42393,
+      "sha256": "81bf399ec9f23d6a0b7534716a4681095a5bc57014198481374abb288ac5cff4"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p034.jpg",
+      "bytes": 42294,
+      "sha256": "b88a83dd1e67c8488daf3a45fd60670454ff65e22a9344317cdd4f6ac10cc20d"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p035.jpg",
+      "bytes": 42287,
+      "sha256": "87918d57c5ba0b7520bccc2812dc6a72d861faa52c3957484778c1bb68b71467"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p036.jpg",
+      "bytes": 42287,
+      "sha256": "87918d57c5ba0b7520bccc2812dc6a72d861faa52c3957484778c1bb68b71467"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p037.jpg",
+      "bytes": 42090,
+      "sha256": "827fd6cc538a38645c3938a968e062160f9201e4718bb483ac9f27ae830b9b02"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p038.jpg",
+      "bytes": 42223,
+      "sha256": "3d82a814b727f42340dd4ebb8c9d13ecd4967e04fd4fc5f82dfa278c3dc16fa3"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p039.jpg",
+      "bytes": 42328,
+      "sha256": "f9da8d2d00321dbee8964bd76b836bda593363e6e8194f722b24870f0c3cd969"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p040.jpg",
+      "bytes": 42366,
+      "sha256": "49a6270c707f4d060717de1dccf83718f60c01caf8622e68eb4fd6e66757ac38"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p041.jpg",
+      "bytes": 42366,
+      "sha256": "49a6270c707f4d060717de1dccf83718f60c01caf8622e68eb4fd6e66757ac38"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p042.jpg",
+      "bytes": 42582,
+      "sha256": "45dde4bed1e799edd99567e65b77692cc2f9d096197196d142524aea9318c368"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p043.jpg",
+      "bytes": 42194,
+      "sha256": "73f43c60640791a7abe9bb260c9cdd7cd71bfb23f5b5af9ad8a403655bf021e1"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p044.jpg",
+      "bytes": 42005,
+      "sha256": "a159b2eefd690e07ee8f90957cb6eb3c95b51c342e2f60c5278401c66acc1965"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p045.jpg",
+      "bytes": 41963,
+      "sha256": "a93cbc2bf9730ee232215508d3e779bd5d39a28b4efd45782a9f6edb03c2d938"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p046.jpg",
+      "bytes": 41963,
+      "sha256": "a93cbc2bf9730ee232215508d3e779bd5d39a28b4efd45782a9f6edb03c2d938"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p047.jpg",
+      "bytes": 41939,
+      "sha256": "cb9d2be240b1de88f0cda64c0ade192c4b79243f1a57da09ee85abe4655a0d1b"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p048.jpg",
+      "bytes": 41709,
+      "sha256": "c867dc4f6b9c881b8bde753528a64cae2cb88fbf4e5f762e2bf24882ec6e28be"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p049.jpg",
+      "bytes": 41738,
+      "sha256": "b601fa3d7a36ab7291bc610cc92c4e72f3ff1fb2b1b24e9e7a5fe31605a01db3"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p050.jpg",
+      "bytes": 41817,
+      "sha256": "236115c740adfdd1e78486f97e0cc6e0ad2672fe9aec57e8547a9f77b59eb7f8"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p051.jpg",
+      "bytes": 41817,
+      "sha256": "236115c740adfdd1e78486f97e0cc6e0ad2672fe9aec57e8547a9f77b59eb7f8"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p052.jpg",
+      "bytes": 41800,
+      "sha256": "4dc3e3696a4c82fb1d8d2aaefc667f776a6310cad1cad6668b81d434dde5e2c9"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p053.jpg",
+      "bytes": 42041,
+      "sha256": "ead102c040e58e5ebd7de7a3f08dc1d5493883219fdccdb56fa844d05a762c7b"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p054.jpg",
+      "bytes": 42199,
+      "sha256": "ee51bfc93287876eae8fcd3637b2421dd3353b3de8dddf46a728123b47c6ae02"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p055.jpg",
+      "bytes": 42308,
+      "sha256": "68811ad12243863d73b53b4152b92d4e8a3f8d958d7800c32db96b547cdfc15e"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p056.jpg",
+      "bytes": 42308,
+      "sha256": "68811ad12243863d73b53b4152b92d4e8a3f8d958d7800c32db96b547cdfc15e"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p057.jpg",
+      "bytes": 42446,
+      "sha256": "7446c820629a5d55f865c880d1a7e086785ddfa79c0cc460b766cd002c7a95af"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p058.jpg",
+      "bytes": 42578,
+      "sha256": "a06d702e740a5f11f21472dd77b58cd75f5ec2d762be5ea6eba9d6cc8f7809c3"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p059.jpg",
+      "bytes": 42653,
+      "sha256": "81fbaa21b3f6d53ef71fb9a0e0c3fa8198597480d88c972689ba15282e6b429d"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p060.jpg",
+      "bytes": 42821,
+      "sha256": "a70690e9f9fe2b83a85455bb1371660d145caa08733e5d02f009435b750b9e25"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p061.jpg",
+      "bytes": 42821,
+      "sha256": "a70690e9f9fe2b83a85455bb1371660d145caa08733e5d02f009435b750b9e25"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p062.jpg",
+      "bytes": 42859,
+      "sha256": "32449876e219cb91d6f25207cee1fa53011fdb3ee6c08d00c37c6344ef543fc5"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p063.jpg",
+      "bytes": 42957,
+      "sha256": "8538b2da54d30b0a51801f1dbecb40abc41797b434c4f04ada0b2453891d0d13"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p064.jpg",
+      "bytes": 42835,
+      "sha256": "0bb6441baf69307185ddf8978c7bea14348baa4c27913fe05a25a79a86d093f2"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p065.jpg",
+      "bytes": 42910,
+      "sha256": "e2ef03d410530d4d1d536762b906531928cdac7bc377288c56c7c9a5589d8d70"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p066.jpg",
+      "bytes": 42910,
+      "sha256": "e2ef03d410530d4d1d536762b906531928cdac7bc377288c56c7c9a5589d8d70"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p067.jpg",
+      "bytes": 43066,
+      "sha256": "f79e194ebe8a73aa112c14f5848c225484de47ac03c4e373e86dbf8265674ec6"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p068.jpg",
+      "bytes": 42937,
+      "sha256": "d8776e36cc322555664043e634c0ba28254f958e193eacdfcb76690d154ce969"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p069.jpg",
+      "bytes": 43132,
+      "sha256": "84a0ff73c363347a5db90f3491aa9785cc743119c0394dff082ce8f1e5b4a50c"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p070.jpg",
+      "bytes": 43111,
+      "sha256": "651c6d9c781cbd4951465b605acad6fe674cf2f4efb892939280031cea16c4b6"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p071.jpg",
+      "bytes": 43111,
+      "sha256": "651c6d9c781cbd4951465b605acad6fe674cf2f4efb892939280031cea16c4b6"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p072.jpg",
+      "bytes": 43007,
+      "sha256": "e2aba0e6b18508ac234d7828cb95a7102f622a3c9b6cc8c0780e4b9b124c75f2"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p073.jpg",
+      "bytes": 42943,
+      "sha256": "a5b9277d992eb439741245de4eae04f31b4808e567cec5499b4a894e6b454941"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/p074.jpg",
+      "bytes": 43287,
+      "sha256": "b20bfa3625d8bb59d09cbce06933063b0d128fcd0ec80c5b58cfe873dd8275a2"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/t01_150.jpg",
+      "bytes": 17658,
+      "sha256": "41d83f12ad9242235fde09acd6b61a745db5e2c4b71a7943eac5bf514dba4f11"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/t01_240.jpg",
+      "bytes": 17487,
+      "sha256": "6e2cc4bc882935da6ee1d4cefea876ce698ba2122cf5ec295ed06ee5eb48714d"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/t02_150.jpg",
+      "bytes": 14948,
+      "sha256": "c3ca6e3d14d441e356d493d5f783bd6585c59f6ec7251f2d9b7a4a1442a6c65c"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/t02_270.jpg",
+      "bytes": 15116,
+      "sha256": "d31e480be2cc38a700da388d0f3e326d5d7f19dd6bc7ee1ca5fc3f0d28ae0643"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/t03_160.jpg",
+      "bytes": 12270,
+      "sha256": "ceaf1e7b49308d6f3c9936d8a2d7c3036483eb2e5c3b4fd583bdd6f955271dbc"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/t04_200.jpg",
+      "bytes": 14933,
+      "sha256": "5e9feb332ebeff3dccfb9e741f5d35975fdc75b5cbd76a7ddfe3c3e1eda0a110"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/t13_120.jpg",
+      "bytes": 21405,
+      "sha256": "d938338f208104d0f5af4fdb30490cef1f6a3dd00535e95d880a2140fff1a6dd"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/t13_250.jpg",
+      "bytes": 21966,
+      "sha256": "8cfe5cbd7bf2e60836ef40a4acdf00391890ca5bb5fbe6edbf2c618ffa2c9f59"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/t14_120.jpg",
+      "bytes": 4472,
+      "sha256": "8f5cf827a6ae1662fbdbb1160a18f92a26ea45de71a0c3387995dd6ad4c03bb4"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/media/t14_290.jpg",
+      "bytes": 4914,
+      "sha256": "febe87bd6dc47c0822543b7973d661466985b3531571770cdf6a909ee3dcbe76"
+    },
+    {
+      "path": "references/repository/styles/16-pagecam/render.args",
+      "bytes": 7,
+      "sha256": "d3754efe667f340d68a3a7d61de55fd43202b000733c910233349d0ad6238b91"
+    },
+    {
+      "path": "references/repository/styles/17-editorial/cues.json",
+      "bytes": 214,
+      "sha256": "623547da8cc6dcee94b5183291e08c572662c180fea993a30de0e3687f2fbe2d"
+    },
+    {
+      "path": "references/repository/styles/17-editorial/index.html",
+      "bytes": 13878,
+      "sha256": "d0ff263a0039e6c4d7de03225b6ec2a67d0800f81bddc41de37103a0b57e8708"
+    },
+    {
+      "path": "references/repository/styles/17-editorial/render.args",
+      "bytes": 8,
+      "sha256": "443143ebd5a498f040c12684b62a22a03e662b55458dfe6f481d3940bfad3fb8"
+    },
+    {
+      "path": "references/repository/styles/18-ink/cues.json",
+      "bytes": 129,
+      "sha256": "47f724b0e8b88014b3fbb5eda7a3283d05ed2a5c5074e9637b6543b69a0c3c8e"
+    },
+    {
+      "path": "references/repository/styles/18-ink/index.html",
+      "bytes": 24424,
+      "sha256": "10dad63fb91abd9b382086c892bfc95dc0b367aa005bcd0c74ff5a2dd082b072"
+    },
+    {
+      "path": "references/repository/styles/18-ink/render.args",
+      "bytes": 7,
+      "sha256": "9c1438b11eb021f7708bcde090a0ea6981080dc144a49270a2d1b2c114d8e573"
+    },
+    {
+      "path": "references/repository/styles/19-clay/cues.json",
+      "bytes": 214,
+      "sha256": "14c93647efc1b8b044f25909d8942e9af1d81de6271184498f1fa6d86c0e21a8"
+    },
+    {
+      "path": "references/repository/styles/19-clay/index.html",
+      "bytes": 22416,
+      "sha256": "4e4a1b3f4868b9e3b272631c02ba14fc5142b76f0cb89da1a4a51b7b5daf8397"
+    },
+    {
+      "path": "references/repository/styles/19-clay/render.args",
+      "bytes": 19,
+      "sha256": "1cf28135823189bab1e63eb32247ad768143279c4f546f0afbdf941c2d07de2a"
+    },
+    {
+      "path": "references/repository/styles/20-blueprint/cues.json",
+      "bytes": 216,
+      "sha256": "d0b1f67307385b66e6c8d5c682382e3d569414ef327ea947c80633d6adb39d46"
+    },
+    {
+      "path": "references/repository/styles/20-blueprint/index.html",
+      "bytes": 19259,
+      "sha256": "69d159ecfcce8c2d3be60d69f33e836f7cd95e4bbf68c52f0e00f63275e801d7"
+    },
+    {
+      "path": "references/repository/styles/20-blueprint/render.args",
+      "bytes": 7,
+      "sha256": "9c1438b11eb021f7708bcde090a0ea6981080dc144a49270a2d1b2c114d8e573"
+    },
+    {
+      "path": "references/repository/styles/README.md",
+      "bytes": 4897,
+      "sha256": "3030c9ec374a57a598d3a30662f210ef1c8fe3adc1a206c635ac2ea31bc3573e"
+    },
+    {
+      "path": "references/repository/styles/SKILL.md",
+      "bytes": 6485,
+      "sha256": "bcc80b80bf2f3c4fbda6c970b9d0c63b08412ce629af8c36b08df86d4cb097a4"
+    },
+    {
+      "path": "references/repository/vol2/AGENTS.md",
+      "bytes": 5144,
+      "sha256": "56a5e022b0952cdae2a4a89e48825825eb4e0318635a2073611fb65d465a0ddc"
+    },
+    {
+      "path": "references/repository/vol2/CLAUDE.md",
+      "bytes": 33,
+      "sha256": "02829fbb5f02ffaf53036a0fec7eaea36ca577d00bf4b7a091004f28b7bfed30"
+    },
+    {
+      "path": "references/repository/vol2/LICENSE",
+      "bytes": 1073,
+      "sha256": "12f74b6ffa07d624922c1e34760ee7b3551bf865b3c393b98aaf7da0e2b5d3b5"
+    },
+    {
+      "path": "references/repository/vol2/README.md",
+      "bytes": 4986,
+      "sha256": "74d64f0d39c25bc81848f09aa2a94c5df7a2e49228e02f007a551ca852c5bd1d"
+    },
+    {
+      "path": "references/repository/vol2/audio/dumpcues.js",
+      "bytes": 1337,
+      "sha256": "b370d8e95d9dbe75096d5a0384eede58caa46c19f1b4444086197d1c1a1da02c"
+    },
+    {
+      "path": "references/repository/vol2/audio/reelplan.py",
+      "bytes": 2529,
+      "sha256": "9307631a38f00c52bff6636ac56b0f729fad5b084eebc77d30dabb58c6454b86"
+    },
+    {
+      "path": "references/repository/vol2/audio/synth.py",
+      "bytes": 42212,
+      "sha256": "e71d87f65bdd574af43fc01e09301fa18bf921c48dd474ca8d697cfd47a5bc1e"
+    },
+    {
+      "path": "references/repository/vol2/comp/balls.js",
+      "bytes": 14896,
+      "sha256": "2c60a1f8fb5a7addda5c2d3d023daa176d7498f32c27b0b5a304afc67f9fb13b"
+    },
+    {
+      "path": "references/repository/vol2/comp/cover.html",
+      "bytes": 1998,
+      "sha256": "c3f938ce9c56e1b8222f9ebd8d4720c1fc19e61dea09a3eebce537ec4c01d046"
+    },
+    {
+      "path": "references/repository/vol2/comp/cover34.html",
+      "bytes": 2189,
+      "sha256": "29acc19d16ef8bddddec3677e7c89dd4e0c8e1643b0a913e7fe8f1053d9fb3f0"
+    },
+    {
+      "path": "references/repository/vol2/comp/meta.js",
+      "bytes": 8247,
+      "sha256": "61f6a80e88ba0497f2995c2b959bb9128dd22ca78ed1aef5629e672531a86ca0"
+    },
+    {
+      "path": "references/repository/vol2/comp/reel.html",
+      "bytes": 29225,
+      "sha256": "e41bf3935e0a59d3cc6288d8dc5f26fe496cd7936da9b402833694ab34b3998d"
+    },
+    {
+      "path": "references/repository/vol2/docs/STYLES.md",
+      "bytes": 6025,
+      "sha256": "6f38b28ee42c0b112f3f4069151f36b94160ec7f968aed991ec3b21093372f70"
+    },
+    {
+      "path": "references/repository/vol2/docs/cover.jpg",
+      "bytes": 330509,
+      "sha256": "82a88771d24b4fbdc954d67adf3dda7d283ac6f4f24abf2664ad120cf9af13ee"
+    },
+    {
+      "path": "references/repository/vol2/docs/cover_3x4.jpg",
+      "bytes": 242175,
+      "sha256": "8e923d04597297d5b100909d2305b9dca380460e60ed89213fc88ea3f603c612"
+    },
+    {
+      "path": "references/repository/vol2/lib/core.js",
+      "bytes": 9049,
+      "sha256": "dd08c6cbd257d8b57cc9877d22cc006f6898e515bafe5c9dbdec2a90ee9df908"
+    },
+    {
+      "path": "references/repository/vol2/lib/gl.js",
+      "bytes": 7832,
+      "sha256": "6362d6012c8dd1c98610c0f11f5f1a7b5a4113d8ab66dd3c4d8269ab25c5efe7"
+    },
+    {
+      "path": "references/repository/vol2/lib/rm.js",
+      "bytes": 10149,
+      "sha256": "c7c8be09d246a2bc3f284fdcc62c367066afe69368d51d6923a5e714ee178a63"
+    },
+    {
+      "path": "references/repository/vol2/make.js",
+      "bytes": 7886,
+      "sha256": "b10b3c03a7d18cbb681edfb69afcb4fbef659dbb4e9d3165a44279def7ffb621"
+    },
+    {
+      "path": "references/repository/vol2/package.json",
+      "bytes": 444,
+      "sha256": "bc909bcdaf0aa576c0a82c64e008f2e30f8066fbc492e3238dd55393f5ef3bcf"
+    },
+    {
+      "path": "references/repository/vol2/render.js",
+      "bytes": 6737,
+      "sha256": "80e3ff558979a67a45abf7d3113adbf27f594f25f801b7e06d82e1940178c12e"
+    },
+    {
+      "path": "references/repository/vol2/requirements.txt",
+      "bytes": 12,
+      "sha256": "1978c5330a34a48fac00c1107de3949b8c8da3bd11517f59ca9b4510363c6c8a"
+    },
+    {
+      "path": "references/repository/vol2/styles/01-handdrawn/cues.json",
+      "bytes": 495,
+      "sha256": "f0b7454a63beb053a3d0b1dfe1d0654dfc1ec41344e83c4bca6047ac145dda3f"
+    },
+    {
+      "path": "references/repository/vol2/styles/01-handdrawn/index.html",
+      "bytes": 25159,
+      "sha256": "a40317306356627be00ead3c7cb62ae3c331fb89392c432eec28f6f4df40a01f"
+    },
+    {
+      "path": "references/repository/vol2/styles/01-handdrawn/render.args",
+      "bytes": 19,
+      "sha256": "1cf28135823189bab1e63eb32247ad768143279c4f546f0afbdf941c2d07de2a"
+    },
+    {
+      "path": "references/repository/vol2/styles/02-isometric/cues.json",
+      "bytes": 1314,
+      "sha256": "eb3dcca9f96308b3f68ccd20b77ce614f833baab5256b0ea380eed1ec7cdd008"
+    },
+    {
+      "path": "references/repository/vol2/styles/02-isometric/index.html",
+      "bytes": 33650,
+      "sha256": "c092970ca9d3aa4ad55ddebf5a5e9b11a8db58eeab933d3055e0683efcb3f329"
+    },
+    {
+      "path": "references/repository/vol2/styles/02-isometric/render.args",
+      "bytes": 7,
+      "sha256": "ab44f6372ac0d593ce543762842ce80f5146eb758aacd9792c91d616b813aeb4"
+    },
+    {
+      "path": "references/repository/vol2/styles/03-flat/cues.json",
+      "bytes": 832,
+      "sha256": "56e74ec69e77d277ea432d270e0de584a781ab157fa84980ff1164e2cbc13e68"
+    },
+    {
+      "path": "references/repository/vol2/styles/03-flat/index.html",
+      "bytes": 19020,
+      "sha256": "37ea349e5c83544940c53f8d8ed631f408cc299777de7ffa472fa80aa148bfb6"
+    },
+    {
+      "path": "references/repository/vol2/styles/03-flat/render.args",
+      "bytes": 7,
+      "sha256": "d3754efe667f340d68a3a7d61de55fd43202b000733c910233349d0ad6238b91"
+    },
+    {
+      "path": "references/repository/vol2/styles/04-lineart/cues.json",
+      "bytes": 455,
+      "sha256": "458072f43f8b76720c5acdb88121fb22f671556f4b4edec759c08c01a57a9e91"
+    },
+    {
+      "path": "references/repository/vol2/styles/04-lineart/index.html",
+      "bytes": 11898,
+      "sha256": "a75ff5ab9c7e6bbbad096a0da2de8a295052e85ea1f72e75eb50915c7422cf28"
+    },
+    {
+      "path": "references/repository/vol2/styles/04-lineart/render.args",
+      "bytes": 7,
+      "sha256": "514ff3988216fc4d1fd2e0aba9d984101dd25a7cdd4e0b6b4cc230dbb0a1fdc9"
+    },
+    {
+      "path": "references/repository/vol2/styles/05-3d/cues.json",
+      "bytes": 294,
+      "sha256": "319b43cd2ab7396beaf9f3b183857b3e59118e60611f7287ddc31d84c10370d0"
+    },
+    {
+      "path": "references/repository/vol2/styles/05-3d/index.html",
+      "bytes": 10539,
+      "sha256": "ca195d41b791588e8471721ccb8479900b67a2c622c2c1a6f5d89d4280f0c77b"
+    },
+    {
+      "path": "references/repository/vol2/styles/05-3d/render.args",
+      "bytes": 7,
+      "sha256": "9c1438b11eb021f7708bcde090a0ea6981080dc144a49270a2d1b2c114d8e573"
+    },
+    {
+      "path": "references/repository/vol2/styles/06-morph/cues.json",
+      "bytes": 386,
+      "sha256": "fb2b536dc7e217d12febe9a8933f59d33174fe7a1a4a8ce68d2f53d0e54a65cb"
+    },
+    {
+      "path": "references/repository/vol2/styles/06-morph/index.html",
+      "bytes": 9966,
+      "sha256": "465164b31eed13c342fc87609d3482bb470efda964cfb1f3d56937a78255be85"
+    },
+    {
+      "path": "references/repository/vol2/styles/06-morph/render.args",
+      "bytes": 7,
+      "sha256": "514ff3988216fc4d1fd2e0aba9d984101dd25a7cdd4e0b6b4cc230dbb0a1fdc9"
+    },
+    {
+      "path": "references/repository/vol2/styles/07-sticker/cues.json",
+      "bytes": 588,
+      "sha256": "b110f63911994ccb2eeb890164367bdf129aee1d44add25291dd85c6982c149f"
+    },
+    {
+      "path": "references/repository/vol2/styles/07-sticker/index.html",
+      "bytes": 10717,
+      "sha256": "a1608508e7ddc053a13a7c4d64143ccc240f7208b56a4ce260e2d6fe1e2e7caf"
+    },
+    {
+      "path": "references/repository/vol2/styles/07-sticker/render.args",
+      "bytes": 7,
+      "sha256": "514ff3988216fc4d1fd2e0aba9d984101dd25a7cdd4e0b6b4cc230dbb0a1fdc9"
+    },
+    {
+      "path": "references/repository/vol2/styles/08-hud/cues.json",
+      "bytes": 419,
+      "sha256": "5980f8918117529ed300aad99941fc34cf270b6d289b4b999f06641818f754e4"
+    },
+    {
+      "path": "references/repository/vol2/styles/08-hud/index.html",
+      "bytes": 14885,
+      "sha256": "c664f87ad7b6897476d0953c99c890428ac9c9774026b9cfba7f1c0df9b3f4f5"
+    },
+    {
+      "path": "references/repository/vol2/styles/08-hud/render.args",
+      "bytes": 7,
+      "sha256": "b2c22d5d50a3de3a0d630ecde20c389fec65bb5a7f03258eebdd45fbae7c91f1"
+    },
+    {
+      "path": "references/repository/vol2/styles/09-collage/cues.json",
+      "bytes": 921,
+      "sha256": "3548d4aa9159830eeb76223023213e8ea95f1cc2340fbdab38c0d3f885cd863f"
+    },
+    {
+      "path": "references/repository/vol2/styles/09-collage/index.html",
+      "bytes": 44173,
+      "sha256": "c3f5ccb932592c04216ccc4782ee90561218a0f339e4bbe3125e3f108130033b"
+    },
+    {
+      "path": "references/repository/vol2/styles/09-collage/render.args",
+      "bytes": 19,
+      "sha256": "1cf28135823189bab1e63eb32247ad768143279c4f546f0afbdf941c2d07de2a"
+    },
+    {
+      "path": "references/repository/vol2/styles/10-glass/cues.json",
+      "bytes": 323,
+      "sha256": "dffd4b6950a64551966f64953ffd8a65ed14602f9f664e905515d4d47ca69e49"
+    },
+    {
+      "path": "references/repository/vol2/styles/10-glass/index.html",
+      "bytes": 9780,
+      "sha256": "ae5397a78811f9f96ffd32cf5b702251782094d17c7df59221c2608c4eee3f71"
+    },
+    {
+      "path": "references/repository/vol2/styles/10-glass/render.args",
+      "bytes": 7,
+      "sha256": "b2c22d5d50a3de3a0d630ecde20c389fec65bb5a7f03258eebdd45fbae7c91f1"
+    },
+    {
+      "path": "references/repository/vol2/styles/11-bauhaus/cues.json",
+      "bytes": 504,
+      "sha256": "4fb32c39bc8ec4a1db4dd00efafd4584523e0f1e97c4587d298f24072aa91f0e"
+    },
+    {
+      "path": "references/repository/vol2/styles/11-bauhaus/index.html",
+      "bytes": 8976,
+      "sha256": "af18642b216b2a102fe7d2662b851af51e183d576007fbcc6fcf9750ece88a97"
+    },
+    {
+      "path": "references/repository/vol2/styles/11-bauhaus/render.args",
+      "bytes": 7,
+      "sha256": "ab44f6372ac0d593ce543762842ce80f5146eb758aacd9792c91d616b813aeb4"
+    },
+    {
+      "path": "references/repository/vol2/styles/12-synthwave/cues.json",
+      "bytes": 679,
+      "sha256": "4e6cc5a2d10067661e8fcdc58b56b637decd8135b635eb0fafeff7b2af142928"
+    },
+    {
+      "path": "references/repository/vol2/styles/12-synthwave/index.html",
+      "bytes": 26133,
+      "sha256": "8ac30b95a5a917bbdee94a9f2d60b9476e0799c2e2b1937958f1d5f1bc617197"
+    },
+    {
+      "path": "references/repository/vol2/styles/12-synthwave/render.args",
+      "bytes": 7,
+      "sha256": "ab44f6372ac0d593ce543762842ce80f5146eb758aacd9792c91d616b813aeb4"
+    },
+    {
+      "path": "references/repository/vol2/styles/13-pixel/cues.json",
+      "bytes": 390,
+      "sha256": "8910cf2a748e1775db9250524a191517072b320aa806407da25cf622ee8cf5e4"
+    },
+    {
+      "path": "references/repository/vol2/styles/13-pixel/index.html",
+      "bytes": 10918,
+      "sha256": "292dcab0ff3c14c2750839825e160742eb3baea78ca4f4b78d79bd8968a46335"
+    },
+    {
+      "path": "references/repository/vol2/styles/13-pixel/render.args",
+      "bytes": 7,
+      "sha256": "9c1438b11eb021f7708bcde090a0ea6981080dc144a49270a2d1b2c114d8e573"
+    },
+    {
+      "path": "references/repository/vol2/styles/14-liquid/cues.json",
+      "bytes": 254,
+      "sha256": "b67e2671b8f31d87dba94f5a47a040cad8b79a2c114e824536e66cb6aca8ab37"
+    },
+    {
+      "path": "references/repository/vol2/styles/14-liquid/index.html",
+      "bytes": 5334,
+      "sha256": "bb87b5346fb189fe46324e7705b49c964692a416f4879a0a6e234c98b0764a25"
+    },
+    {
+      "path": "references/repository/vol2/styles/14-liquid/render.args",
+      "bytes": 7,
+      "sha256": "9c1438b11eb021f7708bcde090a0ea6981080dc144a49270a2d1b2c114d8e573"
+    },
+    {
+      "path": "references/repository/vol2/styles/15-variety/cues.json",
+      "bytes": 556,
+      "sha256": "e60d16d2c937b8b351a23b10bc3169a68d4236825d56ca18e8033b2b2b221115"
+    },
+    {
+      "path": "references/repository/vol2/styles/15-variety/index.html",
+      "bytes": 14824,
+      "sha256": "29ca041e1b4c654873a93cead2c593246f19ff8a684a0eaede62c31981d28ce0"
+    },
+    {
+      "path": "references/repository/vol2/styles/15-variety/render.args",
+      "bytes": 7,
+      "sha256": "514ff3988216fc4d1fd2e0aba9d984101dd25a7cdd4e0b6b4cc230dbb0a1fdc9"
+    },
+    {
+      "path": "references/repository/vol2/styles/16-pagecam/cues.json",
+      "bytes": 423,
+      "sha256": "ba563800d36c1a79e85e454fb406616b8c7cdfafc73b19dec21d7e2acb159ad2"
+    },
+    {
+      "path": "references/repository/vol2/styles/16-pagecam/index.html",
+      "bytes": 14619,
+      "sha256": "7c11f3014d1e7cc8d220789d8adb2341fdaca1bd80d610e4648f6affe6d3ae90"
+    },
+    {
+      "path": "references/repository/vol2/styles/16-pagecam/render.args",
+      "bytes": 7,
+      "sha256": "b2c22d5d50a3de3a0d630ecde20c389fec65bb5a7f03258eebdd45fbae7c91f1"
+    },
+    {
+      "path": "references/repository/vol2/styles/17-editorial/cues.json",
+      "bytes": 521,
+      "sha256": "4927f5673656f4af0e3acc5ae77346123bd396091b8c43818d573ed612c4146f"
+    },
+    {
+      "path": "references/repository/vol2/styles/17-editorial/index.html",
+      "bytes": 11283,
+      "sha256": "9e0cc64509b603a364e1bee2e84138b4295e86c48c61239444d6845313c5522c"
+    },
+    {
+      "path": "references/repository/vol2/styles/17-editorial/render.args",
+      "bytes": 7,
+      "sha256": "b2c22d5d50a3de3a0d630ecde20c389fec65bb5a7f03258eebdd45fbae7c91f1"
+    },
+    {
+      "path": "references/repository/vol2/styles/18-ink/cues.json",
+      "bytes": 388,
+      "sha256": "f2fdb222456a26e074ba65b10deb8c10164ec48386030d9633ff7b21c90358ab"
+    },
+    {
+      "path": "references/repository/vol2/styles/18-ink/index.html",
+      "bytes": 12341,
+      "sha256": "670dba3bd7a9f91976616a15b6ee408f3b91658aac013b4c8fefda6e43daf898"
+    },
+    {
+      "path": "references/repository/vol2/styles/18-ink/render.args",
+      "bytes": 7,
+      "sha256": "b2c22d5d50a3de3a0d630ecde20c389fec65bb5a7f03258eebdd45fbae7c91f1"
+    },
+    {
+      "path": "references/repository/vol2/styles/19-clay/cues.json",
+      "bytes": 425,
+      "sha256": "1ebc64e7a043cd95d66d36eea916b63c03335cc738c65325aa84478fce255312"
+    },
+    {
+      "path": "references/repository/vol2/styles/19-clay/index.html",
+      "bytes": 10924,
+      "sha256": "8b54af812640912d9d60a6a7051efcc7be212a44616b5fb0328de982777b0572"
+    },
+    {
+      "path": "references/repository/vol2/styles/19-clay/render.args",
+      "bytes": 19,
+      "sha256": "1cf28135823189bab1e63eb32247ad768143279c4f546f0afbdf941c2d07de2a"
+    },
+    {
+      "path": "references/repository/vol2/styles/20-blueprint/cues.json",
+      "bytes": 452,
+      "sha256": "3e44605a7a18a5288afca9d8b87bd753cb2c71548ae89ea6f7e4975343171964"
+    },
+    {
+      "path": "references/repository/vol2/styles/20-blueprint/index.html",
+      "bytes": 12050,
+      "sha256": "01eafff3351336cbc543858a4212bd5004af15ee2fc19f41e2ca038e3ff83336"
+    },
+    {
+      "path": "references/repository/vol2/styles/20-blueprint/render.args",
+      "bytes": 7,
+      "sha256": "514ff3988216fc4d1fd2e0aba9d984101dd25a7cdd4e0b6b4cc230dbb0a1fdc9"
+    }
+  ],
+  "source_runtime_executed": false
+}

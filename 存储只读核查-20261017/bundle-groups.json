@@ -1,0 +1,806 @@
+[
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaShared.tsx",
+      "./src/ReplicaGraphicsFullR1.tsx"
+    ],
+    "count": 9,
+    "allocated_kib": 2527524,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-866SaP",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-ERBvej",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-GETloK",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-HDWyMc",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-TxxvZU",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-YBYRBe",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-aHtLV0",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-jEQwHQ",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-jI7e98"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaShared.tsx",
+      "./src/ReplicaGraphicsFullR3.tsx"
+    ],
+    "count": 5,
+    "allocated_kib": 2135232,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-Aq8gcc",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-GbX31Q",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-c9ycWl",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-d57xhd",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-miefN9"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaShared.tsx",
+      "./src/ReplicaGraphicsFullR4.tsx"
+    ],
+    "count": 4,
+    "allocated_kib": 1792476,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-I75K1d",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-LLYSZk",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-ZBwkwh",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-cKtkjd"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaShared.tsx",
+      "./src/ReplicaGalleryMediaFullR3.tsx",
+      "./src/ReplicaGalleryFullR3.tsx"
+    ],
+    "count": 4,
+    "allocated_kib": 1694928,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-0BRlFB",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-9Ifqe4",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-NrR6Dn",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-cdivIg"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaShared.tsx",
+      "./src/expansion-vendor/fullscreen-video-window-geometry.ts",
+      "./src/expansion-vendor/FullscreenVideoWindow.tsx",
+      "./src/expansion-vendor/shared.tsx",
+      "./src/expansion-vendor/NovelScenes.tsx",
+      "./src/expansion-vendor/OpeningScenes.tsx",
+      "./src/expansion-vendor/ExplainScenes.tsx",
+      "./src/expansion-vendor/RecordingScenes.tsx",
+      "./src/expansion-vendor/HandoffScenes.tsx",
+      "./src/ReplicaQuestionGalleryR4.tsx",
+      "./src/ReplicaQuestionR4.tsx"
+    ],
+    "count": 4,
+    "allocated_kib": 1083524,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-0dqFOo",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-X1GoyE",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-vtpr9j",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-wb44JF"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaShared.tsx",
+      "./src/ReplicaWallEntitiesFullR3.tsx",
+      "./src/ReplicaWallScaledFullR3.tsx"
+    ],
+    "count": 2,
+    "allocated_kib": 893760,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-i8QWZv",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-yfvhK5"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaShared.tsx",
+      "./src/ReplicaCompareFullR3.tsx"
+    ],
+    "count": 2,
+    "allocated_kib": 858520,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-XHZe4Y",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-wof2rb"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaShared.tsx",
+      "./src/ReplicaWallEntitiesFullR3.tsx",
+      "./src/ReplicaWallFullR3.tsx"
+    ],
+    "count": 2,
+    "allocated_kib": 857764,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-8Ld1Fv",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-lZjOdD"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaShared.tsx",
+      "./src/ReplicaGalleryMediaFullR3.tsx",
+      "./src/ReplicaQuestionFullR3.tsx"
+    ],
+    "count": 2,
+    "allocated_kib": 847464,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-JGuCV2",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-zV8lbe"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaShared.tsx",
+      "./src/ReplicaPromptCamera.tsx",
+      "./src/ReplicaLatePrompt.tsx"
+    ],
+    "count": 3,
+    "allocated_kib": 814392,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-BzhTby",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-mcWWi3",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-pG4z7R"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaShared.tsx",
+      "./src/expansion-vendor/fullscreen-video-window-geometry.ts",
+      "./src/expansion-vendor/FullscreenVideoWindow.tsx",
+      "./src/expansion-vendor/shared.tsx",
+      "./src/expansion-vendor/NovelScenes.tsx",
+      "./src/expansion-vendor/OpeningScenes.tsx",
+      "./src/expansion-vendor/ExplainScenes.tsx",
+      "./src/expansion-vendor/RecordingScenes.tsx",
+      "./src/expansion-vendor/HandoffScenes.tsx",
+      "./src/ReplicaGallery.tsx"
+    ],
+    "count": 3,
+    "allocated_kib": 804396,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-0yIE3x",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-DY9kiL",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-GFySuW"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaShared.tsx",
+      "./src/ReplicaWall.tsx"
+    ],
+    "count": 3,
+    "allocated_kib": 652404,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-EO5dqH",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-G8AgK2",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-WJp8we"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaShared.tsx",
+      "./src/ReplicaGraphicsFullR2.tsx"
+    ],
+    "count": 2,
+    "allocated_kib": 564688,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-Djp6e0",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-SJhBET"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaShared.tsx",
+      "./src/ReplicaWallFullR1.tsx"
+    ],
+    "count": 2,
+    "allocated_kib": 555728,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-h0zunl",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-qZRbQK"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaShared.tsx",
+      "./src/ReplicaPromptCameraR2.tsx",
+      "./src/ReplicaLatePromptR2.tsx"
+    ],
+    "count": 2,
+    "allocated_kib": 544440,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-0TaiPp",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-2DGqdm"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaShared.tsx",
+      "./src/expansion-vendor/fullscreen-video-window-geometry.ts",
+      "./src/expansion-vendor/FullscreenVideoWindow.tsx",
+      "./src/expansion-vendor/shared.tsx",
+      "./src/expansion-vendor/NovelScenes.tsx",
+      "./src/expansion-vendor/OpeningScenes.tsx",
+      "./src/expansion-vendor/ExplainScenes.tsx",
+      "./src/expansion-vendor/RecordingScenes.tsx",
+      "./src/expansion-vendor/HandoffScenes.tsx",
+      "./src/ReplicaGalleryShared.tsx",
+      "./src/ReplicaQuestionR3.tsx"
+    ],
+    "count": 2,
+    "allocated_kib": 540200,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-2YoNqi",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-nRfmQD"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaShared.tsx",
+      "./src/ReplicaPillR2.tsx"
+    ],
+    "count": 2,
+    "allocated_kib": 540104,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-KFv8gY",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-YzXmLL"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaShared.tsx",
+      "./src/ReplicaGraphicsR3.tsx"
+    ],
+    "count": 2,
+    "allocated_kib": 540072,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-vHvZiS",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-zDPA3B"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaShared.tsx",
+      "./src/ReplicaCompare.tsx"
+    ],
+    "count": 2,
+    "allocated_kib": 538612,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-4iHo2w",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-CNR5fE"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaShared.tsx",
+      "./src/expansion-vendor/fullscreen-video-window-geometry.ts",
+      "./src/expansion-vendor/FullscreenVideoWindow.tsx",
+      "./src/expansion-vendor/shared.tsx",
+      "./src/expansion-vendor/NovelScenes.tsx",
+      "./src/expansion-vendor/OpeningScenes.tsx",
+      "./src/expansion-vendor/ExplainScenes.tsx",
+      "./src/expansion-vendor/RecordingScenes.tsx",
+      "./src/expansion-vendor/HandoffScenes.tsx",
+      "./src/ReplicaGalleryShared.tsx",
+      "./src/ReplicaQuestion.tsx"
+    ],
+    "count": 2,
+    "allocated_kib": 537232,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-BC1Kcx",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-QHgG2Z"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaShared.tsx",
+      "./src/ReplicaGraphicsR2.tsx"
+    ],
+    "count": 2,
+    "allocated_kib": 537144,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-4O3RGV",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-kVPjF3"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaShared.tsx",
+      "./src/ReplicaPromptCameraFullR3.tsx",
+      "./src/ReplicaLatePromptFullR3.tsx"
+    ],
+    "count": 1,
+    "allocated_kib": 431808,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-DEXAEq"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaShared.tsx",
+      "./src/ReplicaSubtitlesFullR3.tsx",
+      "./src/ReplicaGalleryMediaFullR3.tsx",
+      "./src/ReplicaGalleryFullR3.tsx"
+    ],
+    "count": 1,
+    "allocated_kib": 429608,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-XO3E7o"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaShared.tsx",
+      "./src/ReplicaSubtitlesFullR3.tsx",
+      "./src/ReplicaCaptionOnlyFullR3.tsx"
+    ],
+    "count": 1,
+    "allocated_kib": 428892,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-vN86Wq"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/v8/theme.ts",
+      "./src/v8/CostReminder.tsx",
+      "./src/v81/CostReminder.tsx",
+      "./src/v81/Entry.tsx"
+    ],
+    "count": 7,
+    "allocated_kib": 330336,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-6C0vFA",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-6F0Kl4",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-ClEvns",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-Qo5RDb",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-RqKyRa",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-Yyqju7",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-uJVmxZ"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaExpansion.tsx"
+    ],
+    "count": 3,
+    "allocated_kib": 318508,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-NxHiP3",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-hCeSGo",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-qOzqaG"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/v8/theme.ts",
+      "./src/v8/CostReminder.tsx",
+      "./src/v8/Entry.tsx"
+    ],
+    "count": 6,
+    "allocated_kib": 282984,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-Ga0gNl",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-fOwQqy",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-qR63sb",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-sET6RQ",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-tr4Az7",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-voVdrf"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaShared.tsx",
+      "./src/ReplicaCAM01R3.tsx"
+    ],
+    "count": 1,
+    "allocated_kib": 271428,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-jjSkUa"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaShared.tsx",
+      "./src/expansion-vendor/fullscreen-video-window-geometry.ts",
+      "./src/expansion-vendor/FullscreenVideoWindow.tsx",
+      "./src/expansion-vendor/shared.tsx",
+      "./src/expansion-vendor/NovelScenes.tsx",
+      "./src/ReplicaOpeningScenesR4.tsx",
+      "./src/expansion-vendor/ExplainScenes.tsx",
+      "./src/expansion-vendor/RecordingScenes.tsx",
+      "./src/expansion-vendor/HandoffScenes.tsx",
+      "./src/ReplicaGalleryR4.tsx"
+    ],
+    "count": 1,
+    "allocated_kib": 270088,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-RYf6Zx"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaShared.tsx",
+      "./src/ReplicaPillR3.tsx"
+    ],
+    "count": 1,
+    "allocated_kib": 270060,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-Nm7arY"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaShared.tsx",
+      "./src/ReplicaPillR4.tsx"
+    ],
+    "count": 1,
+    "allocated_kib": 270060,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-oXlohv"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaShared.tsx",
+      "./src/ReplicaCompareR5.tsx"
+    ],
+    "count": 1,
+    "allocated_kib": 270044,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-ATMS0E"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaShared.tsx",
+      "./src/ReplicaGraphicsR5.tsx"
+    ],
+    "count": 1,
+    "allocated_kib": 270044,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-GFg7ek"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaShared.tsx",
+      "./src/ReplicaCompareR6.tsx"
+    ],
+    "count": 1,
+    "allocated_kib": 270044,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-Hww5m7"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaShared.tsx",
+      "./src/ReplicaGraphicsR4.tsx"
+    ],
+    "count": 1,
+    "allocated_kib": 270044,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-saemip"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaShared.tsx",
+      "./src/ReplicaCompareR4.tsx"
+    ],
+    "count": 1,
+    "allocated_kib": 270044,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-ykLS1T"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaShared.tsx",
+      "./src/ReplicaCompareR3.tsx"
+    ],
+    "count": 1,
+    "allocated_kib": 270012,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-sUHsYb"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaShared.tsx",
+      "./src/expansion-vendor/fullscreen-video-window-geometry.ts",
+      "./src/expansion-vendor/FullscreenVideoWindow.tsx",
+      "./src/expansion-vendor/shared.tsx",
+      "./src/expansion-vendor/NovelScenes.tsx",
+      "./src/expansion-vendor/OpeningScenes.tsx",
+      "./src/expansion-vendor/ExplainScenes.tsx",
+      "./src/expansion-vendor/RecordingScenes.tsx",
+      "./src/expansion-vendor/HandoffScenes.tsx",
+      "./src/ReplicaGalleryR3.tsx"
+    ],
+    "count": 1,
+    "allocated_kib": 268624,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-Z2kgZA"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaShared.tsx",
+      "./src/ReplicaNewsR2.tsx"
+    ],
+    "count": 1,
+    "allocated_kib": 268544,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-t5ZoUt"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaShared.tsx",
+      "./src/ReplicaExpansion.tsx"
+    ],
+    "count": 2,
+    "allocated_kib": 213408,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-X6DnUh",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-v8IMf2"
+    ]
+  },
+  {
+    "source_names": [
+      "./src/GroupAccents.tsx",
+      "./src/RaisedInput.tsx",
+      "./src/CameraExamples.tsx",
+      "./src/codex-vendor/CodexFullWindowFlow.tsx",
+      "./src/ReplicaNewsFocus.vendor.tsx",
+      "./src/ReplicaShared.tsx",
+      "./src/ReplicaGraphics.tsx"
+    ],
+    "count": 2,
+    "allocated_kib": 207672,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-IUhKYz",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-j3ZM3x"
+    ]
+  },
+  {
+    "source_names": [],
+    "count": 33,
+    "allocated_kib": 0,
+    "example_paths": [
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-0alBIF",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-1UQZRi",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-3F2FjD",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-3UBx3j",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-4cEVMv",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-6QHHax",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-Dm4ywu",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-GaUOJp",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-HIzRHZ",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-JMWyPw",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-L2W8Ya",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-LmTPAV",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-PSg2bA",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-Rpi8gi",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-SFqV8D",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-Sib09y",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-SqQtJD",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-Tg0ivv",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-WdCZcl",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-WxhAf5",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-Zg78n6",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-aM753v",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-adwj1N",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-c1gyMy",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-eaOBKa",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-frBWaA",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-gCrJnS",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-jkY1UV",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-kwpSEm",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-lgX7GA",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-qLVpVs",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-xXSa6l",
+      "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-yPKews"
+    ]
+  }
+]

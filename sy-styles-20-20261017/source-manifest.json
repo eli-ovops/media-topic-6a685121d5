@@ -1,0 +1,90 @@
+[
+  {
+    "path": "styles/16-pagecam/index.html",
+    "url": "https://raw.githubusercontent.com/xiaoxiong20xx-code/sy-styles-20/main/styles/16-pagecam/index.html",
+    "http": 200,
+    "bytes": 13997,
+    "sha256": "3df4b16fcff11e5c0282d879430a73a6b6627741ac3b301518aa74cb7fedb79f",
+    "executed": false
+  },
+  {
+    "path": "styles/17-editorial/index.html",
+    "url": "https://raw.githubusercontent.com/xiaoxiong20xx-code/sy-styles-20/main/styles/17-editorial/index.html",
+    "http": 200,
+    "bytes": 13878,
+    "sha256": "d0ff263a0039e6c4d7de03225b6ec2a67d0800f81bddc41de37103a0b57e8708",
+    "executed": false
+  },
+  {
+    "path": "styles/20-blueprint/index.html",
+    "url": "https://raw.githubusercontent.com/xiaoxiong20xx-code/sy-styles-20/main/styles/20-blueprint/index.html",
+    "http": 200,
+    "bytes": 19259,
+    "sha256": "69d159ecfcce8c2d3be60d69f33e836f7cd95e4bbf68c52f0e00f63275e801d7",
+    "executed": false
+  },
+  {
+    "path": "lib/core.js",
+    "url": "https://raw.githubusercontent.com/xiaoxiong20xx-code/sy-styles-20/main/lib/core.js",
+    "http": 200,
+    "bytes": 9049,
+    "sha256": "dd08c6cbd257d8b57cc9877d22cc006f6898e515bafe5c9dbdec2a90ee9df908",
+    "executed": false
+  },
+  {
+    "path": "render.js",
+    "url": "https://raw.githubusercontent.com/xiaoxiong20xx-code/sy-styles-20/main/render.js",
+    "http": 200,
+    "bytes": 6701,
+    "sha256": "5a84003d7e90dc1736703b7b8fadf173d0efe11446a13a6ecd40cf381634fe72",
+    "executed": false
+  },
+  {
+    "path": "make.js",
+    "url": "https://raw.githubusercontent.com/xiaoxiong20xx-code/sy-styles-20/main/make.js",
+    "http": 200,
+    "bytes": 7886,
+    "sha256": "b10b3c03a7d18cbb681edfb69afcb4fbef659dbb4e9d3165a44279def7ffb621",
+    "executed": false
+  },
+  {
+    "path": "skills/sy-styles-20/SKILL.md",
+    "url": "https://raw.githubusercontent.com/xiaoxiong20xx-code/sy-styles-20/main/skills/sy-styles-20/SKILL.md",
+    "http": 200,
+    "bytes": 5413,
+    "sha256": "49f558ad7cacdc80020841253ac669b3db81fdc81454d13fdca6445d8615b334",
+    "executed": false
+  },
+  {
+    "path": "LICENSE",
+    "url": "https://raw.githubusercontent.com/xiaoxiong20xx-code/sy-styles-20/main/LICENSE",
+    "http": 200,
+    "bytes": 1073,
+    "sha256": "12f74b6ffa07d624922c1e34760ee7b3551bf865b3c393b98aaf7da0e2b5d3b5",
+    "executed": false
+  },
+  {
+    "path": "docs/STYLES.md",
+    "url": "https://raw.githubusercontent.com/xiaoxiong20xx-code/sy-styles-20/main/docs/STYLES.md",
+    "http": 200,
+    "bytes": 4796,
+    "sha256": "1a7a8e6607a1cc1b656028174c414777cc2fd279e1ce1a302d36619939707f50",
+    "executed": false
+  },
+  {
+    "path": "package.json",
+    "url": "https://raw.githubusercontent.com/xiaoxiong20xx-code/sy-styles-20/main/package.json",
+    "http": 200,
+    "bytes": 439,
+    "sha256": "86e43b009881b4ec6a8d5bb583db79008b34095d83caffcbedc94d0fac90d712",
+    "executed": false
+  },
+  {
+    "path": "comp/meta.js",
+    "url": "https://raw.githubusercontent.com/xiaoxiong20xx-code/sy-styles-20/main/comp/meta.js",
+    "http": 200,
+    "bytes": 8027,
+    "sha256": "e4a77fac903f1be926fea0b1aa12c19fddbc6de7919f32836efea32cbf774c0f",
+    "executed": false
+  }
+]

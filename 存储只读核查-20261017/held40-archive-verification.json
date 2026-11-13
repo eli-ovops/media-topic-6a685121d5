@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "verified_at": "2026-10-17T21:23:32.451719+08:00",
+  "archive_directory": "/Volumes/EXTERNAL/自媒体/资产库/制作历史/Remotion历史版本-20261017",
+  "archive_manifest": "/Volumes/EXTERNAL/自媒体/资产库/制作历史/Remotion历史版本-20261017/archive-manifest.json",
+  "archive_manifest_sha256": "9dcb6827eef98233b7ddcbb9b6858b1d769a001e14a55c656359c138520c6bfa",
+  "listed_file_count": 173,
+  "archive_total_file_count": 174,
+  "logical_counts": {
+    "source_versions": 53,
+    "json_versions": 30,
+    "snapshot_mappings": 40,
+    "incomplete_media_unique_files": 6,
+    "current_build_reference_files": 6,
+    "current_source_supplemental_files": 2
+  },
+  "archive_logical_bytes": 21458823,
+  "archive_allocated_kib": 21332,
+  "protected_inputs_unchanged": true,
+  "static_dependency_check": "PASS",
+  "build_or_render_performed": false,
+  "all_40_targets_unchanged": true,
+  "plan_sha256": "72204c4a7415578f18d17e3ec41605b2814d4a29aaad542b2ed0037fa6e72a50",
+  "deleted_count": 0
+}

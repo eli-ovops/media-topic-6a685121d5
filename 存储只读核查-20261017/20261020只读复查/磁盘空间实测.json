@@ -1,0 +1,23 @@
+{
+  "at": "2026-10-20T23:12:57.135859+08:00",
+  "raw": "Filesystem   1024-blocks      Used  Available Capacity  Mounted on\n/dev/disk3s5   239362496 155306996   37495172    81%    /System/Volumes/Data\n/dev/disk7s1  2000478168 339904256 1660276728    17%    /Volumes/EXTERNAL\n",
+  "unit_bytes": 1024,
+  "volumes": [
+    {
+      "filesystem": "/dev/disk3s5",
+      "available_kib": 37495172,
+      "capacity": "81%",
+      "mount": "/System/Volumes/Data",
+      "available_GiB": 35.758182525634766,
+      "available_TiB": 0.0349201001226902
+    },
+    {
+      "filesystem": "/dev/disk7s1",
+      "available_kib": 1660276728,
+      "capacity": "17%",
+      "mount": "/Volumes/EXTERNAL",
+      "available_GiB": 1583.3632736206055,
+      "available_TiB": 1.5462531968951225
+    }
+  ]
+}

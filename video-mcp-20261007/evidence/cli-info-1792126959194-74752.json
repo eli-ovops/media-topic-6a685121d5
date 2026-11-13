@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\n  \"path\": \"/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T12k-1-preview.mp4\",\n  \"source\": \"/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T12k-1-preview.mp4\",\n  \"sourceKind\": \"local\",\n  \"durationSec\": 3.007,\n  \"width\": 1280,\n  \"height\": 720,\n  \"fps\": 60,\n  \"videoCodec\": \"h264\",\n  \"audioCodec\": \"aac\",\n  \"hasAudio\": true,\n  \"hasVideo\": true,\n  \"bitrate\": 454975,\n  \"sizeBytes\": 171014,\n  \"formatName\": \"mov,mp4 (AVFoundation adapter)\",\n  \"warnings\": []\n}"
+    }
+  ],
+  "structuredContent": {
+    "path": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T12k-1-preview.mp4",
+    "source": "/Volumes/EXTERNAL/自媒体/资产库/FredTalk/组件视频/T12k-1-preview.mp4",
+    "sourceKind": "local",
+    "durationSec": 3.007,
+    "width": 1280,
+    "height": 720,
+    "fps": 60,
+    "videoCodec": "h264",
+    "audioCodec": "aac",
+    "hasAudio": true,
+    "hasVideo": true,
+    "bitrate": 454975,
+    "sizeBytes": 171014,
+    "formatName": "mov,mp4 (AVFoundation adapter)",
+    "warnings": []
+  }
+}

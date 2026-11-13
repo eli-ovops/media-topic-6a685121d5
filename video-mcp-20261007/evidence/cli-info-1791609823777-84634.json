@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\n  \"path\": \"/Users/USER/Downloads/jimeng-2026-10-10-5555-基于已有的Eli个人品牌15秒宣传片进行局部编辑，完全保留0-6.5秒全部已生成....mp4\",\n  \"source\": \"/Users/USER/Downloads/jimeng-2026-10-10-5555-基于已有的Eli个人品牌15秒宣传片进行局部编辑，完全保留0-6.5秒全部已生成....mp4\",\n  \"sourceKind\": \"local\",\n  \"durationSec\": 15.070548752834467,\n  \"width\": 720,\n  \"height\": 1280,\n  \"fps\": 23.986,\n  \"videoCodec\": \"h264\",\n  \"audioCodec\": \"aac\",\n  \"hasAudio\": true,\n  \"hasVideo\": true,\n  \"bitrate\": 7105781,\n  \"sizeBytes\": 13386003,\n  \"formatName\": \"mov,mp4 (AVFoundation adapter)\",\n  \"warnings\": []\n}"
+    }
+  ],
+  "structuredContent": {
+    "path": "/Users/USER/Downloads/jimeng-2026-10-10-5555-基于已有的Eli个人品牌15秒宣传片进行局部编辑，完全保留0-6.5秒全部已生成....mp4",
+    "source": "/Users/USER/Downloads/jimeng-2026-10-10-5555-基于已有的Eli个人品牌15秒宣传片进行局部编辑，完全保留0-6.5秒全部已生成....mp4",
+    "sourceKind": "local",
+    "durationSec": 15.070548752834467,
+    "width": 720,
+    "height": 1280,
+    "fps": 23.986,
+    "videoCodec": "h264",
+    "audioCodec": "aac",
+    "hasAudio": true,
+    "hasVideo": true,
+    "bitrate": 7105781,
+    "sizeBytes": 13386003,
+    "formatName": "mov,mp4 (AVFoundation adapter)",
+    "warnings": []
+  }
+}

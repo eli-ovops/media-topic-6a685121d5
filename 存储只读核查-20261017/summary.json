@@ -1,0 +1,543 @@
+{
+  "checked_at": "2026-10-17T20:15:43.956931",
+  "read_only": true,
+  "deleted_count": 0,
+  "bundle_count": 129,
+  "bundle_allocated_gib": 24.55030059814453,
+  "fred_count": 83,
+  "fred_gib": 23.96539306640625,
+  "qianwen_count": 13,
+  "qianwen_gib": 0.5849075317382812,
+  "empty_count": 33,
+  "bundle_public_gib": 22.52957534790039,
+  "three_media_copies_verified": [
+    {
+      "bundle_copy": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-I75K1d/public/media/fight-positive.mp4",
+      "preserved_project_original": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera/public/media/fight-positive.mp4",
+      "bytes": 37385362,
+      "sha256": "d2df2bfce7e3ea1f5e7457b453df542776b2d8bed604284a3c0f7a55c7abb93d",
+      "same": true
+    },
+    {
+      "bundle_copy": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-I75K1d/public/media/frame-analysis.mp4",
+      "preserved_project_original": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera/public/media/frame-analysis.mp4",
+      "bytes": 35766094,
+      "sha256": "579ad2745e16645457f5f725bbf2750dce1077ebbe0ef9ccd3ffefc972d6e047",
+      "same": true
+    },
+    {
+      "bundle_copy": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-I75K1d/public/prompt.mp4",
+      "preserved_project_original": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera/public/prompt.mp4",
+      "bytes": 23653487,
+      "sha256": "6cb0c490bb7b0ca3d9a2010fef2a85399ece453f2d3bcf981f5b868b88e733e9",
+      "same": true
+    }
+  ],
+  "fred_source_presence_checks": [
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-0BRlFB",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 8,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-0TaiPp",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 8,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-0dqFOo",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 16,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-0yIE3x",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 15,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-2DGqdm",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 8,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-2YoNqi",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 16,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-4O3RGV",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-4iHo2w",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-866SaP",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-8Ld1Fv",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 8,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-9Ifqe4",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 8,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-ATMS0E",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-Aq8gcc",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-BC1Kcx",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 16,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-BzhTby",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 8,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-CNR5fE",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-DEXAEq",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 8,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-DY9kiL",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 15,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-Djp6e0",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-EO5dqH",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-ERBvej",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-G8AgK2",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-GETloK",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-GFg7ek",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-GFySuW",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 15,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-GbX31Q",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-HDWyMc",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-Hww5m7",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-I75K1d",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-IUhKYz",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-JGuCV2",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 8,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-KFv8gY",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-LLYSZk",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-Nm7arY",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-NrR6Dn",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 8,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-NxHiP3",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 6,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-QHgG2Z",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 16,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-RYf6Zx",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 15,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-SJhBET",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-TxxvZU",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-WJp8we",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-X1GoyE",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 16,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-X6DnUh",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-XHZe4Y",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-XO3E7o",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 9,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-YBYRBe",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-YzXmLL",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-Z2kgZA",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 15,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-ZBwkwh",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-aHtLV0",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-c9ycWl",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-cKtkjd",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-cdivIg",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 8,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-d57xhd",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-h0zunl",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-hCeSGo",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 6,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-i8QWZv",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 8,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-j3ZM3x",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-jEQwHQ",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-jI7e98",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-jjSkUa",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-kVPjF3",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-lZjOdD",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 8,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-mcWWi3",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 8,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-miefN9",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-nRfmQD",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 16,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-oXlohv",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-pG4z7R",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 8,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-qOzqaG",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 6,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-qZRbQK",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-sUHsYb",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-saemip",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-t5ZoUt",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-v8IMf2",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-vHvZiS",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-vN86Wq",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 8,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-vtpr9j",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 16,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-wb44JF",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 16,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-wof2rb",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-yfvhK5",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 8,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-ykLS1T",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-zDPA3B",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 7,
+      "missing_source_paths": []
+    },
+    {
+      "bundle": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/remotion-webpack-bundle-zV8lbe",
+      "source_project": "/Volumes/EXTERNAL/自媒体/Fred复刻测试-20261016/7694088597179239690/source-snapshot/FredTalk-1.5-3D/camera",
+      "referenced_source_file_count": 8,
+      "missing_source_paths": []
+    }
+  ],
+  "limits": [
+    "Allocated du sizes not guaranteed reclaimable APFS bytes",
+    "Only three media files hashed against preserved originals; all bundle media not yet individually hashed",
+    "Current lsof/ps snapshot is not a lifetime no-reference proof",
+    "No tutorial original is declared safe merely because a summary exists",
+    "Fred full-site research still incomplete per current README"
+  ]
+}

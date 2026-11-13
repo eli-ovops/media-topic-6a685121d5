@@ -1,0 +1,7 @@
+{
+  "open_file_command_exit": 0,
+  "open_files_matching_exact_candidate_roots": [],
+  "open_file_stderr_present": false,
+  "process_exact_candidate_refs": [],
+  "limitation": "Point-in-time snapshot only. Lazy preview servers may open files on request; not a universal dependency proof. Deletion remains unauthorized this round."
+}

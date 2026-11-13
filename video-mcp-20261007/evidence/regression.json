@@ -1,0 +1,23 @@
+{
+  "passed": true,
+  "samePathSizeAndMtime": true,
+  "contentIdentityChanged": true,
+  "newFrameAndAudio": true,
+  "hashes1": {
+    "frame": "324f3351882da29ad8afd90a3139c6bc998541da35b4dfa1f18ec6abf8e7e946",
+    "audio": "572bc5bb078d59719459373e018c1fd2e0e64ca5298b3f9b5aa8ceb1b8de07c0"
+  },
+  "hashes2": {
+    "frame": "b2ac4cfedfe2496b19a8fe5510f2e93f550b48fb68cc22f054c4e36a1af1cae8",
+    "audio": "55c740b150dc79ce2a6ca9c15944f89c7aa97001633877fc2a1c5945b750f32c"
+  },
+  "timestampRejected": 3,
+  "textPreserved": true,
+  "paths": {
+    "source": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/regression/replacement.mp4",
+    "firstFrame": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/regression/frames/93000e0502ec9ce1/single/at_0_000.jpg",
+    "secondFrame": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/regression/frames/c1d208c79ade122f/single/at_0_000.jpg",
+    "firstAudio": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/regression/audio/93000e0502ec9ce1/audio.wav",
+    "secondAudio": "/Volumes/EXTERNAL/自媒体/工具验证/video-mcp-20261007/evidence/regression/audio/c1d208c79ade122f/audio.wav"
+  }
+}

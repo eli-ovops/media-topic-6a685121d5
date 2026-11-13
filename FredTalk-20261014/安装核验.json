@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-14",
+  "repo": "https://github.com/njrhts2kvv-star/FredTalk",
+  "commit": "f9d16f1adf1ac4938d6152971328fa0141df5232",
+  "skills": [
+    {
+      "skill": "audio-subtitle-roughcut",
+      "global_path": "/Users/USER/.codex/skills/audio-subtitle-roughcut/SKILL.md",
+      "readable": true,
+      "linked_source": "/Users/USER/.codex/skill-repos/FredTalk/skills/audio-subtitle-roughcut/SKILL.md",
+      "adapter_link": true
+    },
+    {
+      "skill": "body-text-motion-effects",
+      "global_path": "/Users/USER/.codex/skills/body-text-motion-effects/SKILL.md",
+      "readable": true,
+      "linked_source": "/Users/USER/.codex/skill-repos/FredTalk/skills/body-text-motion-effects/SKILL.md",
+      "adapter_link": true
+    },
+    {
+      "skill": "cloud-render",
+      "global_path": "/Users/USER/.codex/skills/cloud-render/SKILL.md",
+      "readable": true,
+      "linked_source": "/Users/USER/.codex/skill-repos/FredTalk/skills/cloud-render/SKILL.md",
+      "adapter_link": true
+    },
+    {
+      "skill": "fred-remake",
+      "global_path": "/Users/USER/.codex/skills/fred-remake/SKILL.md",
+      "readable": true,
+      "linked_source": "/Users/USER/.codex/skill-repos/FredTalk/skills/fred-remake/SKILL.md",
+      "adapter_link": true
+    },
+    {
+      "skill": "fred-remotion-output",
+      "global_path": "/Users/USER/.codex/skills/fred-remotion-output/SKILL.md",
+      "readable": true,
+      "linked_source": "/Users/USER/.codex/skill-repos/FredTalk/skills/fred-remotion-output/SKILL.md",
+      "adapter_link": true
+    },
+    {
+      "skill": "fredtalk-deck-motion-pipeline",
+      "global_path": "/Users/USER/.codex/skills/fredtalk-deck-motion-pipeline/SKILL.md",
+      "readable": true,
+      "linked_source": "/Users/USER/.codex/skill-repos/FredTalk/skills/fredtalk-deck-motion-pipeline/SKILL.md",
+      "adapter_link": true
+    },
+    {
+      "skill": "remotion-best-practices",
+      "global_path": "/Users/USER/.codex/skills/remotion-best-practices/SKILL.md",
+      "readable": true,
+      "linked_source": "/Users/USER/.codex/skill-repos/FredTalk/skills/remotion-best-practices/SKILL.md",
+      "adapter_link": true
+    }
+  ],
+  "catalog_smoke": "PASS: 价格返回22候选中的3项",
+  "render_test": "NOT_RUN",
+  "video_analysis": "01_OWNER_IN_PROGRESS_NO_REPORT",
+  "repository_disk_usage": "427MiB (du -sh rounded)",
+  "python_default": "3.9.6; upstream requires3.11+",
+  "node": "22.16.0"
+}

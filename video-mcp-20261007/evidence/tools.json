@@ -1,0 +1,420 @@
+{
+  "tools": [
+    {
+      "name": "video_check_deps",
+      "title": "Check video dependencies",
+      "description": "Verify ffmpeg, ffprobe, yt-dlp, and Whisper backends are available. Call first when setup fails.\n\nReturns dependency name, availability, path, version, and install hints.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {},
+        "$schema": "http://json-schema.org/draft-07/schema#"
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "idempotentHint": true,
+        "openWorldHint": false
+      },
+      "execution": {
+        "taskSupport": "forbidden"
+      }
+    },
+    {
+      "name": "video_info",
+      "title": "Video metadata",
+      "description": "Fast metadata probe (duration, resolution, codecs, audio presence) without transcription or frames.\n\nUse before expensive analysis to plan detail level / time ranges.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "source": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Absolute local path, file:// URI, direct media URL, or platform URL (YouTube/TikTok/etc via yt-dlp)"
+          },
+          "response_format": {
+            "type": "string",
+            "enum": [
+              "markdown",
+              "json"
+            ],
+            "default": "markdown",
+            "description": "Response text format"
+          }
+        },
+        "required": [
+          "source"
+        ],
+        "additionalProperties": false,
+        "$schema": "http://json-schema.org/draft-07/schema#"
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "idempotentHint": true,
+        "openWorldHint": true
+      },
+      "execution": {
+        "taskSupport": "forbidden"
+      }
+    },
+    {
+      "name": "video_transcribe",
+      "title": "Transcribe video audio",
+      "description": "Timestamped transcript from captions (preferred) or local/cloud Whisper.\n\nOrder: sidecar .vtt/.srt → yt-dlp captions → whisper.cpp → whisper CLI → OpenAI Whisper API.\nFast for YouTube (native captions). Local files need Whisper or a sidecar caption file.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "source": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Absolute local path, file:// URI, direct media URL, or platform URL (YouTube/TikTok/etc via yt-dlp)"
+          },
+          "language": {
+            "type": "string",
+            "description": "Language code hint for Whisper (e.g. en, es, pt)"
+          },
+          "force_whisper": {
+            "type": "boolean",
+            "default": false,
+            "description": "Skip captions and force ASR"
+          },
+          "response_format": {
+            "type": "string",
+            "enum": [
+              "markdown",
+              "json"
+            ],
+            "default": "markdown",
+            "description": "Response text format"
+          }
+        },
+        "required": [
+          "source"
+        ],
+        "additionalProperties": false,
+        "$schema": "http://json-schema.org/draft-07/schema#"
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "idempotentHint": true,
+        "openWorldHint": true
+      },
+      "execution": {
+        "taskSupport": "forbidden"
+      }
+    },
+    {
+      "name": "video_get_frame",
+      "title": "Get frame at timestamp",
+      "description": "Extract a single JPEG frame at a timestamp (seconds). Returns file path and an inline image for vision-capable clients.\n\nUse after reading a transcript to inspect a specific moment.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "source": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Absolute local path, file:// URI, direct media URL, or platform URL (YouTube/TikTok/etc via yt-dlp)"
+          },
+          "time_sec": {
+            "type": "number",
+            "minimum": 0,
+            "description": "Timestamp in seconds"
+          },
+          "inline_image": {
+            "type": "boolean",
+            "default": true,
+            "description": "Include base64 image content block"
+          }
+        },
+        "required": [
+          "source",
+          "time_sec"
+        ],
+        "additionalProperties": false,
+        "$schema": "http://json-schema.org/draft-07/schema#"
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "idempotentHint": true,
+        "openWorldHint": true
+      },
+      "execution": {
+        "taskSupport": "forbidden"
+      }
+    },
+    {
+      "name": "video_get_frame_burst",
+      "title": "Burst frames in time range",
+      "description": "Extract N frames across a short time window for motion, UI transitions, or animations.\n\nPrefer narrow windows (e.g. 0.5–3s) with 4–16 frames.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "source": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Absolute local path, file:// URI, direct media URL, or platform URL (YouTube/TikTok/etc via yt-dlp)"
+          },
+          "start_sec": {
+            "type": "number",
+            "minimum": 0
+          },
+          "end_sec": {
+            "type": "number",
+            "minimum": 0
+          },
+          "count": {
+            "type": "integer",
+            "minimum": 2,
+            "maximum": 30,
+            "default": 8
+          },
+          "inline_images": {
+            "type": "boolean",
+            "default": true
+          },
+          "response_format": {
+            "type": "string",
+            "enum": [
+              "markdown",
+              "json"
+            ],
+            "default": "markdown",
+            "description": "Response text format"
+          }
+        },
+        "required": [
+          "source",
+          "start_sec",
+          "end_sec"
+        ],
+        "additionalProperties": false,
+        "$schema": "http://json-schema.org/draft-07/schema#"
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "idempotentHint": true,
+        "openWorldHint": true
+      },
+      "execution": {
+        "taskSupport": "forbidden"
+      }
+    },
+    {
+      "name": "video_extract_frames",
+      "title": "Extract key frames",
+      "description": "Extract representative JPEG frames via scene-change detection and/or interval sampling.\n\nModes: scene (visual cuts), interval (uniform), both (default fallback). Returns paths always; inline images for vision clients (capped).",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "source": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Absolute local path, file:// URI, direct media URL, or platform URL (YouTube/TikTok/etc via yt-dlp)"
+          },
+          "detail": {
+            "type": "string",
+            "enum": [
+              "brief",
+              "standard",
+              "detailed"
+            ],
+            "default": "standard",
+            "description": "brief=metadata+transcript only; standard=scene frames+transcript; detailed=dense frames"
+          },
+          "max_frames": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 60
+          },
+          "mode": {
+            "type": "string",
+            "enum": [
+              "scene",
+              "interval",
+              "both"
+            ],
+            "default": "both"
+          },
+          "start_sec": {
+            "type": "number",
+            "minimum": 0
+          },
+          "end_sec": {
+            "type": "number",
+            "minimum": 0
+          },
+          "inline_images": {
+            "type": "boolean",
+            "default": true
+          },
+          "response_format": {
+            "type": "string",
+            "enum": [
+              "markdown",
+              "json"
+            ],
+            "default": "markdown",
+            "description": "Response text format"
+          }
+        },
+        "required": [
+          "source"
+        ],
+        "additionalProperties": false,
+        "$schema": "http://json-schema.org/draft-07/schema#"
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "idempotentHint": true,
+        "openWorldHint": true
+      },
+      "execution": {
+        "taskSupport": "forbidden"
+      }
+    },
+    {
+      "name": "video_analyze",
+      "title": "Full video analysis",
+      "description": "Most powerful one-shot tool: resolve source → probe → transcript + keyframes (parallel) → OCR on-screen text → merged timeline + agent summary.\n\nPrefer this when the user asks to \"watch\", \"summarize\", or \"understand\" a video.\nUse detail=brief for long lectures when only speech matters; detailed for short UI demos.\n\nReturns: at-a-glance summary, metadata, transcript, OCR text, frame paths (+ evenly spaced inline thumbs), timeline, warnings.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "source": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Absolute local path, file:// URI, direct media URL, or platform URL (YouTube/TikTok/etc via yt-dlp)"
+          },
+          "detail": {
+            "type": "string",
+            "enum": [
+              "brief",
+              "standard",
+              "detailed"
+            ],
+            "default": "standard",
+            "description": "brief=metadata+transcript only; standard=scene frames+transcript; detailed=dense frames"
+          },
+          "max_frames": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 60
+          },
+          "language": {
+            "type": "string"
+          },
+          "start_sec": {
+            "type": "number",
+            "minimum": 0
+          },
+          "end_sec": {
+            "type": "number",
+            "minimum": 0
+          },
+          "skip_frames": {
+            "type": "boolean",
+            "default": false
+          },
+          "skip_transcript": {
+            "type": "boolean",
+            "default": false
+          },
+          "skip_ocr": {
+            "type": "boolean",
+            "default": false,
+            "description": "Skip tesseract OCR on keyframes"
+          },
+          "force_refresh": {
+            "type": "boolean",
+            "default": false
+          },
+          "mode": {
+            "type": "string",
+            "enum": [
+              "scene",
+              "interval",
+              "both"
+            ]
+          },
+          "inline_images": {
+            "type": "boolean",
+            "default": true
+          },
+          "response_format": {
+            "type": "string",
+            "enum": [
+              "markdown",
+              "json"
+            ],
+            "default": "markdown",
+            "description": "Response text format"
+          }
+        },
+        "required": [
+          "source"
+        ],
+        "additionalProperties": false,
+        "$schema": "http://json-schema.org/draft-07/schema#"
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "idempotentHint": true,
+        "openWorldHint": true
+      },
+      "execution": {
+        "taskSupport": "forbidden"
+      }
+    },
+    {
+      "name": "video_search_transcript",
+      "title": "Search within transcript",
+      "description": "Transcribe (or reuse captions) then return segments matching a query string (case-insensitive).\n\nUseful for long videos: find when a topic is mentioned, then video_get_frame at that timestamp.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "source": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Absolute local path, file:// URI, direct media URL, or platform URL (YouTube/TikTok/etc via yt-dlp)"
+          },
+          "query": {
+            "type": "string",
+            "minLength": 1,
+            "description": "Substring or keywords to find"
+          },
+          "language": {
+            "type": "string"
+          },
+          "response_format": {
+            "type": "string",
+            "enum": [
+              "markdown",
+              "json"
+            ],
+            "default": "markdown",
+            "description": "Response text format"
+          }
+        },
+        "required": [
+          "source",
+          "query"
+        ],
+        "additionalProperties": false,
+        "$schema": "http://json-schema.org/draft-07/schema#"
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "idempotentHint": true,
+        "openWorldHint": true
+      },
+      "execution": {
+        "taskSupport": "forbidden"
+      }
+    }
+  ]
+}

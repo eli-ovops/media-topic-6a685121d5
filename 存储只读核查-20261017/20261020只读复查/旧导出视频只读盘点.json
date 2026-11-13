@@ -1,0 +1,281 @@
+{
+  "classification": "NOT_APPROVED_FOR_DELETION; possible original/final/accepted/evidence dependencies require separate per-item validation",
+  "rows": [
+    {
+      "project_root": "ai-contrarian-20261019/02_制作/fred-v5",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-contrarian-20261019/02_制作/fred-v5/stage-A-r3.mp4",
+      "bytes": 6877625,
+      "allocated_kib": 6720.0
+    },
+    {
+      "project_root": "ai-contrarian-20261019/02_制作/fred-v5",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-contrarian-20261019/02_制作/fred-v5/stage-A-silent-r3-final.mp4",
+      "bytes": 7326040,
+      "allocated_kib": 7156.0
+    },
+    {
+      "project_root": "ai-contrarian-20261019/02_制作/fred-v5",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-contrarian-20261019/02_制作/fred-v5/stage-A-r2.mp4",
+      "bytes": 6658905,
+      "allocated_kib": 6504.0
+    },
+    {
+      "project_root": "ai-contrarian-20261019/02_制作/fred-v5",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-contrarian-20261019/02_制作/fred-v5/stage-A-silent.mp4",
+      "bytes": 7102390,
+      "allocated_kib": 6936.0
+    },
+    {
+      "project_root": "ai-contrarian-20261019/02_制作/fred-v5",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-contrarian-20261019/02_制作/fred-v5/stage-A-silent-r2.mp4",
+      "bytes": 7107320,
+      "allocated_kib": 6944.0
+    },
+    {
+      "project_root": "ai-contrarian-20261019/02_制作/fred-v5",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-contrarian-20261019/02_制作/fred-v5/stage-A-silent-r3.mp4",
+      "bytes": 7284426,
+      "allocated_kib": 7116.0
+    },
+    {
+      "project_root": "ai-contrarian-20261019/02_制作/fred-v5",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-contrarian-20261019/02_制作/fred-v5/stage-A.mp4",
+      "bytes": 6653975,
+      "allocated_kib": 6500.0
+    },
+    {
+      "project_root": "ai-contrarian-20261019/02_制作/fred-v5",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-contrarian-20261019/02_制作/fred-v5/r5-fix1/patch-return.mp4",
+      "bytes": 58071,
+      "allocated_kib": 60.0
+    },
+    {
+      "project_root": "ai-contrarian-20261019/02_制作/fred-v5",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-contrarian-20261019/02_制作/fred-v5/r5-fix1/silent.mp4",
+      "bytes": 50574791,
+      "allocated_kib": 49392.0
+    },
+    {
+      "project_root": "ai-contrarian-20261019/02_制作/fred-v5",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-contrarian-20261019/02_制作/fred-v5/r4/representative-r4.mp4",
+      "bytes": 2685213,
+      "allocated_kib": 2624.0
+    },
+    {
+      "project_root": "ai-contrarian-20261019/02_制作/fred-v5",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-contrarian-20261019/02_制作/fred-v5/r4/representative-r4-silent.mp4",
+      "bytes": 3392579,
+      "allocated_kib": 3316.0
+    },
+    {
+      "project_root": "ai-contrarian-20261019/02_制作/fred-v5",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-contrarian-20261019/02_制作/fred-v5/r4/full/full-r4-silent.mp4",
+      "bytes": 65751340,
+      "allocated_kib": 64212.0
+    },
+    {
+      "project_root": "ai-contrarian-20261019/02_制作/fred-v5",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-contrarian-20261019/02_制作/fred-v5/r4/full/full-r4-silent-fixed.mp4",
+      "bytes": 59163039,
+      "allocated_kib": 57780.0
+    },
+    {
+      "project_root": "ai-contrarian-20261019/02_制作/fred-v5",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-contrarian-20261019/02_制作/fred-v5/r4/full/intro-fixed-silent.mp4",
+      "bytes": 4801354,
+      "allocated_kib": 4692.0
+    },
+    {
+      "project_root": "ai-contrarian-20261019/02_制作/fred-v5",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-contrarian-20261019/02_制作/fred-v5/r4/fix1/fix1-silent.mp4",
+      "bytes": 54393906,
+      "allocated_kib": 53120.0
+    },
+    {
+      "project_root": "ai-contrarian-20261019/02_制作/fred-v5",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-contrarian-20261019/02_制作/fred-v5/r4/fix1/patch-return.mp4",
+      "bytes": 414531,
+      "allocated_kib": 408.0
+    },
+    {
+      "project_root": "ai-contrarian-20261019/02_制作/fred-v5",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-contrarian-20261019/02_制作/fred-v5/r4/fix1/patch-intro.mp4",
+      "bytes": 2835594,
+      "allocated_kib": 2772.0
+    },
+    {
+      "project_root": "ai-contrarian-20261019/02_制作/fred-v5",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-contrarian-20261019/02_制作/fred-v5/r4/fix1/patch-end.mp4",
+      "bytes": 311189,
+      "allocated_kib": 304.0
+    },
+    {
+      "project_root": "ai-contrarian-20261019/02_制作/fred-v5",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-contrarian-20261019/02_制作/fred-v5/reference/previews/T12h-1-preview.mp4",
+      "bytes": 125964,
+      "allocated_kib": 124.0
+    },
+    {
+      "project_root": "ai-contrarian-20261019/02_制作/fred-v5",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-contrarian-20261019/02_制作/fred-v5/reference/previews/T08b-1-preview.mp4",
+      "bytes": 703095,
+      "allocated_kib": 688.0
+    },
+    {
+      "project_root": "ai-contrarian-20261019/02_制作/fred-v5",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-contrarian-20261019/02_制作/fred-v5/reference/previews/HD02-1-preview.mp4",
+      "bytes": 5321742,
+      "allocated_kib": 5200.0
+    },
+    {
+      "project_root": "ai-contrarian-20261019/02_制作/fred-v5",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-contrarian-20261019/02_制作/fred-v5/r5/patch-middle.mp4",
+      "bytes": 11466461,
+      "allocated_kib": 11200.0
+    },
+    {
+      "project_root": "ai-contrarian-20261019/02_制作/fred-v5",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-contrarian-20261019/02_制作/fred-v5/r5/r5-silent.mp4",
+      "bytes": 53283674,
+      "allocated_kib": 52036.0
+    },
+    {
+      "project_root": "ai-contrarian-20261019/02_制作/fred-v5",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-contrarian-20261019/02_制作/fred-v5/r5/patch-intro.mp4",
+      "bytes": 116734,
+      "allocated_kib": 116.0
+    },
+    {
+      "project_root": "ai-contrarian-20261019/02_制作/fred-v5",
+      "path": "/Volumes/EXTERNAL/自媒体/ai-contrarian-20261019/02_制作/fred-v5/r5/patch-end.mp4",
+      "bytes": 24119,
+      "allocated_kib": 24.0
+    },
+    {
+      "project_root": "workbuddy-test-20261015/flow/04",
+      "path": "/Volumes/EXTERNAL/自媒体/workbuddy-test-20261015/flow/04/fred-v5/WorkBuddy-Fred-v5.mp4",
+      "bytes": 2741701,
+      "allocated_kib": 2680.0
+    },
+    {
+      "project_root": "workbuddy-test-20261015/flow/04",
+      "path": "/Volumes/EXTERNAL/自媒体/workbuddy-test-20261015/flow/04/fred-v5/WorkBuddy-Fred-v5-r1.mp4",
+      "bytes": 2616065,
+      "allocated_kib": 2556.0
+    },
+    {
+      "project_root": "workbuddy-test-20261015/flow/04",
+      "path": "/Volumes/EXTERNAL/自媒体/workbuddy-test-20261015/flow/04/exports/patch-web.mp4",
+      "bytes": 409614,
+      "allocated_kib": 404.0
+    },
+    {
+      "project_root": "workbuddy-test-20261015/flow/04",
+      "path": "/Volumes/EXTERNAL/自媒体/workbuddy-test-20261015/flow/04/exports/patch-plan.mp4",
+      "bytes": 127404,
+      "allocated_kib": 128.0
+    },
+    {
+      "project_root": "workbuddy-test-20261015/flow/04",
+      "path": "/Volumes/EXTERNAL/自媒体/workbuddy-test-20261015/flow/04/exports/WorkBuddy-result-v4.1.mp4",
+      "bytes": 2071281,
+      "allocated_kib": 2024.0
+    },
+    {
+      "project_root": "workbuddy-test-20261015/flow/04",
+      "path": "/Volumes/EXTERNAL/自媒体/workbuddy-test-20261015/flow/04/exports/WorkBuddy-result-v4.mp4",
+      "bytes": 3249867,
+      "allocated_kib": 3176.0
+    },
+    {
+      "project_root": "workbuddy-test-20261015/flow/04",
+      "path": "/Volumes/EXTERNAL/自媒体/workbuddy-test-20261015/flow/04/exports/WorkBuddy-rough-v2.mp4",
+      "bytes": 3419394,
+      "allocated_kib": 3340.0
+    },
+    {
+      "project_root": "workbuddy-test-20261015/flow/04",
+      "path": "/Volumes/EXTERNAL/自媒体/workbuddy-test-20261015/flow/04/exports/WorkBuddy-rough-v3.mp4",
+      "bytes": 2109407,
+      "allocated_kib": 2060.0
+    },
+    {
+      "project_root": "workbuddy-test-20261015/flow/04",
+      "path": "/Volumes/EXTERNAL/自媒体/workbuddy-test-20261015/flow/04/exports/WorkBuddy-rough-v1.mp4",
+      "bytes": 3053160,
+      "allocated_kib": 2984.0
+    },
+    {
+      "project_root": "doubao-app-rejection-20261016/03_制作过程/remotion",
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/before-color-fix.mp4",
+      "bytes": 40971260,
+      "allocated_kib": 40012.0
+    },
+    {
+      "project_root": "doubao-app-rejection-20261016/03_制作过程/remotion",
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/film-picture-audio.mp4",
+      "bytes": 50721538,
+      "allocated_kib": 49536.0
+    },
+    {
+      "project_root": "doubao-app-rejection-20261016/03_制作过程/remotion",
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/render/first-delivery-pre-sync.mp4",
+      "bytes": 40934058,
+      "allocated_kib": 39976.0
+    },
+    {
+      "project_root": "doubao-app-rejection-20261016/03_制作过程/remotion",
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/color-test.mp4",
+      "bytes": 28959,
+      "allocated_kib": 32.0
+    },
+    {
+      "project_root": "doubao-app-rejection-20261016/03_制作过程/remotion",
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v1/qc/representative.mp4",
+      "bytes": 662408,
+      "allocated_kib": 648.0
+    },
+    {
+      "project_root": "doubao-app-rejection-20261016/03_制作过程/remotion",
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v2/render/ending.mp4",
+      "bytes": 667866,
+      "allocated_kib": 656.0
+    },
+    {
+      "project_root": "doubao-app-rejection-20261016/03_制作过程/remotion",
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v2/render/news.mp4",
+      "bytes": 309213,
+      "allocated_kib": 304.0
+    },
+    {
+      "project_root": "doubao-app-rejection-20261016/03_制作过程/remotion",
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v2/render/assembly-first-qc-failed.mp4",
+      "bytes": 38768527,
+      "allocated_kib": 37860.0
+    },
+    {
+      "project_root": "doubao-app-rejection-20261016/03_制作过程/remotion",
+      "path": "/Volumes/EXTERNAL/自媒体/doubao-app-rejection-20261016/03_制作过程/remotion/v3/render/Q01.mp4",
+      "bytes": 193773,
+      "allocated_kib": 192.0
+    },
+    {
+      "project_root": "motion-model-comparison-20261013/astra-max/evidence",
+      "path": "/Volumes/EXTERNAL/自媒体/motion-model-comparison-20261013/astra-max/evidence/revision-1-full/candidate.mp4",
+      "bytes": 10966383,
+      "allocated_kib": 10712.0
+    },
+    {
+      "project_root": "motion-model-comparison-20261013/astra-max/evidence",
+      "path": "/Volumes/EXTERNAL/自媒体/motion-model-comparison-20261013/astra-max/evidence/revision-1-full/visual-render.mp4",
+      "bytes": 10592083,
+      "allocated_kib": 10344.0
+    },
+    {
+      "project_root": "motion-model-comparison-20261013/astra-max/evidence",
+      "path": "/Volumes/EXTERNAL/自媒体/motion-model-comparison-20261013/astra-max/evidence/tmp/react-motion-renderKNyGvZ/pre-encode.mp4",
+      "bytes": 4718640,
+      "allocated_kib": 4612.0
+    }
+  ]
+}

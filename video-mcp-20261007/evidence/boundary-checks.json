@@ -1,0 +1,20 @@
+{
+  "outside": {
+    "content": [
+      {
+        "type": "text",
+        "text": "Error: Media path is outside the explicit allowlist"
+      }
+    ],
+    "isError": true
+  },
+  "url": {
+    "content": [
+      {
+        "type": "text",
+        "text": "Error: Network media input disabled in this local-only build"
+      }
+    ],
+    "isError": true
+  }
+}

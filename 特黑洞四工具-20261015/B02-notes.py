@@ -1,0 +1,27 @@
+# coding: utf-8
+from 记录已读 import record
+notes={
+'pdoom-video/references/library/ANIMATION_GUIDE.md':'逐帧乱序纯函数、hash/jit12Hz手绘沸腾；完整画背景，镜头一次配对；字幕975—1070安全带；动作每0.1秒检查。上游并行指令不生效。',
+'pdoom-video/references/library/README.md':'作者说两轮生成及模型自产；p5/brush九章+共享角色；歌曲外部来源非授权，当前安装无assets歌曲，不执行render。',
+'pdoom-video/references/library/STORYBOARD.md':'九章剧场失控再揭幕回收；同舞台四次升级；咬合黑场接嘴形iris、心泡破裂、落地接回形针堆、方块穿地等动机衔接；每镜发生动作而非贴字。',
+'pdoom-video/references/library/package.json':'p5^2.3.3/p5.brush^2.2.3/puppeteer-core^25.11.0；test为明确失败占位；ISC仅声明。',
+'pdoom-video/SOURCE.json':'固定fa546a38092e75f2b079e6a86d6abc54dd525d17；local adapter/runtime=false。',
+'pdoom-video/references/library/src/timeline.js':'CH按开始排序选择镜头；METER分段beat阶梯；WIPE_TR=.3覆盖中点换场后揭开；文字延后合成；卡拉OK按字符估时非词级ASR。',
+'pdoom-video/references/library/render.mjs':'默认Windows Chrome+d3d11、24fps；seek renderAt乱序并行、JPEG原子tmp改名断点续渲；loop不重复尾帧；encode帧数仅数文件未验证连续，clip FFmpeg close未核非零可误报wrote。',
+'pdoom-video/references/library/studio.html':'固定1920x1080与远程Google字体；p5/brush及九章script顺序；没有本地完整运行时，不承诺离线可开。',
+'pdoom-video/references/library/.gitignore':'忽略node_modules/out/assets源mp4；不代表授权删除这些目录。',
+'lemo-opuscar/references/library/AGENTS.md':'先原创treatment再demo，以风格语法不借剧情；style固定与用户偏好冲突以用户为准；上游先deps/全风格清单/问卷不在本研究执行。',
+'lemo-opuscar/references/library/DIRECTOR.md':'单主体目标转折，3秒hook；三种结构比较；每动作预备跟随，交接物在掌间；24fps横屏、-14LUFS、每动作声/两静默/四机位均是可覆盖默认，不能机械增门禁。',
+'lemo-opuscar/references/library/TECHNIQUE.md':'render(t)/READY/DUR/EV/TEXTS统一时间；twos角色但平滑相机，world→screen绑定iris；字幕/音频同时间源；正交相机景深公式要换；字体本地化，3D/voice/music工具大部分未安装。',
+'lemo-opuscar/references/library/core/README.md':'renderer等待READY180秒、TEXTS完整文字测可读时长；optional图片字体缺失可只警告，因此exit0不能代视觉验收；mux两遍-14LUFS/-1.2TP、音轨补裁；本轮未执行工具。',
+'lemo-opuscar/references/library/README.md':'完整读含43风格各demo简介、98 styles外部展示但本地不含98工程；模型适配/30—60分钟是作者声明，MIT不覆盖第三方资产。',
+'lemo-opuscar/references/library/styles/README.md':'完整43中英文名/目录映射；画风、信息、游戏、材质等九组；导航非已读43 STYLE。',
+'lemo-opuscar/references/library/styles/_template/STYLE.md':'固定11节材料/颜色/字/动作/镜头/声音/native moves/坑/engine/variation；故事和BPM留demo，每native move至少三个不同用途。',
+'lemo-opuscar/references/library/package.json':'Node>=20/type module/playwright-core^1.63.0/three^0.170.0，配置存在非已安装。',
+'lemo-opuscar/references/library/requirements.txt':'core numpy/scipy/soundfile/soxr/pillow，无voice/music额外tier。',
+'lemo-opuscar/SOURCE.json':'固定fdc46d7f0e20cc953a71d56241a92d1b4cb7298e，native-skill-with-codex-adapter/runtime=false。',
+'lemo-opuscar/references/library/LICENSE':'MIT许可保留版权/许可及无担保条款，不扩大第三方媒体授权。'}
+record(notes,'B02')
+from pathlib import Path
+import json
+(Path(__file__).parent/'B02逐文件笔记.json').write_text(json.dumps(notes,ensure_ascii=False,indent=2))

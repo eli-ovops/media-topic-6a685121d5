@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\n  \"path\": \"/Users/USER/Downloads/eli素材-未用“HEL....mp4\",\n  \"source\": \"/Users/USER/Downloads/eli素材-未用“HEL....mp4\",\n  \"sourceKind\": \"local\",\n  \"durationSec\": 15.070548752834467,\n  \"width\": 720,\n  \"height\": 1280,\n  \"fps\": 24,\n  \"videoCodec\": \"h264\",\n  \"audioCodec\": \"aac\",\n  \"hasAudio\": true,\n  \"hasVideo\": true,\n  \"bitrate\": 7293122,\n  \"sizeBytes\": 13738919,\n  \"formatName\": \"mov,mp4 (AVFoundation adapter)\",\n  \"warnings\": []\n}"
+    }
+  ],
+  "structuredContent": {
+    "path": "/Users/USER/Downloads/eli素材-未用“HEL....mp4",
+    "source": "/Users/USER/Downloads/eli素材-未用“HEL....mp4",
+    "sourceKind": "local",
+    "durationSec": 15.070548752834467,
+    "width": 720,
+    "height": 1280,
+    "fps": 24,
+    "videoCodec": "h264",
+    "audioCodec": "aac",
+    "hasAudio": true,
+    "hasVideo": true,
+    "bitrate": 7293122,
+    "sizeBytes": 13738919,
+    "formatName": "mov,mp4 (AVFoundation adapter)",
+    "warnings": []
+  }
+}

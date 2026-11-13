@@ -1,0 +1,47 @@
+{
+  "stage": "B05-B08",
+  "status": "INCOMPLETE_CHECKPOINT",
+  "counts": {
+    "exact_hash_duplicate": 2,
+    "full_text_read": 225,
+    "structure_checked": 1,
+    "unread": 589
+  },
+  "by_skill": {
+    "lemo-opuscar": {
+      "full_text_read": 22,
+      "exact_hash_duplicate": 2,
+      "unread": 35
+    },
+    "awesome-opus5-5-videos": {
+      "full_text_read": 165,
+      "unread": 544
+    },
+    "pdoom-video": {
+      "full_text_read": 16,
+      "unread": 10,
+      "structure_checked": 1
+    },
+    "opus-video-prompts": {
+      "full_text_read": 22
+    }
+  },
+  "source_hashes_unchanged": true,
+  "changed": [],
+  "media_viewed": 0,
+  "third_party_code_executed": false,
+  "model_actual": "UNKNOWN",
+  "effort_actual": "UNKNOWN",
+  "speed_actual": "UNKNOWN",
+  "next": {
+    "next_path": "/Volumes/EXTERNAL/自媒体/.agents/skills/awesome-opus5-5-videos/references/library/prompts/cyrilxbt-149036.md",
+    "next_range": "prompt161 line1 onward; first160 complete; data/videos.json remains unread",
+    "other_next": {
+      "lemo": "styles/brick-toy/STYLE.md line1; art-deco/ascii-crt/backrooms/blueprint plus four previous full read",
+      "pdoom": "src/ch/c02_chorus1.js char0; c01 and all shared src full read, lock structure checked"
+    },
+    "target": "all 815 independent SHA contents and mappings for817 files",
+    "do_not_touch": "04 v6/skills/shared state",
+    "reported_completion": false
+  }
+}

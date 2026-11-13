@@ -1,0 +1,7 @@
+{
+  "lemo-opuscar/references/library/styles/dark-keynote/STYLE.md": "近黑三层面板和单accent；积累乱UI→沿弧线归类/吸附网格；源UI扩成转场、光扫只显扫过像素；2.5D近物模糊、条带投影重alpha会接缝；24fps/无淡出/每击声非本项目硬约束。",
+  "lemo-opuscar/references/library/styles/living-screencast/STYLE.md": "高分辨率重绘UI与低分辨率像素演员分两层；DOM每帧测量top-edge锚点，跟随光标推近/两窗甩镜；是重绘非真实录屏，不能作为实测证据；blur挂未变换wrapper。",
+  "lemo-opuscar/references/library/styles/swiss-motion/STYLE.md": "12列/24基线、单信号色与一个脱网格例外；clip reveal/knife cut/reflow按距离先后；.7,0,.2,1精确曲线无弹簧；旋转后停再标签，拼条overdraw1px消缝。",
+  "lemo-opuscar/references/library/styles/dataviz/STYLE.md": "一标记一事实，数据空间固定注解+memory zone防缩放碰撞；数值色阶不夸大；轴随单位出现、标记编码morph而非换页；相机同纸面；音高映射数值非装饰。",
+  "pdoom-video/references/library/src/core.js": "setup等待字体；renderAt(t)每次重置文字/相机/字幕状态并randomSeed(1000+floor(t*12))；toScreen统一镜头位置；irisShape向外扇形遮罩；flushLetters先强制brush合成再叠字，避免后景盖字。"
+}

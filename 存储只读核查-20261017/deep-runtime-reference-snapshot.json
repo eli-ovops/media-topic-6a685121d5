@@ -1,0 +1,29 @@
+{
+  "timestamp": "2026-10-17T20:20:53.743602+08:00",
+  "ps_returncode": 0,
+  "cwd_lsof_returncode": 0,
+  "related_processes": [],
+  "node_python_listeners": [
+    {
+      "pid": 981,
+      "command": "node",
+      "address": "127.0.0.1:3080",
+      "cwd": "/Volumes/EXTERNAL/deepseek-harness",
+      "scripts": [
+        "bin.ts"
+      ]
+    },
+    {
+      "pid": 52672,
+      "command": "node",
+      "address": "127.0.0.1:56442",
+      "cwd": "/Volumes/EXTERNAL/自媒体/content-workbench",
+      "scripts": [
+        "server.mjs"
+      ]
+    }
+  ],
+  "exact_bundle_references_in_current_project_files": [],
+  "bounded_text_files_checked": 167,
+  "limits": "No processes stopped. Current-process/file checks do not prove absence of all possible future references; listener routes inspected separately if relevant."
+}

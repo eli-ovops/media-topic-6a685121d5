@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-10-17T20:14:29.143578",
+  "ps_returncode": 0,
+  "process_argument_bundle_matches": [],
+  "lsof_returncode": 0,
+  "lsof_errors": "",
+  "open_bundle_files": [],
+  "limit": "Single current-process snapshot; no listed handles does not prove global idleness or no HTTP/browser references. No programs stopped."
+}
